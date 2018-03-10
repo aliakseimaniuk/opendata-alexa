@@ -16,7 +16,7 @@ func main() {
 	router := mux.NewRouter()
 	router.HandleFunc("/opendata/airports", getOpenDataAirports).Methods("GET")
 
-	log.Fatal(http.ListenAndServe(":8000", router))
+	log.Fatal(http.ListenAndServe(getPort(), router))
 }
 
 // Airport model.
