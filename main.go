@@ -3,9 +3,11 @@ package main
 import (
 	"bytes"
 	"encoding/json"
+	"fmt"
 	"io/ioutil"
 	"log"
 	"net/http"
+	"os"
 
 	"github.com/gorilla/mux"
 )
@@ -47,4 +49,14 @@ func getOpenDataAirports(w http.ResponseWriter, r *http.Request) {
 	}
 
 	w.Write(buffer.Bytes())
+}
+
+func getPort() string {
+	var port = os.Getenv("ALEXAPORT")
+	if port == "" {
+		port = "8000"
+		fmt.Println("INFO: No PORT environment variable detected, defaulting to " + port)
+	}
+
+	return ":" + port
 }
