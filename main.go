@@ -8,6 +8,7 @@ import (
 	"log"
 	"net/http"
 	"os"
+	"strings"
 
 	"github.com/gorilla/mux"
 )
@@ -53,7 +54,7 @@ func getOpenDataAirports(w http.ResponseWriter, r *http.Request) {
 		}
 	}
 
-	airports := Airports{AirportsNames: buffer.String()}
+	airports := Airports{AirportsNames: strings.Replace(buffer.String(), "&", "and", -1)}
 	err = json.NewEncoder(w).Encode(airports)
 	if err != nil {
 		http.Error(w, err.Error(), http.StatusInternalServerError)
