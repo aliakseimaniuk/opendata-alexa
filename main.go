@@ -1,16 +1,14 @@
 package main
 
 import (
+	"bytes"
+	"encoding/json"
 	"io/ioutil"
 	"log"
 	"net/http"
-	"time"
 
 	"github.com/gorilla/mux"
-	cache "github.com/patrickmn/go-cache"
 )
-
-var c = cache.New(30*time.Minute, 60*time.Minute)
 
 func main() {
 	router := mux.NewRouter()
@@ -19,23 +17,34 @@ func main() {
 	log.Fatal(http.ListenAndServe(":8000", router))
 }
 
+// Airport model.
+type Airport struct {
+	Name string
+}
+
 func getOpenDataAirports(w http.ResponseWriter, r *http.Request) {
-	var airportURL = "https://data.delaware.gov/api/views/mh8v-eba6/rows.json?accessType=DOWNLOAD"
-	var airportJsonKey = "airportJson"
-
-	airportJsonData, found := c.Get(airportJsonKey)
-	if found {
-		json := airportJsonData.(string)
-		w.Write([]byte(json))
-	} else {
-		resp, err := http.Get(airportURL)
-		if err != nil {
-			http.Error(w, err.Error(), http.StatusInternalServerError)
-			return
-		}
-
-		body, err := ioutil.ReadAll(resp.Body)
-		c.Set(airportJsonKey, string(body[:]), cache.DefaultExpiration)
-		w.Write(body)
+	var airportURL = "https://data.delaware.gov/resource/mh8v-eba6.json?$select=name"
+	resp, err := http.Get(airportURL)
+	if err != nil {
+		http.Error(w, err.Error(), http.StatusInternalServerError)
+		return
 	}
+
+	body, err := ioutil.ReadAll(resp.Body)
+	if err != nil {
+		http.Error(w, err.Error(), http.StatusInternalServerError)
+		return
+	}
+
+	a := make([]Airport, 0)
+	json.Unmarshal(body, &a)
+	var buffer bytes.Buffer
+	for i := range a {
+		buffer.WriteString(a[i].Name)
+		if i != len(a)-1 {
+			buffer.WriteString(", ")
+		}
+	}
+
+	w.Write(buffer.Bytes())
 }
