@@ -52,7 +52,7 @@ func getOpenDataAirports(w http.ResponseWriter, r *http.Request) {
 }
 
 func getPort() string {
-	var port = os.Getenv("ALEXAPORT")
+	var port = os.Getenv("PORT")
 	if port == "" {
 		port = "8000"
 		fmt.Println("INFO: No PORT environment variable detected, defaulting to " + port)
