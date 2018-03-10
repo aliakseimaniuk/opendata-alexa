@@ -24,6 +24,11 @@ type Airport struct {
 	Name string
 }
 
+// Airports model.
+type Airports struct {
+	AirportsNames string
+}
+
 func getOpenDataAirports(w http.ResponseWriter, r *http.Request) {
 	var airportURL = "https://data.delaware.gov/resource/mh8v-eba6.json?$select=name"
 	resp, err := http.Get(airportURL)
@@ -48,7 +53,12 @@ func getOpenDataAirports(w http.ResponseWriter, r *http.Request) {
 		}
 	}
 
-	w.Write(buffer.Bytes())
+	airports := Airports{AirportsNames: buffer.String()}
+	err = json.NewEncoder(w).Encode(airports)
+	if err != nil {
+		http.Error(w, err.Error(), http.StatusInternalServerError)
+		return
+	}
 }
 
 func getPort() string {
