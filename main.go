@@ -45,7 +45,12 @@ func getOpenDataAirports(w http.ResponseWriter, r *http.Request) {
 	}
 
 	a := make([]Airport, 0)
-	json.Unmarshal(body, &a)
+	err = json.Unmarshal(body, &a)
+	if err != nil {
+		http.Error(w, err.Error(), http.StatusInternalServerError)
+		return
+	}
+
 	var buffer bytes.Buffer
 	for i := range a {
 		buffer.WriteString(a[i].Name)
