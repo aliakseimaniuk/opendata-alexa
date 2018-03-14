@@ -32,3 +32,11 @@
 [[constraint]]
   name = "github.com/patrickmn/go-cache"
   version = "2.1.0"
+
+[[constraint]]
+  branch = "master"
+  name = "github.com/jinzhu/now"
+
+[[constraint]]
+  name = "github.com/ahmetb/go-linq"
+  version = "3.0.0"

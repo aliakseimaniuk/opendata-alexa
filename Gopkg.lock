@@ -2,6 +2,12 @@
 
 
 [[projects]]
+  name = "github.com/ahmetb/go-linq"
+  packages = ["."]
+  revision = "7e71c124c1f903df09ca08678f145f68b45d125e"
+  version = "v3.0.0"
+
+[[projects]]
   name = "github.com/gorilla/context"
   packages = ["."]
   revision = "1ea25387ff6f684839d82767c1733ff4d4d15d0a"
@@ -14,14 +20,14 @@
   version = "v1.6.1"
 
 [[projects]]
-  name = "github.com/patrickmn/go-cache"
+  branch = "master"
+  name = "github.com/jinzhu/now"
   packages = ["."]
-  revision = "a3647f8e31d79543b2d0f0ae2fe5c379d72cedc0"
-  version = "v2.1.0"
+  revision = "b7dfa9a2450405d4ee01eb238dcb873b3dc5336c"
 
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "dc1237e332114b4e570596085ac522d40f440524b32fd349e840c0e34b48e165"
+  inputs-digest = "d88ba9d9b892d3e1138e7850a9b7bcc7cd2b2362be929129218dcc673d6185ff"
   solver-name = "gps-cdcl"
   solver-version = 1
