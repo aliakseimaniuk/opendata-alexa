@@ -10,4 +10,5 @@ type EventModel struct {
 	Location     string
 	LocationLink string
 	Tags         []string
+	DateString   string
 }

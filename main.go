@@ -9,6 +9,7 @@ import (
 	"math/rand"
 	"net/http"
 	"os"
+	"strconv"
 	"strings"
 
 	. "github.com/ahmetb/go-linq"
@@ -31,6 +32,10 @@ func main() {
 	json.Unmarshal(byteValue, &events)
 
 	fmt.Println("Events count: ", len(events))
+
+	for i, e := range events {
+		events[i].DateString = strings.Join([]string{e.Date.Weekday().String(), e.Date.Month().String(), strconv.Itoa(e.Date.Day())}, " ")
+	}
 
 	router := mux.NewRouter()
 	router.HandleFunc("/opendata/airports", getOpenDataAirports).Methods("GET")
