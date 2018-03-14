@@ -30,6 +30,8 @@ func main() {
 	byteValue, _ := ioutil.ReadAll(jsonFile)
 	json.Unmarshal(byteValue, &events)
 
+	fmt.Printf("Events count: %v", len(events))
+
 	router := mux.NewRouter()
 	router.HandleFunc("/opendata/airports", getOpenDataAirports).Methods("GET")
 	router.HandleFunc("/events/weekend/random", getRandomEventForWeekend).Methods("GET")
