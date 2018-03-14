@@ -30,7 +30,7 @@ func main() {
 	byteValue, _ := ioutil.ReadAll(jsonFile)
 	json.Unmarshal(byteValue, &events)
 
-	fmt.Printf("Events count: %v", len(events))
+	fmt.Println("Events count: ", len(events))
 
 	router := mux.NewRouter()
 	router.HandleFunc("/opendata/airports", getOpenDataAirports).Methods("GET")
@@ -109,7 +109,7 @@ func getRandomEventForToday(w http.ResponseWriter, r *http.Request) {
 		).
 		ToSlice(&todayEvents)
 
-	fmt.Printf("Today events count: %v", len(todayEvents))
+	fmt.Println("Today events count: ", len(todayEvents))
 	err := json.NewEncoder(w).Encode(todayEvents[rand.Intn(len(todayEvents))])
 	if err != nil {
 		http.Error(w, err.Error(), http.StatusInternalServerError)
