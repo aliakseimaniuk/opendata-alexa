@@ -79,7 +79,11 @@ func getOpenDataAirports(w http.ResponseWriter, r *http.Request) {
 
 func getRandomEventForWeekend(w http.ResponseWriter, r *http.Request) {
 	sunday := now.Sunday()
+	fmt.Println("Sunday : ", sunday)
+
 	friday := sunday.AddDate(0, 0, -2)
+	fmt.Println("Friday : ", friday)
+
 	var weekendEvents []EventModel
 
 	From(events).
@@ -90,6 +94,7 @@ func getRandomEventForWeekend(w http.ResponseWriter, r *http.Request) {
 		).
 		ToSlice(&weekendEvents)
 
+	fmt.Println("Weekend events count: ", len(weekendEvents))
 	err := json.NewEncoder(w).Encode(weekendEvents[rand.Intn(len(weekendEvents))])
 	if err != nil {
 		http.Error(w, err.Error(), http.StatusInternalServerError)
@@ -99,6 +104,7 @@ func getRandomEventForWeekend(w http.ResponseWriter, r *http.Request) {
 
 func getRandomEventForToday(w http.ResponseWriter, r *http.Request) {
 	today := now.BeginningOfDay()
+	fmt.Println("Today : ", today)
 	var todayEvents []EventModel
 
 	From(events).
