@@ -109,6 +109,7 @@ func getRandomEventForToday(w http.ResponseWriter, r *http.Request) {
 		).
 		ToSlice(&todayEvents)
 
+	fmt.Printf("Today events count: %v", len(todayEvents))
 	err := json.NewEncoder(w).Encode(todayEvents[rand.Intn(len(todayEvents))])
 	if err != nil {
 		http.Error(w, err.Error(), http.StatusInternalServerError)
