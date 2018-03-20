@@ -41,6 +41,7 @@ func main() {
 	router.HandleFunc("/opendata/airports", getOpenDataAirports).Methods("GET")
 	router.HandleFunc("/events/weekend/random", getRandomEventForWeekend).Methods("GET")
 	router.HandleFunc("/events/today/random", getRandomEventForToday).Methods("GET")
+	router.HandleFunc("/events/tomorrow/random", getRandomEventForTomorrow).Methods("GET")
 
 	log.Fatal(http.ListenAndServe(getPort(), router))
 }
@@ -86,15 +87,22 @@ func getRandomEventForWeekend(w http.ResponseWriter, r *http.Request) {
 	sunday := now.Sunday()
 	fmt.Println("Sunday : ", sunday)
 
-	friday := sunday.AddDate(0, 0, -2)
-	fmt.Println("Friday : ", friday)
+	today := now.BeginningOfDay()
+	diff := sunday.Sub(today)
+	diffDays := int(diff.Hours() / 24)
+	if diffDays > 2 {
+		diffDays = 2
+	}
+
+	weekendStart := sunday.AddDate(0, 0, -diffDays)
+	fmt.Println("Weekend start : ", weekendStart)
 
 	var weekendEvents []EventModel
 
 	From(events).
 		Where(
 			func(f interface{}) bool {
-				return (f.(EventModel).Date.After(friday) && f.(EventModel).Date.Before(sunday)) || (f.(EventModel).Date.Equal(sunday)) || (f.(EventModel).Date.Equal(friday))
+				return (f.(EventModel).Date.After(weekendStart) && f.(EventModel).Date.Before(sunday)) || (f.(EventModel).Date.Equal(sunday)) || (f.(EventModel).Date.Equal(weekendStart))
 			},
 		).
 		ToSlice(&weekendEvents)
@@ -122,6 +130,29 @@ func getRandomEventForToday(w http.ResponseWriter, r *http.Request) {
 
 	fmt.Println("Today events count: ", len(todayEvents))
 	err := json.NewEncoder(w).Encode(todayEvents[rand.Intn(len(todayEvents))])
+	if err != nil {
+		http.Error(w, err.Error(), http.StatusInternalServerError)
+		return
+	}
+}
+
+func getRandomEventForTomorrow(w http.ResponseWriter, r *http.Request) {
+	today := now.BeginningOfDay()
+	tomorrow := today.AddDate(0, 0, 1)
+
+	fmt.Println("Tomorrow: ", tomorrow)
+	var tomorrowEvents []EventModel
+
+	From(events).
+		Where(
+			func(f interface{}) bool {
+				return f.(EventModel).Date.Equal(tomorrow)
+			},
+		).
+		ToSlice(&tomorrowEvents)
+
+	fmt.Println("Tomorrow events count: ", len(tomorrowEvents))
+	err := json.NewEncoder(w).Encode(tomorrowEvents[rand.Intn(len(tomorrowEvents))])
 	if err != nil {
 		http.Error(w, err.Error(), http.StatusInternalServerError)
 		return
