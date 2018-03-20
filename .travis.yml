@@ -1,31 +1,22 @@
 language: go
-
 go:
-  - "1.9"
-
+- '1.9'
 go_import_path: github.com/golang/dep
-
-# Anything in before_script that returns a nonzero exit code will
-# flunk the build and immediately stop. It's sorta like having
-# set -e enabled in bash.
 before_script:
-  - GO_FILES=$(find . -iname '*.go' -type f | grep -v /vendor/) # All the .go files, excluding vendor/
-  - go get github.com/golang/lint/golint                        # Linter
-  - go get honnef.co/go/tools/cmd/megacheck                     # Badass static analyzer/linter
-  - go get github.com/fzipp/gocyclo
-
-# script always run to completion (set +e). All of these code checks are must haves
-# in a modern Go project.
+- GO_FILES=$(find . -iname '*.go' -type f | grep -v /vendor/)
+- go get github.com/golang/lint/golint
+- go get honnef.co/go/tools/cmd/megacheck
+- go get github.com/fzipp/gocyclo
 script:
-  - test -z $(gofmt -s -l $GO_FILES)         # Fail if a .go file hasn't been formatted with gofmt
-  - go test -v -race ./...                   # Run all the tests with the race detector enabled
-  - go vet ./...                             # go vet is the official Go static analyzer
-  - megacheck ./...                          # "go vet on steroids" + linter
-  - gocyclo -over 19 $GO_FILES               # forbid code with huge functions
-#  - golint -set_exit_status $(go list ./...) # one last linter
-
+- test -z $(gofmt -s -l $GO_FILES)
+- go test -v -race ./...
+- go vet ./...
+- megacheck ./...
+- gocyclo -over 19 $GO_FILES
 deploy:
   provider: heroku
   api_key:
-    secure: oaQZuw1lOR26/PtG5VbzrqBrw8nh/ZyXrmixjLl5ocjhmGtcBr+GPh/6lFmXwbPBAbu2bvBMK2cWvI6bgUiPeQssZCdr6tS7WNGkI1BpT2WM/87vY9jJ9uyeSERIbe9cb7sZVwlwihh4dFOIU9qH95QJcpS6j/QflDNLaYWng3vJVXWvUj3GTJ/ZKNswYbSIKYn7ur3ooRHhxXJE8Csgc8I0rR1RrtQkQ3/4IvitJL5OEvmjoNEG3MXQ4wf86owOxcwSCKyIsC/5BujqAR19II5Hj0B4DEqMhc6e7OXOeMUiCi7RA9SZEL/wU38oShSIQdTuaewr8ClnL9JepF4s9I8N12RINsua1nZABJ9gtEpHM+ZTDutVNZYZIt0wxsSujNCu1AZ4/ZePntQO7faIr1g67osPNO/HGxxM9NAEHbKqgC60QBjv4At+wBzM1R1KFXsOu3RpNSOaMXz+whm6rXSfcJwtlfUAft1OM1JPCPGQBfkmgkvhmQWnpgOkD1EENqA0vJOsvPDYV4sE8ziMupSl7YM8yDOC5Y7xXDQdzaXvr6QCQtLsX4OXeZDb8I+mSH+RGi9fSoLj5jNEX4gHizbdhmIv0BYy12xSGhjbf9qTejs9x67jMxfcIRYWYRPT7Gq75NAh8rjSQRe//qZxiur3orF6ddTsbPtObVvYdWQ=
+    secure: Yj0s9ad9qXzoNukF0KZNop0NWYdOsEHTXIVvdpFaVPloBFr4Xli3MnZDfKEf0olyb+Eenttt/Dn9z/1tesQGFJHmI0pXe6QaHDwGS0Ve1A1U3/2FpiYQANLiyovX2UIyB2GkcbhBmspXkjXE71KRksxmq8inwWMG1FU/kBHRbD4RqURPWZ8Zw2sP4swd7+o0QAUdqL1YcAqalVGuAK+ZakSlpS8yoPPj8BDeB/n6Otr2XHoh0WLGcMzN9cfdTg/zIo8Ahaqnu5g4Q8i3Lw+o1COtIW+DzZ1/LsPooIgzVTEzRfnpOKF2f34AyBS22EQWSK8DUv8UcFU2qgXIPI7Yabldbcg7lu3Wkmez90uwbc2HjgVv/1fOxioEFYYeOTnvCrgeQLTPi4JrIdqayRrMLYVL8/FrNUy1DZXfYIl5vSadhyQG7yy8I0qsALNbljIew0GH3HJObs7iu61VG2KKnrvkxwAiAET+6uPXEzr/s/G6VAUryAhBjjJ114+1EuZTsa/f/m38wNhWXzala2Zx/4hQFcJjhdact6U3CeslFfpUrkks5J1Hse7zzcIf1yJXDZ/u8GwN23l2FBg20Yf5I0s46CpObPoc+qMGqzPys/xj7Kpg0gRJlRYdZFxf3jRlniKJHFCzglmu66xMg2w4S7+4tQ4W2aPpL9v6cLjwk/E=
   app: polar-waters-49054
+  on:
+    repo: aliakseimaniuk/opendata-alexa
