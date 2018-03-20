@@ -1,9 +1,9 @@
 [     {
   "Name":"$6.25 Movies",
-  "Description":"Every Tuesday at Penn Cinema #inWilm, all standard screenings are only $6.25, all day long! ",
+  "Description":"Every Tuesday at Penn Cinema, all standard screenings are only 6.25 dollars, all day long! ",
   "Link":"http://inwilmingtonde.com/events/5-movies",
   "Date":"2018-03-20T00:00:00-04:00",
-  "Location":"Penn Cinema Riverfront & IMAX Theatre",
+  "Location":"Penn Cinema Riverfront and IMAX Theatre",
   "LocationLink":"http://inwilmingtonde.com/places/penn-cinema-riverfront-imax-theatre",
   "Tags":[
      "#INbudget ($0-$10)",
@@ -44,7 +44,7 @@
   "Tags":[
      "#ALLinFun (Family Focused)",
      "#INbudget ($0-$10)",
-     "Animals & Nature",
+     "Animals and Nature",
      "Educational (Family)"
   ]
 },
@@ -58,7 +58,7 @@
   "Tags":[
      "#ALLinFun (Family Focused)",
      "#INbudget ($0-$10)",
-     "Animals & Nature",
+     "Animals and Nature",
      "Garden",
      "Museum Exhibitions",
      "Visual Arts"
@@ -72,28 +72,28 @@
   "Location":"Chelsea Tavern",
   "LocationLink":"http://inwilmingtonde.com/places/chelsea-tavern-0",
   "Tags":[
-     "Food & Drink",
-     "Networking & Social Events"
+     "Food and Drink",
+     "Networking and Social Events"
   ]
 },
 {
   "Name":"Tonic Town Hall Tuesday with Ken Simpler",
-  "Description":"Tonic will be welcoming Ken Simpler for our next Town Hall Tuesday on March 20th!\r\n\r\n ",
+  "Description":"Tonic will be welcoming Ken Simpler for our next Town Hall Tuesday on March 20th!",
   "Link":"http://inwilmingtonde.com/events/tonic-town-hall-tuesday-ken-simpler",
   "Date":"2018-03-20T00:00:00-04:00",
-  "Location":"Tonic Bar & Grille",
+  "Location":"Tonic Bar and Grille",
   "LocationLink":"http://inwilmingtonde.com/places/tonic-bar-grille",
   "Tags":[
      "#ALLinFun (Family Focused)",
      "Classes",
-     "Lectures & Workshops",
+     "Lectures and Workshops",
      "Educational (Family)",
-     "Food & Drink",
-     "Networking & Social Events"
+     "Food and Drink",
+     "Networking and Social Events"
   ]
 },
 {
-  "Name":"Delaware Business First - Monthly Mixer",
+  "Name":"Delaware Business First Monthly Mixer",
   "Description":"Join Delaware Business First for a FREE Networking Event! Expand your network, develop relationships and grow your business in the presence of some of the best around!",
   "Link":"http://inwilmingtonde.com/events/delaware-business-first-february-networking-event",
   "Date":"2018-03-20T00:00:00-04:00",
@@ -101,18 +101,18 @@
   "LocationLink":"http://inwilmingtonde.com/places/columbus-inn",
   "Tags":[
      "#INbudget ($0-$10)",
-     "Networking & Social Events"
+     "Networking and Social Events"
   ]
 },
 {
   "Name":"The English Beat",
-  "Description":"The English Beat come to The Queen. ",
+  "Description":"The English Beat come to The Queen.",
   "Link":"http://inwilmingtonde.com/events/english-beat-0",
   "Date":"2018-03-20T00:00:00-04:00",
   "Location":"The Queen",
   "LocationLink":"http://inwilmingtonde.com/places/the-queen",
   "Tags":[
-     "Food & Drink",
+     "Food and Drink",
      "Rock"
   ]
 },
@@ -162,8 +162,8 @@
   "LocationLink":"http://inwilmingtonde.com/places/kid-shelleens",
   "Tags":[
      "#INbudget ($0-$10)",
-     "Charities & Fundraising",
-     "Food & Drink",
+     "Charities and Fundraising",
+     "Food and Drink",
      "Rock"
   ]
 },
@@ -177,13 +177,13 @@
   "Tags":[
      "#INbudget ($0-$10)",
      "Classes",
-     "Lectures & Workshops",
+     "Lectures and Workshops",
      "Visual Arts"
   ]
 },
 {
-  "Name":"OPEN STUDIO: DRAWING & PAINTING",
-  "Description":null,
+  "Name":"OPEN STUDIO: DRAWING and PAINTING",
+  "Description":"Plan a date night with your inner artist! These informal studio sessions offer a creative community space with the guidance of a professional teaching artist. Most materials included.",
   "Link":"http://inwilmingtonde.com/events/open-studio-drawing-painting",
   "Date":"2018-03-21T00:00:00-04:00",
   "Location":"The Delaware Contemporary",
@@ -192,7 +192,7 @@
      "#ALLinFun (Family Focused)",
      "#INbudget ($0-$10)",
      "Classes",
-     "Lectures & Workshops",
+     "Lectures and Workshops",
      "Visual Arts"
   ]
 },
@@ -204,13 +204,13 @@
   "Location":"Twin Lakes Brewery",
   "LocationLink":"http://inwilmingtonde.com/places/twin-lakes-brewery",
   "Tags":[
-     "Food & Drink",
-     "Networking & Social Events"
+     "Food and Drink",
+     "Networking and Social Events"
   ]
 },
 {
   "Name":"Sharon Sable and Shawn Qaissaunee",
-  "Description":"Delight in the music of Sharon and Shawn, one of the area's most beloved jazz/pop duos.",
+  "Description":"Delight in the music of Sharon and Shawn, one of the area's most beloved jazz or pop duos.",
   "Link":"http://inwilmingtonde.com/events/sharon-sable-and-shawn-qaissaunee-1",
   "Date":"2018-03-21T00:00:00-04:00",
   "Location":"Ubon Thai Cuisine",
@@ -218,24 +218,24 @@
   "Tags":[
      "#INbudget ($0-$10)",
      "Jazz",
-     "Rhythm & Blues"
+     "Rhythm and Blues"
   ]
 },
 {
   "Name":"Tosca from the Royal Opera House, London",
-  "Description":"Not Rated, 180 minutes\r\n\r\nDrama, passion and fabulous music- Puccini’s operatic thriller is one of the great opera experiences. Dan Ettinger conducts a star cast.\r\n ",
+  "Description":"Not Rated, 180 minutes Drama, passion and fabulous music - Puccini’s operatic thriller is one of the great opera experiences. Dan Ettinger conducts a star cast.",
   "Link":"http://inwilmingtonde.com/events/tosca-royal-opera-house-london",
   "Date":"2018-03-21T00:00:00-04:00",
   "Location":"Theatre N",
   "LocationLink":"http://inwilmingtonde.com/places/theatre-n",
   "Tags":[
-     "Classical & Opera",
+     "Classical and Opera",
      "Film"
   ]
 },
 {
   "Name":"4W5 Blues Jam",
-  "Description":"Come out and enjoy, or even play with the longest running Blues Jam in Wilmington! ",
+  "Description":"Come out and enjoy, or even play with the longest running Blues Jam in Wilmington!",
   "Link":"http://inwilmingtonde.com/events/4w5-blues-jam",
   "Date":"2018-03-21T00:00:00-04:00",
   "Location":"The Reef",
@@ -250,17 +250,17 @@
   "Description":"Each week, Gable Music Ventures will present a curated variety show featuring live music of all genres, stand-up comedy, spoken word and slam poetry, story-telling and other forms of performance art...",
   "Link":"http://inwilmingtonde.com/events/wilmo-wednesdays-0",
   "Date":"2018-03-21T00:00:00-04:00",
-  "Location":"Ernest & Scott Taproom",
+  "Location":"Ernest and Scott Taproom",
   "LocationLink":"http://inwilmingtonde.com/places/ernest-scott-taproom",
   "Tags":[
      "#INbudget ($0-$10)",
-     "Americana & Folk",
-     "Charities & Fundraising",
+     "Americana and Folk",
+     "Charities and Fundraising",
      "Comedy",
      "Hip-Hop",
-     "Poetry & Spoken Word",
+     "Poetry and Spoken Word",
      "Reggae",
-     "Rhythm & Blues",
+     "Rhythm and Blues",
      "Rock"
   ]
 },
@@ -274,7 +274,7 @@
   "Tags":[
      "#INbudget ($0-$10)",
      "Comedy",
-     "Games & Trivia"
+     "Games and Trivia"
   ]
 },
 {
@@ -282,15 +282,15 @@
   "Description":"Try practicing yoga in a beautiful garden setting, strengthening your body and spirit.\r\n ",
   "Link":"http://inwilmingtonde.com/events/gentle-yoga-year-round-winterthur",
   "Date":"2018-03-22T00:00:00-04:00",
-  "Location":"Winterthur Museum, Garden & Library",
+  "Location":"Winterthur Museum, Garden and Library",
   "LocationLink":"http://inwilmingtonde.com/places/winterthur-museum-garden-library",
   "Tags":[
-     "Health & Wellness"
+     "Health and Wellness"
   ]
 },
 {
   "Name":"Stages of Discovery: Bach 2 Rock: The Science of Sound",
-  "Description":"",
+  "Description":"Caryn Lin, electric violinist Recommended for Grades 2 - 5  Artist Website  This multi-media presentation transforms sound with a ?ve-string electric violin and a myriad of modern technology. Students journey from the classical days of Bach to today’s techno-wonders. By using modern techniques of music production to produce unique and dynamic soundscapes, students learn the scienti?c concepts and art involved in the creation of live music. Three-dimensional sound waves become visible, bringing music to life before the audience’s very eyes and ears!",
   "Link":"http://inwilmingtonde.com/events/stages-discovery-bach-2-rock-science-sound",
   "Date":"2018-03-22T00:00:00-04:00",
   "Location":"live @ the baby grand",
@@ -307,10 +307,10 @@
   "Location":"The Mill Space",
   "LocationLink":"http://inwilmingtonde.com/places/mill-space",
   "Tags":[
-     "Americana & Folk",
-     "Food & Drink",
-     "Networking & Social Events",
-     "Rhythm & Blues",
+     "Americana and Folk",
+     "Food and Drink",
+     "Networking and Social Events",
+     "Rhythm and Blues",
      "Rock"
   ]
 },
@@ -324,7 +324,7 @@
   "Tags":[
      "#INbudget ($0-$10)",
      "Classes",
-     "Lectures & Workshops",
+     "Lectures and Workshops",
      "History"
   ]
 },
@@ -338,8 +338,8 @@
   "Tags":[
      "#INbudget ($0-$10)",
      "Dance/Ballet",
-     "Food & Drink",
-     "Networking & Social Events"
+     "Food and Drink",
+     "Networking and Social Events"
   ]
 },
 {
@@ -361,12 +361,12 @@
   "Location":"Crowne Plaza - Wilmington North",
   "LocationLink":"http://inwilmingtonde.com/places/crowne-plaza-wilmington-north",
   "Tags":[
-     "Americana & Folk",
+     "Americana and Folk",
      "Classes",
-     "Lectures & Workshops",
+     "Lectures and Workshops",
      "Country",
      "Educational (Family)",
-     "Networking & Social Events"
+     "Networking and Social Events"
   ]
 },
 {
@@ -416,30 +416,30 @@
   "Location":"Grand Opera House",
   "LocationLink":"http://inwilmingtonde.com/places/grand-opera-house",
   "Tags":[
-     "Classical & Opera"
+     "Classical and Opera"
   ]
 },
 {
   "Name":"Life is a Cabaret Showcase",
-  "Description":"Join the Rainbow Chorale for music from the Movies, Broadway, and our favorite Billboard Hits. Selections include a medley from Kinky Boots, the Oscar-winning \"Glory” from the film Selma, \"Joyful, Joyful\" from Sister Act 2, \"Tom, Dick or Harry\" from Kiss me, Kate, and of course, from Cabaret, the iconic Liza Minnelli title song!",
+  "Description":"Join the Rainbow Chorale for music from the Movies, Broadway, and our favorite Billboard Hits. Selections include a medley from Kinky Boots, the Oscar-winning Glory from the film Selma, Joyful, Joyful from Sister Act 2, Tom, Dick or Harry from Kiss me, Kate, and of course, from Cabaret, the iconic Liza Minnelli title song!",
   "Link":"http://inwilmingtonde.com/events/life-cabaret-showcase",
   "Date":"2018-03-23T00:00:00-04:00",
   "Location":"Arden Gild Hall",
   "LocationLink":"http://inwilmingtonde.com/places/arden-gild-hall",
   "Tags":[
-     "Acapella & Choral"
+     "Acapella and Choral"
   ]
 },
 {
   "Name":"Heart Under the Hoodie Adult Only Silent Party Fundraiser",
-  "Description":"Join the party and help keep \"Heart Under the Hoodie\" -- Christina's Youth Violence Prevention Program -- FREE for Wilmington youth!\r\n ",
+  "Description":"Join the party and help keep Heart Under the Hoodie - Christina's Youth Violence Prevention Program -- FREE for Wilmington youth!",
   "Link":"http://inwilmingtonde.com/events/heart-under-hoodie-adult-only-silent-party-fundraiser",
   "Date":"2018-03-23T00:00:00-04:00",
   "Location":"Christina Cultural Arts Center",
   "LocationLink":"http://inwilmingtonde.com/places/christina-cultural-arts-center",
   "Tags":[
      "#INbudget ($0-$10)",
-     "Electronic & Dance (Music)"
+     "Electronic and Dance (Music)"
   ]
 },
 {
@@ -463,7 +463,7 @@
   "LocationLink":"http://inwilmingtonde.com/places/delaware-history-museum",
   "Tags":[
      "Classes",
-     "Lectures & Workshops",
+     "Lectures and Workshops",
      "Comedy"
   ]
 },
@@ -482,7 +482,7 @@
 },
 {
   "Name":"4th and Rodney Easter Egg Hunt",
-  "Description":"Are you looking for something fun and safe for your kids/family to do on a Saturday afternoon? Come on out and join us for our 4th and Rodney Easter Egg Hunt. There will be games, candy, and most all of lots and lots of fun",
+  "Description":"Are you looking for something fun and safe for your kids or family to do on a Saturday afternoon? Come on out and join us for our 4th and Rodney Easter Egg Hunt. There will be games, candy, and most all of lots and lots of fun",
   "Link":"http://inwilmingtonde.com/events/4th-and-rodney-easter-egg-hunt",
   "Date":"2018-03-24T00:00:00-04:00",
   "Location":"West End Neighborhood House",
@@ -494,7 +494,7 @@
 },
 {
   "Name":"Connell St. Park Easter Egg Hunt",
-  "Description":"Are you looking for something fun and safe for your kids/family to do on a Saturday afternoon? Come on out and join us for our Connell St. Easter Egg Hunt. There will be games, candy, and most all of lots and lots of fun. ",
+  "Description":"Are you looking for something fun and safe for your kids orfamily to do on a Saturday afternoon? Come on out and join us for our Connell St. Easter Egg Hunt. There will be games, candy, and most all of lots and lots of fun. ",
   "Link":"http://inwilmingtonde.com/events/connell-st-park-easter-egg-hunt",
   "Date":"2018-03-24T00:00:00-04:00",
   "Location":"Connell St. Park",
@@ -505,14 +505,14 @@
   ]
 },
 {
-  "Name":"Exploring the Transitions of Ashtanga Yoga w/Derek McMahon",
-  "Description":"Saturday 3/24, 12:00-2:00pm\r\nCost- $30",
+  "Name":"Exploring the Transitions of Ashtanga Yoga with Derek McMahon",
+  "Description":"Saturday March 24, 12:00-2:00pm Cost - 30 dollars",
   "Link":"http://inwilmingtonde.com/events/exploring-transitions-ashtanga-yoga-wderek-mcmahon",
   "Date":"2018-03-24T00:00:00-04:00",
   "Location":"Sadhana Yoga",
   "LocationLink":"http://inwilmingtonde.com/places/sadhana-yoga",
   "Tags":[
-     "Health & Wellness"
+     "Health and Wellness"
   ]
 },
 {
@@ -520,7 +520,7 @@
   "Description":"The Easter Bunny hops aboard our train for a 1½-hour round-trip ride to Ashland, and all kids will get a special treat. Bring your camera and have the Easter Bunny pose for a picture with your child. This is a great way to welcome Spring and bring the family out for an afternoon on the rails.",
   "Link":"http://inwilmingtonde.com/events/easter-bunny-express",
   "Date":"2018-03-24T00:00:00-04:00",
-  "Location":"Wilmington & Western Railroad",
+  "Location":"Wilmington and Western Railroad",
   "LocationLink":"http://inwilmingtonde.com/places/wilmington-western-railroad",
   "Tags":[
      "#ALLinFun (Family Focused)",
@@ -550,7 +550,7 @@
   "LocationLink":"http://inwilmingtonde.com/places/delaware-history-museum",
   "Tags":[
      "Classes",
-     "Lectures & Workshops",
+     "Lectures and Workshops",
      "Comedy"
   ]
 },
@@ -562,12 +562,12 @@
   "Location":"Presbyterian Church of the Covenant",
   "LocationLink":"http://inwilmingtonde.com/places/presbyterian-church-covenant",
   "Tags":[
-     "Classical & Opera"
+     "Classical and Opera"
   ]
 },
 {
   "Name":"Laser Spectacular featuring the music of Pink Floyd",
-  "Description":"",
+  "Description":"What could be more blissful than an evening of Pink Floyd’s greatest hits pumped through a 10,000 watt concert sound system? How about lasers? This 30th Anniversary production of Laser Spectacular returns to The Grand for the first time in ten years with all the elements of a live concert except the band. The show will have elaborate lighting effects, animated screen effects, and three-dimensional overhead displays created with lasers. Howard Stern exclaims that this show rocks! Price 32 dollars.",
   "Link":"http://inwilmingtonde.com/events/laser-spectacular-featuring-music-pink-floyd",
   "Date":"2018-03-24T00:00:00-04:00",
   "Location":"Grand Opera House",
@@ -589,7 +589,7 @@
   ]
 },
 {
-  "Name":"Eggstravaganza: Breakfast & Egg Hunt",
+  "Name":"Eggstravaganza: Breakfast and Egg Hunt",
   "Description":"Enjoy a morning at the Museum and we’ll fix a pancake breakfast for the whole family! After a wonderful meal, watch your children delight as they hunt for treat-filled eggs in our egg hunt through our gardens. Please dress accordingly for an outdoor egg hunt; it will be moved inside for rain.",
   "Link":"http://inwilmingtonde.com/events/eggstravaganza-breakfast-egg-hunt-0",
   "Date":"2018-03-25T00:00:00-04:00",
@@ -602,7 +602,7 @@
   ]
 },
 {
-  "Name":"EGGstravaganza Breakfast & Egg Hunt",
+  "Name":"EGGstravaganza Breakfast and Egg Hunt",
   "Description":"Enjoy a morning at the Museum and we’ll fix a pancake breakfast for the whole family! After a wonderful meal, watch your children delight as they hunt for treat-filled eggs in our egg hunt through our gardens. Please dress accordingly for an outdoor egg hunt; it will be moved inside for rain.g",
   "Link":"http://inwilmingtonde.com/events/eggstravaganza-breakfast-egg-hunt",
   "Date":"2018-03-25T00:00:00-04:00",
@@ -611,12 +611,12 @@
   "Tags":[
      "#ALLinFun (Family Focused)",
      "#INbudget ($0-$10)",
-     "Food & Drink"
+     "Food and Drink"
   ]
 },
 {
   "Name":"Animal Enrichment Workshop",
-  "Description":null,
+  "Description":"Craft-loving individuals will enjoy this hands-on workshop making enrichment for our Zoo animals. Learn all about the different kinds of enrichment we use to engage our animals’ minds at Brandywine Zoo, help us craft and create new items, and see some of your hard work given out around the Zoo! You’ll also be able to make some awesome enrichment to bring back to your pets at home! This month's animal:Bobcat!",
   "Link":"http://inwilmingtonde.com/events/animal-enrichment-workshop-1",
   "Date":"2018-03-25T00:00:00-04:00",
   "Location":"Brandywine Zoo",
@@ -624,7 +624,7 @@
   "Tags":[
      "#ALLinFun (Family Focused)",
      "#INbudget ($0-$10)",
-     "Animals & Nature",
+     "Animals and Nature",
      "Educational (Family)",
      "Science"
   ]
@@ -643,7 +643,7 @@
   ]
 },
 {
-  "Name":"Sunday Jazz/Gospel Brunch",
+  "Name":"Sunday Jazz or Gospel Brunch",
   "Description":"Brunch is available from 12:00pm until 3pm. Ala carte dining is offered from 3pm on. Enjoy live Jazz and Gospel from 1pm til 4pm",
   "Link":"http://inwilmingtonde.com/events/sunday-jazzgospel-brunch",
   "Date":"2018-03-25T00:00:00-04:00",
@@ -654,19 +654,19 @@
   ]
 },
 {
-  "Name":"Jay Ungar & Molly Mason",
-  "Description":"",
+  "Name":"Jay Ungar and Molly Mason",
+  "Description":"Fiddle-guitarist duo, Jay Ungar and Molly Mason, husband-and-wife perennial favorites, are back to charm listeners with their exceptional musicianship and comfortable rapport with the audience. Explorers into the breadth of traditional American music, the duo have performed on CBS’s Good Morning, NPR’s All Things Considered, and have been regular guests on Prairie Home Companion. Jay’s haunting Ashokan Farewell was acclaimed as the main musical theme in the Ken Burns Civil War docu-series on PBS. Garrison Keillor says that “Jay and Molly make music that is simple and overwhelming. Joyful and full of feeling. Price 33 dollars.",
   "Link":"http://inwilmingtonde.com/events/jay-ungar-molly-mason",
   "Date":"2018-03-25T00:00:00-04:00",
-  "Location":"live @ the baby grand",
+  "Location":"live at the baby grand",
   "LocationLink":"http://inwilmingtonde.com/places/live-baby-grand",
   "Tags":[
-     "Americana & Folk"
+     "Americana and Folk"
   ]
 },
 {
-  "Name":"Speaker John W. Snell \"Developing Your Creative Vision\"",
-  "Description":"",
+  "Name":"Speaker John W. Snell Developing Your Creative Vision",
+  "Description":"John shares stories and practical techniques and tips for enhancing your landscape and nature photography. There won’t be talk about equipment you should have, but rather how to make stellar images with the equipment you already have.  John’s Award-winning work is characterized by saturated colors and he represents his subjects in ways that evoke smiles of wonder.",
   "Link":"http://inwilmingtonde.com/events/speaker-john-w-snell-developing-your-creative-vision",
   "Date":"2018-03-26T00:00:00-04:00",
   "Location":"Cokesbury Village",
@@ -674,7 +674,7 @@
   "Tags":[
      "#INbudget ($0-$10)",
      "Classes",
-     "Lectures & Workshops",
+     "Lectures and Workshops",
      "Visual Arts"
   ]
 },
@@ -707,7 +707,7 @@
 },
 {
   "Name":"Eye Shadow Art Exhibit",
-  "Description":"Eye Shadow -- a Bebe Ross Coker BrainChild -- is an exploration of lived themes from a woman's perspective. Subjects include nature, self- development, feminism, motherhood, health & wellness, spirituality, friendship, community, social justice and more",
+  "Description":"Eye Shadow a Bebe Ross Coker BrainChild is an exploration of lived themes from a woman's perspective. Subjects include nature, self-development, feminism, motherhood, health and wellness, spirituality, friendship, community, social justice and more",
   "Link":"http://inwilmingtonde.com/events/eye-shadow-art-exhibit",
   "Date":"2018-03-19T00:00:00-04:00",
   "Location":"Christina Cultural Arts Center",
@@ -726,7 +726,7 @@
   "Tags":[
      "#INbudget ($0-$10)",
      "Garden",
-     "Networking & Social Events",
+     "Networking and Social Events",
      "Science",
      "Visual Arts"
   ]
@@ -743,8 +743,8 @@
   ]
 },
 {
-  "Name":"Group Show ~ Ed Bronstein - Sherrill Cooper - Barbara Straussberg",
-  "Description":"Our March show features landscapes, city scenes and still lifes by Ed Bronstein; gestural figure paintings in oil by Sherrill Cooper, and abstract mixed media work by Barbara Straussberg. Wine & Cheese Opening Reception. ",
+  "Name":"Group Show Ed Bronstein, Sherrill Cooper, Barbara Straussberg",
+  "Description":"Our March show features landscapes, city scenes and still lifes by Ed Bronstein; gestural figure paintings in oil by Sherrill Cooper, and abstract mixed media work by Barbara Straussberg. Wine and Cheese Opening Reception. ",
   "Link":"http://inwilmingtonde.com/events/group-show-ed-bronstein-sherrill-cooper-barbara-straussberg",
   "Date":"2018-03-19T00:00:00-04:00",
   "Location":"The Station Gallery",
@@ -755,7 +755,7 @@
   ]
 },
 {
-  "Name":"Form to Function I  & II - Gregory Nangle & Peter Pincus",
+  "Name":"Form to Function I and II Gregory Nangle and Peter Pincus",
   "Description":"The Delaware Contemporary collaboration with Philadelphia's Wexler Gallery returns for a second time to spotlight two visionary artists Gregory Nangle and Peter Pincus...",
   "Link":"http://inwilmingtonde.com/events/form-function-i-ii-gregory-nangle-peter-pincus",
   "Date":"2018-03-19T00:00:00-04:00",
@@ -768,7 +768,7 @@
 },
 {
   "Name":"The Art Of Ken Segal",
-  "Description":"Stop by ArtzScape on Market Street #inWilm during the March Art Loop for a chance to get up close and personal with Delaware artist Ken Segal... ",
+  "Description":"Stop by ArtzScape on Market Street during the March Art Loop for a chance to get up close and personal with Delaware artist Ken Segal.",
   "Link":"http://inwilmingtonde.com/events/art-ken-segal",
   "Date":"2018-03-19T00:00:00-04:00",
   "Location":"ArtzScape",
@@ -799,26 +799,26 @@
   "Tags":[
      "#INbudget ($0-$10)",
      "Classes",
-     "Lectures & Workshops",
+     "Lectures and Workshops",
      "World"
   ]
 },
 {
-  "Name":"Silk & Honey",
-  "Description":"Come buzz with us every other Monday as AJ & Joanna bring the smooth, sweet melodies to the Tap House!",
+  "Name":"Silk and Honey",
+  "Description":"Come buzz with us every other Monday as AJ and Joanna bring the smooth, sweet melodies to the Tap House!",
   "Link":"http://inwilmingtonde.com/events/silk-honey",
   "Date":"2018-03-19T00:00:00-04:00",
   "Location":"Trolley Tap House",
   "LocationLink":"http://inwilmingtonde.com/places/trolley-tap-house",
   "Tags":[
      "#INbudget ($0-$10)",
-     "Americana & Folk",
+     "Americana and Folk",
      "Rock"
   ]
 },
 {
   "Name":"Masha Ryskin's Reveries with the Line",
-  "Description":"Ryskin uses unique materials such as tea bags, recycled fabric, or coffee to record fragments of life and experience in her installations, drawings, paintings, and prints. Art critic Arthur Whitman refers to Ryskin's work as experimental, that which \"crosses media and genre with an exploratory but disciplined sensibility.\" ...",
+  "Description":"Ryskin uses unique materials such as tea bags, recycled fabric, or coffee to record fragments of life and experience in her installations, drawings, paintings, and prints. Art critic Arthur Whitman refers to Ryskin's work as experimental, that which crosses media and genre with an exploratory but disciplined sensibility.",
   "Link":"http://inwilmingtonde.com/events/masha-ryskins-reveries-line",
   "Date":"2018-03-20T00:00:00-04:00",
   "Location":"The Delaware Contemporary",
@@ -829,8 +829,8 @@
   ]
 },
 {
-  "Name":"The Nature of Color: John Breakey & Scott Alan McClurg",
-  "Description":"Two artists, one gallery...",
+  "Name":"The Nature of Color: John Breakey and Scott Alan McClurg",
+  "Description":"By looking up and out, I am inspired to capture nature’s elusive luminosity found in the near and far distance. Slowing down to observe becomes a pure investment that supports a call to action. These atmospheric impressions are the result of simple pause and response acts.",
   "Link":"http://inwilmingtonde.com/events/nature-color-john-breakey-scott-alan-mcclurg",
   "Date":"2018-03-20T00:00:00-04:00",
   "Location":"The Delaware Contemporary",
@@ -842,22 +842,22 @@
 },
 {
   "Name":"Half-Price Burger Day",
-  "Description":"Half-Price Burgers",
+  "Description":"Tuesday is half-price burger day at Kid's!  Enjoy your favorites when you dine with us for lunch or dinner.  Taking out?  Enjoy 25% off your takeout burgers, too! Find out why Kid's has been named Delaware's Best Burger for 5 years running!",
   "Link":"http://inwilmingtonde.com/events/half-price-burger-day",
   "Date":"2018-03-20T00:00:00-04:00",
   "Location":"Kid Shelleen's",
   "LocationLink":"http://inwilmingtonde.com/places/kid-shelleens",
   "Tags":[
      "#INbudget ($0-$10)",
-     "Food & Drink"
+     "Food and Drink"
   ]
 },
 {
   "Name":"Collecting for The Future",
-  "Description":"When Winterthur opened to the public in 1951, visitors toured a private collection assembled over several decades by Henry Francis du Pont (1880-1969). He dreamed that his collection and 175-room home would “afford all those interested an opportunity to view and to study the conditions surrounding the early American home life.”...",
+  "Description":"When Winterthur opened to the public in 1951, visitors toured a private collection assembled over several decades by Henry Francis du Pont (1880-1969). He dreamed that his collection and 175-room home would “afford all those interested an opportunity to view and to study the conditions surrounding the early American home life.",
   "Link":"http://inwilmingtonde.com/events/collecting-future",
   "Date":"2018-03-20T00:00:00-04:00",
-  "Location":"Winterthur Museum, Garden & Library",
+  "Location":"Winterthur Museum, Garden and Library",
   "LocationLink":"http://inwilmingtonde.com/places/winterthur-museum-garden-library",
   "Tags":[
      "Educational (Family)",
