@@ -1,244 +1,220 @@
 [
   {
-     "Name":"The University of Delaware Alumni INvitational",
-     "Description":"The Delaware Contemporary announces our joint venture with the University of Delaware presenting the Department of Art and Design Alumni Invitational...",
-     "Link":"http://inwilmingtonde.com/events/university-delaware-alumni-invitational",
-     "Date":"2018-03-31T00:00:00-04:00",
-     "Location":"The Delaware Contemporary",
-     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
-     "Tags":[
-        "#INbudget ($0-$10)",
-        "Visual Arts"
-     ]
-  },
-  {
-     "Name":"The University of Delaware Lynn Herrick Sharp Award Exhibition (Group)",
-     "Description":"The Delaware Contemporary is pleased to announce the Lynn Herrick Sharp Award Exhibition in a joint venture with the University of Delaware. This exhibition features the Lynn Herrick Sharp Award recipient and two honorable mentions granted to art majors in the final stages of pursuing a Bachelor of Fine Arts Degree...",
-     "Link":"http://inwilmingtonde.com/events/university-delaware-lynn-herrick-sharp-award-exhibition-group",
-     "Date":"2018-03-31T00:00:00-04:00",
-     "Location":"The Delaware Contemporary",
-     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
-     "Tags":[
-        "#INbudget ($0-$10)",
-        "Visual Arts"
-     ]
-  },
-  {
-     "Name":"Storybook Character Breakfast",
-     "Description":"Take pictures of your child with the Easter Bunny and other favorite characters. With a kid-friendly breakfast and a chance to get autographs, this festive morning is sure to please!",
-     "Link":"http://inwilmingtonde.com/events/storybook-character-breakfast-0",
-     "Date":"2018-03-31T00:00:00-04:00",
-     "Location":"Delaware Children's Theatre",
-     "LocationLink":"http://inwilmingtonde.com/places/delaware-childrens-theatre",
-     "Tags":[
-        "#ALLinFun (Family Focused)",
-        "Food and Drink"
-     ]
-  },
-  {
-     "Name":"Easter Brunch Buffet with the Bunny",
-     "Description":"Enjoy a delicious brunch buffet and get to meet the famous Easter Bunny! $35.95 per person; children aged 2-12 are 50% off. Members receive a 10% discount on up to 4 members of their party. Reservations can be made through ccater@winterthur.org or by calling 3028884826.",
-     "Link":"http://inwilmingtonde.com/events/easter-brunch-buffet-bunny-0",
-     "Date":"2018-03-31T00:00:00-04:00",
+     "Name":"Dining by design: nature displayed on the dinner table",
+     "Description":"From the 1600s to the present, dinnerware designs have been inspired by nature. Everything from painted butterflies and handmodeled flowers to molded seashells can be found on a fascinating range of dishes and plates. Whether it’s a recipe for barbecued fawn, fabulous tureens in the shapes of various animals, or instructions on how to fold a napkin so that it resembles a palm tree, prepare to be delighted by this unusual, often humorous exhibition that lets you explore a visual feast of flora and fauna adorning hundreds of dazzling ceramics and tablewares.",
+     "Link":"http://inwilmingtonde.com/events/dining-design-nature-displayed-dinner-table",
+     "Date":"2018-04-01T00:00:00-04:00",
      "Location":"Winterthur Museum, Garden & Library",
      "LocationLink":"http://inwilmingtonde.com/places/winterthur-museum-garden-library",
      "Tags":[
-        "#ALLinFun (Family Focused)",
-        "Food and Drink",
-        "Holiday"
+        "Educational (family)",
+        "museum exhibitions"
      ]
   },
   {
-     "Name":"Hoppy Easter 2018! Egg Hunt Time!",
-     "Description":"We are so hoppy Easter is almost here! Come treat yourself to a fair trade egg hunt! An eggcellent surprise awaits you!",
-     "Link":"http://inwilmingtonde.com/events/hoppy-easter-2018-egg-hunt-time",
-     "Date":"2018-03-31T00:00:00-04:00",
-     "Location":"Ten Thousand Villages",
-     "LocationLink":"http://inwilmingtonde.com/places/ten-thousand-villages",
+     "Name":"Follies: architectural whimsy in the garden",
+     "Description":"A needles eye in a pond, a greek temple in the garden, an ottoman tent sitting on a hill—these are just a few of the inspirations for our upcoming, first ever outdoor exhibition follies: architectural whimsy in the garden! the exhibition showcases whimsical and classic garden structures located throughout the winterthur estate...",
+     "Link":"http://inwilmingtonde.com/events/follies-architectural-whimsy-garden",
+     "Date":"2018-04-01T00:00:00-04:00",
+     "Location":"Winterthur Museum, Garden & Library",
+     "LocationLink":"http://inwilmingtonde.com/places/winterthur-museum-garden-library",
      "Tags":[
-        "#ALLinFun (Family Focused)",
-        "#INbudget ($0-$10)"
+        "Garden",
+        "museum exhibitions"
      ]
   },
   {
-     "Name":"Easter Egg Hunt",
-     "Description":"It's time for the annual Easter Egg Hunt in Tilton Park! Moon bounces, Games, Snacks, and an Egg Hunt for toddlers and children up to 5th grade! Join us for a fun morning in our neighborhood!",
-     "Link":"http://inwilmingtonde.com/events/easter-egg-hunt-0",
-     "Date":"2018-03-31T00:00:00-04:00",
-     "Location":"Tilton Park",
-     "LocationLink":"http://inwilmingtonde.com/places/tilton-park",
-     "Tags":[
-        "#ALLinFun (Family Focused)",
-        "#INbudget ($0-$10)"
-     ]
-  },
-  {
-     "Name":"Kosciuszko Park Easter Egg Hunt",
-     "Description":"2nd Annual Easter Egg Hunt at Kosciuszko Park. Free event with fun for the whole family. Food, Music and Games!",
-     "Link":"http://inwilmingtonde.com/events/kosciuszko-park-easter-egg-hunt",
-     "Date":"2018-03-31T00:00:00-04:00",
-     "Location":"Kosciuszko Park",
-     "LocationLink":"http://inwilmingtonde.com/places/kosciuszko-park",
-     "Tags":[
-        "#ALLinFun (Family Focused)",
-        "#INbudget ($0-$10)"
-     ]
-  },
-  {
-     "Name":"Intern Open House: Summer Zoo Internships for High School and College Students",
-     "Description":"Join us to find out about more about the Zoo’s unique summer internship program for Zoo Camp and other internships! For more information please visit our website and look under volunteer opportunities.",
-     "Link":"http://inwilmingtonde.com/events/intern-open-house-summer-zoo-internships-high-school-and-college-students",
-     "Date":"2018-03-31T00:00:00-04:00",
-     "Location":"Brandywine Zoo",
-     "LocationLink":"http://inwilmingtonde.com/places/brandywine-zoo",
-     "Tags":[
-        "#INbudget ($0-$10)",
-        "Animals and Nature",
-        "Educational (Family)",
-        "Science"
-     ]
-  },
-  {
-     "Name":"The Art of Making Petit Fours",
-     "Description":"Join Michele Mitchell on Saturday, March 31st at Tonic for the 3rd class in the pastry series. The Art of Making French Petit Fours. Includes; recption with specialty cocktails, educational session about the history of the one bite confectionery, cake demonstration and coating, decorate your own confections, box and wrap up your treats for an Easter dessert, PLUS take home your own printed notes.",
-     "Link":"http://inwilmingtonde.com/events/art-making-petit-fours",
-     "Date":"2018-03-31T00:00:00-04:00",
+     "Name":"Easter brunch",
+     "Description":"This easter, on april 1st, tonic will be hosting an extended brunch from 10:30 am 2:00 pm",
+     "Link":"http://inwilmingtonde.com/events/easter-brunch",
+     "Date":"2018-04-01T00:00:00-04:00",
      "Location":"Tonic Bar & Grille",
      "LocationLink":"http://inwilmingtonde.com/places/tonic-bar-grille",
      "Tags":[
-        "Educational (Family)",
-        "Food and Drink"
+        "Food and drink",
+        "holiday"
      ]
   },
   {
-     "Name":"Blue Moon at the Tower",
-     "Description":"Twice in a blue moon! Come see the second blue moon of 2018 with park naturalists at Rockford Tower.  We will explore the mysteries of the moon and night sky while enjoying the view from the top of the tower",
-     "Link":"http://inwilmingtonde.com/events/blue-moon-tower",
-     "Date":"2018-03-31T00:00:00-04:00",
-     "Location":"Rockford Park",
-     "LocationLink":"http://inwilmingtonde.com/places/rockford-park",
+     "Name":"Sunday jazz/gospel brunch",
+     "Description":"Brunch is available from 12:00pm until 3pm. Ala carte dining is offered from 3pm on. Enjoy live jazz and gospel from 1pm til 4pm",
+     "Link":"http://inwilmingtonde.com/events/sunday-jazzgospel-brunch",
+     "Date":"2018-04-01T00:00:00-04:00",
+     "Location":"Celebrations on Market",
+     "LocationLink":"http://inwilmingtonde.com/places/celebrations-market",
      "Tags":[
-        "#ALLinFun (Family Focused)",
-        "#INbudget ($0-$10)"
-     ]
-  },
-  {
-     "Name":"The Music Factory",
-     "Description":"Once in a long while a live musical act comes along that captures the attention of the music industry with significant fervor. The Music Factory has accomplished this feat and is now poised to completely re-define the musical duo. Comprised of two unique musical artists, The Music Factory is now recognized as the most powerful and astounding musical duo in America bringing together award winning film and television composer Rick Silanskas and internati.",
-     "Link":"http://inwilmingtonde.com/events/music-factory",
-     "Date":"2018-03-31T00:00:00-04:00",
-     "Location":"Grand Opera House",
-     "LocationLink":"http://inwilmingtonde.com/places/grand-opera-house",
-     "Tags":[
-
-     ]
-  },
-  {
-     "Name":"Brooke DiCaro",
-     "Description":"Brooke DiCaro plays for Harry's Savoy Grill",
-     "Link":"http://inwilmingtonde.com/events/brooke-dicaro-4",
-     "Date":"2018-03-31T00:00:00-04:00",
-     "Location":"Harry's Savoy Grill",
-     "LocationLink":"http://inwilmingtonde.com/places/harrys-savoy-grill",
-     "Tags":[
-        "#INbudget ($0-$10)",
         "Jazz"
      ]
   },
   {
-     "Name":"The Figure: The Indicative and The Allusive (Group)",
-     "Description":"The Delaware Contemporary presents The Figure: The Indicative and the Allusive, an exhibition of twenty-two contemporary American artists offering new perspectives on the enduring power of the human figure in a transient world.",
+     "Name":"Book with a bunny",
+     "Description":"Join us for an extra special story time with the most popular bunny of spring! we’ll read a springtime story about bunnies and meet a real life, giant bunny from the zoo!",
+     "Link":"http://inwilmingtonde.com/events/book-bunny",
+     "Date":"2018-04-01T00:00:00-04:00",
+     "Location":"Brandywine Zoo",
+     "LocationLink":"http://inwilmingtonde.com/places/brandywine-zoo",
+     "Tags":[
+        "#allinfun (family focused)",
+        "#inbudget ($0$10)",
+        "animals and nature",
+        "educational (family)",
+        "science"
+     ]
+  },
+  {
+     "Name":"Open studio: youth drawing and painting",
+     "Description":"These informal sessions are perfect for young artists to get creative with friends and meet new friends while working on their favorite things to draw and paint. Bring a work in progress or start from scratch! Drawing and painting supplies will be available and a professional teaching artist will be present to offer motivating prompts and constructive feedback.",
+     "Link":"http://inwilmingtonde.com/events/open-studio-youth-drawing-painting-0",
+     "Date":"2018-04-01T00:00:00-04:00",
+     "Location":"The Delaware Contemporary",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
+     "Tags":[
+        "#allinfun (family focused)",
+        "#inbudget ($0$10)",
+        "classes",
+        "lectures and workshops",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Eye on nature: andrew wyeth and john ruskin",
+     "Description":"Born almost exactly 100 years apart, the american painter, andrew wyeth (1917–2009) and the british critic and amateur artist, john ruskin (1819–1900) shared a lifelong obsession for the close observation and finely rendered imagery of the world around them. This exhibition places the work of andrew wyeth and john ruskin together for the first time, examining their varying approaches to interpreting the natural world.",
+     "Link":"http://inwilmingtonde.com/events/eye-nature-andrew-wyeth-and-john-ruskin",
+     "Date":"2018-04-01T00:00:00-04:00",
+     "Location":"Delaware Art Museum",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-art-museum",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "museum exhibitions",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Easter at kid shelleens",
+     "Description":"After you've found all the colored eggs and eaten the ears off the chocolate bunny, stop in at Kid's for our award-winning brunch!",
+     "Link":"http://inwilmingtonde.com/events/easter-kid-shelleens",
+     "Date":"2018-04-01T00:00:00-04:00",
+     "Location":"Kid Shelleen's",
+     "LocationLink":"http://inwilmingtonde.com/places/kid-shelleens",
+     "Tags":[
+        "Food and drink"
+     ]
+  },
+  {
+     "Name":"Collecting for the future",
+     "Description":"When winterthur opened to the public in 1951, visitors toured a private collection assembled over several decades by henry francis du pont (18801969). He dreamed that his collection and 175room home would afford all those interested an opportunity to view and to study the conditions surrounding the early american home life....",
+     "Link":"http://inwilmingtonde.com/events/collecting-future",
+     "Date":"2018-04-01T00:00:00-04:00",
+     "Location":"Winterthur Museum, Garden & Library",
+     "LocationLink":"http://inwilmingtonde.com/places/winterthur-museum-garden-library",
+     "Tags":[
+        "Educational (family)",
+        "museum exhibitions"
+     ]
+  },
+  {
+     "Name":"Zoo in you",
+     "Description":"Trillions of microbes make their homes inside our bodies, and we wouldn’t be able to survive without each other!",
+     "Link":"http://inwilmingtonde.com/events/zoo-you",
+     "Date":"2018-04-01T00:00:00-04:00",
+     "Location":"Delaware Museum of Natural History",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-museum-natural-history",
+     "Tags":[
+        "#allinfun (family focused)",
+        "#inbudget ($0$10)",
+        "educational (family)",
+        "museum exhibitions"
+     ]
+  },
+  {
+     "Name":"Eye shadow art exhibit",
+     "Description":"Eye shadow a bebe ross coker brainchild is an exploration of lived themes from a womans perspective. Subjects include nature, self development, feminism, motherhood, health and wellness, spirituality, friendship, community, social justice and more",
+     "Link":"http://inwilmingtonde.com/events/eye-shadow-art-exhibit",
+     "Date":"2018-04-01T00:00:00-04:00",
+     "Location":"Christina Cultural Arts Center",
+     "LocationLink":"http://inwilmingtonde.com/places/christina-cultural-arts-center",
+     "Tags":[
+        "Visual arts"
+     ]
+  },
+  {
+     "Name":"The university of delaware alumni invitational",
+     "Description":"The delaware contemporary announces our joint venture with the university of delaware presenting the department of art and design alumni invitational. This exhibition investigates the departments impact on the regional art and design landscape by featuring alumni artists from the midatlantic area. These artists work in a variety of media from serial comic imagery to sculptures, works on paper, and painting with the artwork ranging from dynamic furniture pieces and theatrical mechanical machines to representational portraits and graphic design. Through their inventive processes each artist strives to connect the viewer to a sensorybased experience about ideas, time, and place.",
+     "Link":"http://inwilmingtonde.com/events/university-delaware-alumni-invitational",
+     "Date":"2018-04-01T00:00:00-04:00",
+     "Location":"The Delaware Contemporary",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"The figure: the indicative and the allusive group",
+     "Description":"Opening reception: friday, april 6, 2018 | 5 9 pm during art loop withpanel discussion: 6 7 pm",
      "Link":"http://inwilmingtonde.com/events/figure-indicative-and-allusive-group",
      "Date":"2018-04-01T00:00:00-04:00",
      "Location":"The Delaware Contemporary",
      "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
      "Tags":[
-        "#INbudget ($0-$10)",
-        "Visual Arts"
+        "#inbudget ($0$10)",
+        "visual arts"
      ]
   },
   {
-     "Name":"Wilmington Bluegrass Festival",
-     "Description":"11th Annual INdoor Bluegrass Music Festival. Three day indoor bluegrass festival held at the Crowne Plaza Hotel. Two stages, jamming and workshops included!",
-     "Link":"http://inwilmingtonde.com/events/wilmington-bluegrass-festival",
-     "Date":"2018-03-25T00:00:00-04:00",
-     "Location":"Crowne Plaza - Wilmington North",
-     "LocationLink":"http://inwilmingtonde.com/places/crowne-plaza-wilmington-north",
-     "Tags":[
-        "Americana and Folk",
-        "Classes",
-        "Lectures and Workshops",
-        "Country",
-        "Educational (Family)",
-        "Networking and Social Events"
-     ]
-  },
-  {
-     "Name":"Robert Straight's Trifecta",
-     "Description":"Trifecta represents the three formats Robert Straight uses in the execution of his work: three-dimensional sculptures, constructed structures, and the more conventional rectangular paintings. Though different in form, the underlying theme of time is present in each piece. A single path of color, a bold line, an irregular shape all convey a journey through time while newspaper collage signifies the day he created each piece...",
-     "Link":"http://inwilmingtonde.com/events/robert-straights-trifecta",
-     "Date":"2018-03-25T00:00:00-04:00",
+     "Name":"Masha ryskins reveries with the line",
+     "Description":"Ryskin uses unique materials such as tea bags, recycled fabric, or coffee to record fragments of life and experience in her installations, drawings, paintings, and prints. Art critic arthur whitman refers to ryskins work as experimental, that which crosses media and genre with an exploratory but disciplined sensibility. ...",
+     "Link":"http://inwilmingtonde.com/events/masha-ryskins-reveries-line",
+     "Date":"2018-04-01T00:00:00-04:00",
      "Location":"The Delaware Contemporary",
      "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
      "Tags":[
-        "#INbudget ($0-$10)",
-        "Visual Arts"
+        "#inbudget ($0$10)",
+        "visual arts"
      ]
   },
   {
-     "Name":"Group Show Ed Bronstein Sherrill Cooper Barbara Straussberg",
-     "Description":"Our March show features landscapes, city scenes and still lifes by Ed Bronstein; gestural figure paintings in oil by Sherrill Cooper, and abstract mixed media work by Barbara Straussberg. Wine and Cheese Opening Reception.",
-     "Link":"http://inwilmingtonde.com/events/group-show-ed-bronstein-sherrill-cooper-barbara-straussberg",
-     "Date":"2018-03-25T00:00:00-04:00",
-     "Location":"The Station Gallery",
-     "LocationLink":"http://inwilmingtonde.com/places/station-gallery",
+     "Name":"Point, counterpoint: alan soffer, brian dickerson, moe brooker",
+     "Description":"This communitycurated exhibition brings together three painters—alan soffer, brian dickerson, and moe brooker—who are attuned to harmonies and contrasts in abstract forms. Each artist explores the boundaries of the creative process through mixed media, color, form, and texture.",
+     "Link":"http://inwilmingtonde.com/events/point-counter-point-alan-soffer-brian-dickerson-moe-brooker",
+     "Date":"2018-04-01T00:00:00-04:00",
+     "Location":"Delaware Art Museum",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-art-museum",
      "Tags":[
-        "#INbudget ($0-$10)",
-        "Visual Arts"
+        "#inbudget ($0$10)",
+        "museum exhibitions",
+        "visual arts"
      ]
   },
   {
-     "Name":"Maryanne Pollock's Transit",
-     "Description":"Maryanne Pollock's abstract work finds affinity with the Washington Color School, where the application of pure color creates glowing visual sensations. Her spontaneous and improvisational style explores the effects between nurture and nature through the creative process...",
+     "Name":"Maryanne pollocks transit",
+     "Description":"Maryanne pollocks abstract work finds affinity with the washington color school, where the application of pure color creates glowing visual sensations. Her spontaneous and improvisational style explores the effects between nurture and nature through the creative process...",
      "Link":"http://inwilmingtonde.com/events/maryanne-pollocks-transit-0",
-     "Date":"2018-03-25T00:00:00-04:00",
+     "Date":"2018-04-01T00:00:00-04:00",
      "Location":"The Delaware Contemporary",
      "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
      "Tags":[
-        "#INbudget ($0-$10)",
-        "Visual Arts"
+        "#inbudget ($0$10)",
+        "visual arts"
      ]
   },
   {
-     "Name":"Photos with The Easter Bunny",
-     "Description":"The Easter Bunny is back, so hop into Concord Mall to celebrate the spring season! Pose for your holiday photos and create lasting family memories.",
-     "Link":"http://inwilmingtonde.com/events/photos-easter-bunny",
-     "Date":"2018-03-25T00:00:00-04:00",
-     "Location":"Concord Mall",
-     "LocationLink":"http://inwilmingtonde.com/places/concord-mall",
+     "Name":"The university of delaware lynn herrick sharp award exhibition (group)",
+     "Description":"Opening reception: friday, april 6, 2018, 5 9 pm during art loop",
+     "Link":"http://inwilmingtonde.com/events/university-delaware-lynn-herrick-sharp-award-exhibition-group",
+     "Date":"2018-04-01T00:00:00-04:00",
+     "Location":"The Delaware Contemporary",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
      "Tags":[
-        "#ALLinFun (Family Focused)"
+        "#inbudget ($0$10)",
+        "visual arts"
      ]
   },
   {
-     "Name":"Zoo IN You",
-     "Description":"Trillions of microbes make their homes inside our bodies, and we wouldn’t be able to survive without each other!",
-     "Link":"http://inwilmingtonde.com/events/zoo-you",
-     "Date":"2018-03-25T00:00:00-04:00",
-     "Location":"Delaware Museum of Natural History",
-     "LocationLink":"http://inwilmingtonde.com/places/delaware-museum-natural-history",
-     "Tags":[
-        "#ALLinFun (Family Focused)",
-        "#INbudget ($0-$10)",
-        "Educational (Family)",
-        "Museum Exhibitions"
-     ]
-  },
-  {
-     "Name":"The Drowsy Chaperone",
-     "Description":"The Drowsy Chaperone is a loving send-up of the Jazz Age musical, a musical within a comedy, featuring one show-stopping number after another.",
+     "Name":"The drowsy chaperone",
+     "Description":"The drowsy chaperone is a loving sendup of the jazz age musical, a musical within a comedy, featuring one showstopping number after another.",
      "Link":"http://inwilmingtonde.com/events/drowsy-chaperone",
-     "Date":"2018-03-25T00:00:00-04:00",
+     "Date":"2018-04-01T00:00:00-04:00",
      "Location":"The Candlelight Theatre",
      "LocationLink":"http://inwilmingtonde.com/places/candlelight-theatre",
      "Tags":[
@@ -246,607 +222,2113 @@
      ]
   },
   {
-     "Name":"Eggstravaganza: Breakfast and Egg Hunt",
-     "Description":"Enjoy a morning at the Museum and we’ll fix a pancake breakfast for the whole family! After a wonderful meal, watch your children delight as they hunt for treat-filled eggs in our egg hunt through our gardens. Please dress accordingly for an outdoor egg hunt; it will be moved inside for rain.",
-     "Link":"http://inwilmingtonde.com/events/eggstravaganza-breakfast-egg-hunt-0",
-     "Date":"2018-03-25T00:00:00-04:00",
-     "Location":"Delaware Museum of Natural History",
-     "LocationLink":"http://inwilmingtonde.com/places/delaware-museum-natural-history",
-     "Tags":[
-        "#ALLinFun (Family Focused)",
-        "#INbudget ($0-$10)",
-        "Holiday"
-     ]
-  },
-  {
-     "Name":"Eye on Nature: Andrew Wyeth and John Ruskin",
-     "Description":"Born almost exactly 100 years apart, the American painter, Andrew Wyeth (1917–2009) and the British critic and amateur artist, John Ruskin (1819–1900) shared a life-long obsession for the close observation and finely rendered imagery of the world around them. This exhibition places the work of Andrew Wyeth and John Ruskin together for the first time, examining their varying approaches to interpreting the natural world.",
-     "Link":"http://inwilmingtonde.com/events/eye-nature-andrew-wyeth-and-john-ruskin",
-     "Date":"2018-03-25T00:00:00-04:00",
-     "Location":"Delaware Art Museum",
-     "LocationLink":"http://inwilmingtonde.com/places/delaware-art-museum",
-     "Tags":[
-        "#INbudget ($0-$10)",
-        "Museum Exhibitions",
-        "Visual Arts"
-     ]
-  },
-  {
-     "Name":"The Art Of Ken Segal",
-     "Description":"Stop by ArtzScape on Market Street #inWilm during the March Art Loop for a chance to get up close and personal with Delaware artist Ken Segal...",
-     "Link":"http://inwilmingtonde.com/events/art-ken-segal",
-     "Date":"2018-03-25T00:00:00-04:00",
-     "Location":"ArtzScape",
-     "LocationLink":"http://inwilmingtonde.com/places/artzscape",
-     "Tags":[
-        "#INbudget ($0-$10)"
-     ]
-  },
-  {
-     "Name":"Collecting for The Future",
-     "Description":"When Winterthur opened to the public in 1951, visitors toured a private collection assembled over several decades by Henry Francis du Pont (1880-1969). He dreamed that his collection and 175-room home would “afford all those interested an opportunity to view and to study the conditions surrounding the early American home life.”...",
-     "Link":"http://inwilmingtonde.com/events/collecting-future",
-     "Date":"2018-03-25T00:00:00-04:00",
-     "Location":"Winterthur Museum, Garden & Library",
-     "LocationLink":"http://inwilmingtonde.com/places/winterthur-museum-garden-library",
-     "Tags":[
-        "Educational (Family)",
-        "Museum Exhibitions"
-     ]
-  },
-  {
-     "Name":"The 2018 Young Brandywine Artists Exhibition",
-     "Description":"The Young Brandywine Artists Exhibition features outstanding artwork created by students in all schools within the Brandywine School District, from elementary through high school.",
-     "Link":"http://inwilmingtonde.com/events/2018-young-brandywine-artists-exhibition",
-     "Date":"2018-03-25T00:00:00-04:00",
-     "Location":"Blue Ball Barn",
-     "LocationLink":"http://inwilmingtonde.com/places/blue-ball-barn",
-     "Tags":[
-        "#ALLinFun (Family Focused)",
-        "#INbudget ($0-$10)",
-        "Visual Arts"
-     ]
-  },
-  {
-     "Name":"Masha Ryskin's Reveries with the Line",
-     "Description":"Ryskin uses unique materials such as tea bags, recycled fabric, or coffee to record fragments of life and experience in her installations, drawings, paintings, and prints. Art critic Arthur Whitman refers to Ryskin's work as experimental, that which crosses media and genre with an exploratory but disciplined sensibility.",
-     "Link":"http://inwilmingtonde.com/events/masha-ryskins-reveries-line",
-     "Date":"2018-03-25T00:00:00-04:00",
-     "Location":"The Delaware Contemporary",
-     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
-     "Tags":[
-        "#INbudget ($0-$10)",
-        "Visual Arts"
-     ]
-  },
-  {
-     "Name":"The Nature of Color: John Breakey and Scott Alan McClurg",
-     "Description":"Two artists, one gallery...",
-     "Link":"http://inwilmingtonde.com/events/nature-color-john-breakey-scott-alan-mcclurg",
-     "Date":"2018-03-25T00:00:00-04:00",
-     "Location":"The Delaware Contemporary",
-     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
-     "Tags":[
-        "#INbudget ($0-$10)",
-        "Visual Arts"
-     ]
-  },
-  {
-     "Name":"Eye Shadow Art Exhibit",
-     "Description":"Eye Shadow a Bebe Ross Coker BrainChild is an exploration of lived themes from a woman's perspective. Subjects include nature, self- development, feminism, motherhood, health and wellness, spirituality, friendship, community, social justice and more",
-     "Link":"http://inwilmingtonde.com/events/eye-shadow-art-exhibit",
-     "Date":"2018-03-25T00:00:00-04:00",
-     "Location":"Christina Cultural Arts Center",
-     "LocationLink":"http://inwilmingtonde.com/places/christina-cultural-arts-center",
-     "Tags":[
-        "Visual Arts"
-     ]
-  },
-  {
-     "Name":"EGGstravaganza Breakfast and Egg Hunt",
-     "Description":"Enjoy a morning at the Museum and we’ll fix a pancake breakfast for the whole family! After a wonderful meal, watch your children delight as they hunt for treat-filled eggs in our egg hunt through our gardens. Please dress accordingly for an outdoor egg hunt; it will be moved inside for rain.g",
-     "Link":"http://inwilmingtonde.com/events/eggstravaganza-breakfast-egg-hunt",
-     "Date":"2018-03-25T00:00:00-04:00",
-     "Location":"Delaware Museum of Natural History",
-     "LocationLink":"http://inwilmingtonde.com/places/delaware-museum-natural-history",
-     "Tags":[
-        "#ALLinFun (Family Focused)",
-        "#INbudget ($0-$10)",
-        "Food and Drink"
-     ]
-  },
-  {
-     "Name":"Point, Counter-Point: Alan Soffer, Brian Dickerson, Moe Brooker",
-     "Description":"This community-curated exhibition brings together three painters—Alan Soffer, Brian Dickerson, and Moe Brooker—who are attuned to harmonies and contrasts in abstract forms. Each artist explores the boundaries of the creative process through mixed media, color, form, and texture.",
-     "Link":"http://inwilmingtonde.com/events/point-counter-point-alan-soffer-brian-dickerson-moe-brooker",
-     "Date":"2018-03-25T00:00:00-04:00",
-     "Location":"Delaware Art Museum",
-     "LocationLink":"http://inwilmingtonde.com/places/delaware-art-museum",
-     "Tags":[
-        "#INbudget ($0-$10)",
-        "Museum Exhibitions",
-        "Visual Arts"
-     ]
-  },
-  {
-     "Name":"Animal Enrichment Workshop",
-     "Description":"Craft-loving individuals will enjoy this hands-on workshop making enrichment for our Zoo animals. Learn all about the different kinds of enrichment we use to engage our animals’ minds at Brandywine Zoo, help us craft and create new items, and see some of your hard work given out around the Zoo! You’ll also be able to make some awesome enrichment to bring back to your pets at home! This month's animal:Bobcat!",
-     "Link":"http://inwilmingtonde.com/events/animal-enrichment-workshop-1",
-     "Date":"2018-03-25T00:00:00-04:00",
-     "Location":"Brandywine Zoo",
-     "LocationLink":"http://inwilmingtonde.com/places/brandywine-zoo",
-     "Tags":[
-        "#ALLinFun (Family Focused)",
-        "#INbudget ($0-$10)",
-        "Animals and Nature",
-        "Educational (Family)",
-        "Science"
-     ]
-  },
-  {
-     "Name":"Soulful Sunday Brunch",
-     "Description":"Soulful Sunday Brunch at Celebrations on Market features Live Jazz, Gospel and Blues and a Soulful Buffet that includes a Bottomless Mimosa option!",
-     "Link":"http://inwilmingtonde.com/events/soulful-sunday-brunch",
-     "Date":"2018-03-25T00:00:00-04:00",
-     "Location":"Celebrations on Market",
-     "LocationLink":"http://inwilmingtonde.com/places/celebrations-market",
-     "Tags":[
-        "Blues",
-        "Food and Drink",
-        "Jazz",
-        "Rhythm and Blues"
-     ]
-  },
-  {
-     "Name":"Community Easter Egg Hunt",
-     "Description":"Our annual community Easter Egg Hunt takes place immediately following our 10:30 service (@ 11:40 am). We will gather outside by the playground. Children of all ages are invited to attend. Bring your own basket; we will have extra bags available for those who forget. Simple snacks will be provided. The Easter Bunny will be making an appearance. In the event of inclement weather, the egg hunt will take place at 12:15 pm on Easter Sunday.",
-     "Link":"http://inwilmingtonde.com/events/community-easter-egg-hunt",
-     "Date":"2018-03-25T00:00:00-04:00",
-     "Location":"Red Clay Creek Presbyterian Church",
-     "LocationLink":"http://inwilmingtonde.com/places/red-clay-creek-presbyterian-church",
-     "Tags":[
-        "#ALLinFun (Family Focused)",
-        "#INbudget ($0-$10)",
-        "Neighborhoods"
-     ]
-  },
-  {
-     "Name":"Sunday Jazz/Gospel Brunch",
-     "Description":"Brunch is available from 12:00pm until 3pm. Ala carte dining is offered from 3pm on. Enjoy live Jazz and Gospel from 1pm til 4pm",
-     "Link":"http://inwilmingtonde.com/events/sunday-jazzgospel-brunch",
-     "Date":"2018-03-25T00:00:00-04:00",
-     "Location":"Celebrations on Market",
-     "LocationLink":"http://inwilmingtonde.com/places/celebrations-market",
-     "Tags":[
-        "Jazz"
-     ]
-  },
-  {
-     "Name":"A Doll's House",
-     "Description":"Wilmington Drama League presents a black box production of the gothic Ibsen play, A Doll’s House...",
-     "Link":"http://inwilmingtonde.com/dolls-house",
-     "Date":"2018-03-25T00:00:00-04:00",
-     "Location":"Wilmington Drama League",
-     "LocationLink":"http://inwilmingtonde.com/places/wilmington-drama-league",
-     "Tags":[
-        "Theater"
-     ]
-  },
-  {
-     "Name":"Jay Ungar and Molly Mason",
-     "Description":"Fiddle-guitarist duo, Jay Ungar and Molly Mason, husband-and-wife perennial favorites, are back to charm listeners with their exceptional musicianship and comfortable rapport with the audience. Explorers into the breadth of traditional American music, the duo have performed on CBS’s Good Morning, NPR’s All Things Considered, and have been regular guests on Prairie Home Companion. ",
-     "Link":"http://inwilmingtonde.com/events/jay-ungar-molly-mason",
-     "Date":"2018-03-25T00:00:00-04:00",
-     "Location":"live @ the baby grand",
-     "LocationLink":"http://inwilmingtonde.com/places/live-baby-grand",
-     "Tags":[
-        "Americana and Folk"
-     ]
-  },
-  {
-     "Name":"DCH Art Gallery Show: Inner Light by Terence Roberts",
-     "Description":"DCH's Art Gallery Show featuring Inner Light by Terence Roberts",
-     "Link":"http://inwilmingtonde.com/events/dch-art-gallery-show-inner-light-terence-roberts",
-     "Date":"2018-03-26T00:00:00-04:00",
-     "Location":"Delaware Center for Horticulture",
-     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-horticulture",
-     "Tags":[
-        "#INbudget ($0-$10)",
-        "Garden",
-        "Networking and Social Events",
-        "Science",
-        "Visual Arts"
-     ]
-  },
-  {
-     "Name":"Kids eat free night with Jungle John",
-     "Description":"Join us each week for a great family night at Kid Shelleen's!",
-     "Link":"http://inwilmingtonde.com/events/kids-eat-free-night-jungle-john",
-     "Date":"2018-03-26T00:00:00-04:00",
-     "Location":"Kid Shelleen's",
-     "LocationLink":"http://inwilmingtonde.com/places/kid-shelleens",
-     "Tags":[
-        "#ALLinFun (Family Focused)",
-        "Visual Arts"
-     ]
-  },
-  {
-     "Name":"Speaker John W. Snell Developing Your Creative Vision",
-     "Description":"Lexington, Kentucky photographer John W. Snell invites you to raise your photography to a new level and experience some of the most beautiful places in America in a new way with his presentation: Developing Your Creative Vision on March 26, 2018 at a meeting of the Delaware Photographic Society. The meeting location is Cokesbury Village’s Auditorium C, 726 Loveville Road, Hockessin, DE 19707",
-     "Link":"http://inwilmingtonde.com/events/speaker-john-w-snell-developing-your-creative-vision",
-     "Date":"2018-03-26T00:00:00-04:00",
-     "Location":"Cokesbury Village",
-     "LocationLink":"http://inwilmingtonde.com/places/cokesbury-village",
-     "Tags":[
-        "#INbudget ($0-$10)",
-        "Classes",
-        "Lectures and Workshops",
-        "Visual Arts"
-     ]
-  },
-  {
-     "Name":"6.25 dollars Movies",
-     "Description":"Every Tuesday at Penn Cinema, all standard screenings are only 6.25 dollars, all day long!",
-     "Link":"http://inwilmingtonde.com/events/5-movies",
-     "Date":"2018-03-27T00:00:00-04:00",
-     "Location":"Penn Cinema Riverfront & IMAX Theatre",
-     "LocationLink":"http://inwilmingtonde.com/places/penn-cinema-riverfront-imax-theatre",
-     "Tags":[
-        "#INbudget ($0-$10)",
-        "Film"
-     ]
-  },
-  {
-     "Name":"Half-Price Burger Day",
-     "Description":"Tuesday is half-price burger day at Kid's!  Enjoy your favorites when you dine with us for lunch or dinner.  Taking out? Enjoy 25% off your takeout burgers, too! Find out why Kid's has been named Delaware's Best Burger for 5 years running!",
-     "Link":"http://inwilmingtonde.com/events/half-price-burger-day",
-     "Date":"2018-03-27T00:00:00-04:00",
-     "Location":"Kid Shelleen's",
-     "LocationLink":"http://inwilmingtonde.com/places/kid-shelleens",
-     "Tags":[
-        "#INbudget ($0-$10)",
-        "Food and Drink"
-     ]
-  },
-  {
-     "Name":"Flight Club",
-     "Description":"The Chelsea Tavern Flight Club in the Underground. What is the club all about? We can't tell you...",
-     "Link":"http://inwilmingtonde.com/events/flight-club",
-     "Date":"2018-03-27T00:00:00-04:00",
-     "Location":"Chelsea Tavern",
-     "LocationLink":"http://inwilmingtonde.com/places/chelsea-tavern-0",
-     "Tags":[
-        "Food and Drink",
-        "Networking and Social Events"
-     ]
-  },
-  {
-     "Name":"Her Story, Our History Event",
-     "Description":"Her Story, Our History is an event celebrating the achievements of women in business throughout history, hosted by the Women's Business Center at First State Community Loan Fund...",
-     "Link":"http://inwilmingtonde.com/events/her-story-our-history-event",
-     "Date":"2018-03-28T00:00:00-04:00",
-     "Location":"Brandywine Hundred Library",
-     "LocationLink":"http://inwilmingtonde.com/places/brandywine-hundred-library",
-     "Tags":[
-        "#INbudget ($0-$10)",
-        "Networking and Social Events"
-     ]
-  },
-  {
-     "Name":"Tosca from the Royal Opera House, London",
-     "Description":"Drama, passion and fabulous music- Puccini’s operatic thriller is one of the great opera experiences. Dan Ettinger conducts a star cast.",
-     "Link":"http://inwilmingtonde.com/events/tosca-royal-opera-house-london",
-     "Date":"2018-03-28T00:00:00-04:00",
-     "Location":"Theatre N",
-     "LocationLink":"http://inwilmingtonde.com/places/theatre-n",
-     "Tags":[
-        "Classical and Opera",
-        "Film"
-     ]
-  },
-  {
-     "Name":"Tasting Room Live Music",
-     "Description":"Come down to the Tasting Room every Wednesday for some live music and great beer! We've got different musicians playing every week, so stay tuned to social media for the inside scoop on who's playing when. We have some light food available from Sugarfoot Catering but also allow guests to bring their own food or order delivery to the tap room. See you all there!",
-     "Link":"http://inwilmingtonde.com/events/tasting-room-live-music",
-     "Date":"2018-03-28T00:00:00-04:00",
-     "Location":"Twin Lakes Brewery",
-     "LocationLink":"http://inwilmingtonde.com/places/twin-lakes-brewery",
-     "Tags":[
-        "Food and Drink",
-        "Networking and Social Events"
-     ]
-  },
-  {
-     "Name":"Edible Gardening for Small Spaces Series: Growing, Enjoying, and Preserving Herbs",
-     "Description":"Join DCH, New Castle Conservation District staff, and Delaware Cooperative Extension to grow and learn together through an entire season!",
-     "Link":"http://inwilmingtonde.com/events/edible-gardening-small-spaces-series-growing-enjoying-and-preserving-herbs",
-     "Date":"2018-03-28T00:00:00-04:00",
-     "Location":"Delaware Center for Horticulture",
-     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-horticulture",
-     "Tags":[
-        "#ALLinFun (Family Focused)",
-        "Animals and Nature",
-        "Classes",
-        "Lectures and Workshops",
-        "Garden",
-        "Science"
-     ]
-  },
-  {
-     "Name":"Edible Gardening for Small Spaces Series",
-     "Description":"Join DCH, New Castle Conservation District staff, and Delaware Cooperative Extension to grow and learn together through an entire season!",
-     "Link":"http://inwilmingtonde.com/events/edible-gardening-small-spaces-series",
-     "Date":"2018-03-28T00:00:00-04:00",
-     "Location":"Delaware Center for Horticulture",
-     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-horticulture",
-     "Tags":[
-        "#ALLinFun (Family Focused)",
-        "Animals and Nature",
-        "Classes",
-        "Lectures and Workshops",
-        "Educational (Family)"
-     ]
-  },
-  {
-     "Name":"OPEN STUDIO: DRAWING and PAINTING",
-     "Description":"Plan a date night with your inner artist! These informal studio sessions offer a creative community space with the guidance of a professional teaching artist. Most materials included.",
-     "Link":"http://inwilmingtonde.com/events/open-studio-drawing-painting",
-     "Date":"2018-03-28T00:00:00-04:00",
-     "Location":"The Delaware Contemporary",
-     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
-     "Tags":[
-        "#ALLinFun (Family Focused)",
-        "#INbudget ($0-$10)",
-        "Classes",
-        "Lectures and Workshops",
-        "Visual Arts"
-     ]
-  },
-  {
-     "Name":"Wilmo Wednesdays",
-     "Description":"Each week, Gable Music Ventures will present a curated variety show featuring live music of all genres, stand-up comedy, spoken word and slam poetry, story-telling and other forms of performance art...",
-     "Link":"http://inwilmingtonde.com/events/wilmo-wednesdays-0",
-     "Date":"2018-03-28T00:00:00-04:00",
-     "Location":"Ernest & Scott Taproom",
-     "LocationLink":"http://inwilmingtonde.com/places/ernest-scott-taproom",
-     "Tags":[
-        "#INbudget ($0-$10)",
-        "Americana and Folk",
-        "Charities and Fundraising",
-        "Comedy",
-        "Hip-Hop",
-        "Poetry and Spoken Word",
-        "Reggae",
-        "Rhythm and Blues",
-        "Rock"
-     ]
-  },
-  {
-     "Name":"4W5 Blues Jam",
-     "Description":"Come out and enjoy, or even play with the longest running Blues Jam in Wilmington!",
-     "Link":"http://inwilmingtonde.com/events/4w5-blues-jam",
-     "Date":"2018-03-28T00:00:00-04:00",
-     "Location":"The Reef",
-     "LocationLink":"http://inwilmingtonde.com/places/reef",
-     "Tags":[
-        "#INbudget ($0-$10)",
-        "Blues"
-     ]
-  },
-  {
-     "Name":"Oddball Bingo",
-     "Description":"Every Wednesday night come on out to Oddity Bar for Oddball Bingo!",
-     "Link":"http://inwilmingtonde.com/events/oddball-bingo",
-     "Date":"2018-03-28T00:00:00-04:00",
-     "Location":"Oddity Bar",
-     "LocationLink":"http://inwilmingtonde.com/places/oddity-bar",
-     "Tags":[
-        "#INbudget ($0-$10)",
-        "Comedy",
-        "Games and Trivia"
-     ]
-  },
-  {
-     "Name":"Gentle Yoga, Year-Round at Winterthur",
-     "Description":"Try practicing yoga in a beautiful garden setting, strengthening your body and spirit.",
-     "Link":"http://inwilmingtonde.com/events/gentle-yoga-year-round-winterthur",
-     "Date":"2018-03-29T00:00:00-04:00",
-     "Location":"Winterthur Museum, Garden & Library",
-     "LocationLink":"http://inwilmingtonde.com/places/winterthur-museum-garden-library",
-     "Tags":[
-        "Health and Wellness"
-     ]
-  },
-  {
-     "Name":"Salsa! Latin Thursday with DJ Bis",
-     "Description":"Put your dancing shoes on and come out for a night of salsa! Whether you like Latin dancing, Latin music, or just socializing and having a great time, Celebrations on Market is the place for you every Thursday night.",
-     "Link":"http://inwilmingtonde.com/events/salsa-latin-thursday-dj-bis-0",
-     "Date":"2018-03-29T00:00:00-04:00",
-     "Location":"Celebrations on Market",
-     "LocationLink":"http://inwilmingtonde.com/places/celebrations-market",
-     "Tags":[
-        "#INbudget ($0-$10)",
-        "Dance/Ballet",
-        "Food and Drink",
-        "Networking and Social Events"
-     ]
-  },
-  {
-     "Name":"Glory of Stories",
-     "Description":"Glory of Stories introduces young visitor to art and the Museum through a story reading followed by an interactive tour of relevant works of art and a studio art project. This program encourages learning through discovery, exploration, and hands-on experiences...",
-     "Link":"http://inwilmingtonde.com/events/glory-stories-0",
-     "Date":"2018-03-30T00:00:00-04:00",
-     "Location":"Delaware Art Museum",
-     "LocationLink":"http://inwilmingtonde.com/places/delaware-art-museum",
-     "Tags":[
-        "#ALLinFun (Family Focused)",
-        "#INbudget ($0-$10)",
-        "Educational (Family)",
-        "Museum Exhibitions",
-        "Neighborhoods",
-        "Visual Arts"
-     ]
-  },
-  {
-     "Name":"Auburn Heights Egg Hunts",
-     "Description":"We look forward to welcoming all of those holding tickets to the 8th annual Auburn Heights Egg Hunts. Visitors are encouraged to bring a basket and join the hunt for thousands of eggs scattered around the Auburn Heights mansion.",
-     "Link":"http://inwilmingtonde.com/events/auburn-heights-egg-hunts",
-     "Date":"2018-03-30T00:00:00-04:00",
-     "Location":"Marshall Steam Museum",
-     "LocationLink":"http://inwilmingtonde.com/places/marshall-steam-museum",
-     "Tags":[
-        "#ALLinFun (Family Focused)",
-        "#INbudget ($0-$10)"
-     ]
-  },
-  {
-     "Name":"Keli Vale",
-     "Description":"Keli Vale plays Happy Hour at Harry's Savoy Grill",
-     "Link":"http://inwilmingtonde.com/events/keli-vale-1",
-     "Date":"2018-03-30T00:00:00-04:00",
-     "Location":"Harry's Savoy Grill",
-     "LocationLink":"http://inwilmingtonde.com/places/harrys-savoy-grill",
-     "Tags":[
-        "#INbudget ($0-$10)",
-        "Blues",
-        "Jazz"
-     ]
-  },
-  {
-     "Name":"Tween Yoga Event (Ages 9-12) w/Laura Mulrenin",
-     "Description":"An excess of school work, social media, and peer pressure can make it feel impossible for kids to take a break.In a world where multitasking in the norm, yoga provides an environment for focusing on one thing at a time. It helps reduce stress, improve mood, promote physical fitness and it’s fun! It’s great way for teens to gather and explore with their friends using new tools for finding peace, joy and gratitude.",
-     "Link":"http://inwilmingtonde.com/events/tween-yoga-event-ages-9-12-wlaura-mulrenin",
-     "Date":"2018-03-30T00:00:00-04:00",
-     "Location":"Sadhana Yoga",
-     "LocationLink":"http://inwilmingtonde.com/places/sadhana-yoga",
-     "Tags":[
-        "Health and Wellness"
-     ]
-  },
-  {
-     "Name":"WXPN Welcomes Langhorne Slim",
-     "Description":"Get ready for an evening of soulful folk rock you won't soon forget...",
-     "Link":"http://inwilmingtonde.com/events/wxpn-welcomes-langhorne-slim",
-     "Date":"2018-03-30T00:00:00-04:00",
-     "Location":"The Queen",
-     "LocationLink":"http://inwilmingtonde.com/places/the-queen",
-     "Tags":[
-        "Americana and Folk",
-        "Rock"
-     ]
-  },
-  {
-     "Name":"Easter at Kid Shelleen's",
-     "Description":"After you've found all the colored eggs and eaten the ears off the chocolate bunny, stop in at Kid's for our award-winning brunch! We'll serve brunch from 10-2:30, then our lunch/dinner menu after 2:30 til close. Menus on our website",
-     "Link":"http://inwilmingtonde.com/events/easter-kid-shelleens",
+     "Name":"Spring break science extravaganza",
+     "Description":"Join us for one or both of our actionpacked spring break camps! each day is spent exploring a different science or nature topic through games, crafts, science experiments, live animal presentations, and touring the museum galleries and special exhibit, zoo in you: the human microbiome. Campers must bring a bag lunch, snacks, and labeled water bottle each day. Morning and afternoon care available for an additional fee.",
+     "Link":"http://inwilmingtonde.com/events/spring-break-science-extravaganza",
      "Date":"2018-04-01T00:00:00-04:00",
-     "Location":"Kid Shelleen's",
-     "LocationLink":"http://inwilmingtonde.com/places/kid-shelleens",
+     "Location":"Delaware Museum of Natural History",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-museum-natural-history",
      "Tags":[
-        "Food and Drink"
+        "#allinfun (family focused)",
+        "animals and nature",
+        "classes",
+        "lectures and workshops",
+        "educational (family)"
      ]
   },
   {
-     "Name":"Dining by Design: Nature Displayed on the Dinner Table",
-     "Description":"From the 1600s to the present, dinnerware designs have been inspired by nature. Everything from painted butterflies and hand-modeled flowers to molded seashells can be found on a fascinating range of dishes and plates",
-     "Link":"http://inwilmingtonde.com/events/dining-design-nature-displayed-dinner-table",
+     "Name":"Easter brunch buffet with the bunny",
+     "Description":"Come and meet the rabbit himself.",
+     "Link":"http://inwilmingtonde.com/events/easter-brunch-buffet-bunny-0",
      "Date":"2018-04-01T00:00:00-04:00",
      "Location":"Winterthur Museum, Garden & Library",
      "LocationLink":"http://inwilmingtonde.com/places/winterthur-museum-garden-library",
      "Tags":[
-        "Educational (Family)",
-        "Museum Exhibitions"
+        "#allinfun (family focused)",
+        "food and drink",
+        "holiday"
      ]
   },
   {
-     "Name":"Easter Dining at Harry's Savoy Grill and Ballroom",
-     "Description":"Join us for a la carte or buffet dining at Harry's Savoy Grill and Ballroom",
+     "Name":"Easter dining at harrys savoy grill and ballroom",
+     "Description":"Join us for a la carte or buffet dining at harrys savoy grill and ballroom",
      "Link":"http://inwilmingtonde.com/events/easter-dining-harrys-savoy-grill-ballroom",
      "Date":"2018-04-01T00:00:00-04:00",
      "Location":"Harry's Savoy Grill",
      "LocationLink":"http://inwilmingtonde.com/places/harrys-savoy-grill",
      "Tags":[
-        "Food and Drink",
-        "Holiday"
+        "Food and drink",
+        "holiday"
      ]
   },
   {
-     "Name":"Follies: Architectural Whimsy in the Garden",
-     "Description":"A needle's eye in a pond, a Greek temple in the garden, an Ottoman tent sitting on a hill—these are just a few of the inspirations for our upcoming, first-ever outdoor exhibition Follies: Architectural Whimsy in the Garden! The exhibition showcases whimsical and classic garden structures located throughout the Winterthur estate...",
-     "Link":"http://inwilmingtonde.com/events/follies-architectural-whimsy-garden",
-     "Date":"2018-04-01T00:00:00-04:00",
-     "Location":"Winterthur Museum, Garden & Library",
-     "LocationLink":"http://inwilmingtonde.com/places/winterthur-museum-garden-library",
+     "Name":"Zoo in you",
+     "Description":"Trillions of microbes make their homes inside our bodies, and we wouldn’t be able to survive without each other!",
+     "Link":"http://inwilmingtonde.com/events/zoo-you",
+     "Date":"2018-04-02T00:00:00-04:00",
+     "Location":"Delaware Museum of Natural History",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-museum-natural-history",
      "Tags":[
-        "Garden",
-        "Museum Exhibitions"
+        "#allinfun (family focused)",
+        "#inbudget ($0$10)",
+        "educational (family)",
+        "museum exhibitions"
      ]
   },
   {
-     "Name":"Easter Brunch",
-     "Description":"Brunch Menu Includes; Eggs Benedict, Eggs Florentine, Asparagus and Crab Omelet, Steak and Eggs, Three Eggs with Bacon, French Toast, Avocado Toast, Western Omelet, Buttermilk Pancakes, Bacon, Onions, and Swiss Quiche.",
-     "Link":"http://inwilmingtonde.com/events/easter-brunch",
-     "Date":"2018-04-01T00:00:00-04:00",
-     "Location":"Tonic Bar & Grille",
-     "LocationLink":"http://inwilmingtonde.com/places/tonic-bar-grille",
+     "Name":"Eye shadow art exhibit",
+     "Description":"Eye shadow a bebe ross coker brainchild is an exploration of lived themes from a womans perspective. Subjects include nature, self development, feminism, motherhood, health and wellness, spirituality, friendship, community, social justice and more",
+     "Link":"http://inwilmingtonde.com/events/eye-shadow-art-exhibit",
+     "Date":"2018-04-02T00:00:00-04:00",
+     "Location":"Christina Cultural Arts Center",
+     "LocationLink":"http://inwilmingtonde.com/places/christina-cultural-arts-center",
      "Tags":[
-        "Food and Drink",
-        "Holiday"
+        "Visual arts"
      ]
   },
   {
-     "Name":"Book with a Bunny",
-     "Description":"Join us for an extra-special story time with the most popular bunny of spring! We’ll read a spring-time story about bunnies and meet a real-life, giant bunny from the Zoo!",
-     "Link":"http://inwilmingtonde.com/events/book-bunny",
-     "Date":"2018-04-01T00:00:00-04:00",
-     "Location":"Brandywine Zoo",
-     "LocationLink":"http://inwilmingtonde.com/places/brandywine-zoo",
+     "Name":"Spring break science extravaganza",
+     "Description":"Join us for one or both of our actionpacked spring break camps! each day is spent exploring a different science or nature topic through games, crafts, science experiments, live animal presentations, and touring the museum galleries and special exhibit, zoo in you: the human microbiome. Campers must bring a bag lunch, snacks, and labeled water bottle each day. Morning and afternoon care available for an additional fee.",
+     "Link":"http://inwilmingtonde.com/events/spring-break-science-extravaganza",
+     "Date":"2018-04-02T00:00:00-04:00",
+     "Location":"Delaware Museum of Natural History",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-museum-natural-history",
      "Tags":[
-        "#ALLinFun (Family Focused)",
-        "#INbudget ($0-$10)",
-        "Animals and Nature",
-        "Educational (Family)",
-        "Science"
+        "#allinfun (family focused)",
+        "animals and nature",
+        "classes",
+        "lectures and workshops",
+        "educational (family)"
      ]
   },
   {
-     "Name":"OPEN STUDIO: YOUTH DRAWING and PAINTING",
-     "Description":"These informal sessions are perfect for young artists to get creative with friends and meet new friends while working on their favorite things to draw and paint. Bring a work in progress or start from scratch! Drawing and painting supplies will be available and a professional teaching artist will be present to offer motivating prompts and constructive feedback.",
-     "Link":"http://inwilmingtonde.com/events/open-studio-youth-drawing-painting-0",
-     "Date":"2018-04-01T00:00:00-04:00",
-     "Location":"The Delaware Contemporary",
-     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
-     "Tags":[
-        "#ALLinFun (Family Focused)",
-        "#INbudget ($0-$10)",
-        "Classes",
-        "Lectures and Workshops",
-        "Visual Arts"
-     ]
-  },
-  {
-     "Name":"Spring Zoo Camp",
-     "Description":"Have a WILD spring break discovering how YOU can do science every day! Each day of the week will have its own Citizen Science related theme, where we’ll collect real data that helps real scientists. The week will be filled with zoo visits, live animal presentations, games, crafts, learning projects and more.",
+     "Name":"Spring zoo camp",
+     "Description":"Spring zoo camp april 26",
      "Link":"http://inwilmingtonde.com/events/spring-zoo-camp-0",
      "Date":"2018-04-02T00:00:00-04:00",
      "Location":"Brandywine Zoo",
      "LocationLink":"http://inwilmingtonde.com/places/brandywine-zoo",
      "Tags":[
-        "#ALLinFun (Family Focused)",
-        "Animals and Nature"
+        "#allinfun (family focused)",
+        "animals and nature"
      ]
   },
   {
-     "Name":"Silk and Honey",
-     "Description":"Come buzz with us every other Monday as AJ and Joanna bring the smooth, sweet melodies to the Tap House!",
+     "Name":"Follies: architectural whimsy in the garden",
+     "Description":"a needles eye in a pond, a greek temple in the garden, an ottoman tent sitting on a hill—these are just a few of the inspirations for our upcoming, firstever outdoor exhibition follies: architectural whimsy in the garden! the exhibition showcases whimsical and classic garden structures located throughout the winterthur estate...",
+     "Link":"http://inwilmingtonde.com/events/follies-architectural-whimsy-garden",
+     "Date":"2018-04-02T00:00:00-04:00",
+     "Location":"Winterthur Museum, Garden & Library",
+     "LocationLink":"http://inwilmingtonde.com/places/winterthur-museum-garden-library",
+     "Tags":[
+        "Garden",
+        "museum exhibitions"
+     ]
+  },
+  {
+     "Name":"Dining by design: nature displayed on the dinner table",
+     "Description":"From the 1600s to the present, dinnerware designs have been inspired by nature. Everything from painted butterflies and handmodeled flowers to molded seashells can be found on a fascinating range of dishes and plates. Whether it’s a recipe for barbecued fawn, fabulous tureens in the shapes of various animals, or instructions on how to fold a napkin so that it resembles a palm tree, prepare to be delighted by this unusual, often humorous exhibition that lets you explore a visual feast of flora and fauna adorning hundreds of dazzling ceramics and tablewares.",
+     "Link":"http://inwilmingtonde.com/events/dining-design-nature-displayed-dinner-table",
+     "Date":"2018-04-02T00:00:00-04:00",
+     "Location":"Winterthur Museum, Garden & Library",
+     "LocationLink":"http://inwilmingtonde.com/places/winterthur-museum-garden-library",
+     "Tags":[
+        "Educational (family)",
+        "museum exhibitions"
+     ]
+  },
+  {
+     "Name":"Kids eat free night with jungle john",
+     "Description":"Join us each week for a great family night at kid shelleens!",
+     "Link":"http://inwilmingtonde.com/events/kids-eat-free-night-jungle-john",
+     "Date":"2018-04-02T00:00:00-04:00",
+     "Location":"Kid Shelleen's",
+     "LocationLink":"http://inwilmingtonde.com/places/kid-shelleens",
+     "Tags":[
+        "#allinfun (family focused)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Silk and honey",
+     "Description":"Come buzz with us every other monday as aj and joanna bring the smooth, sweet melodies to the tap house!",
      "Link":"http://inwilmingtonde.com/events/silk-honey",
      "Date":"2018-04-02T00:00:00-04:00",
      "Location":"Trolley Tap House",
      "LocationLink":"http://inwilmingtonde.com/places/trolley-tap-house",
      "Tags":[
-        "#INbudget ($0-$10)",
-        "Americana and Folk",
-        "Rock"
+        "#inbudget ($0$10)",
+        "americana and folk",
+        "rock"
+     ]
+  },
+  {
+     "Name":"Halfprice burger day",
+     "Description":"Tuesday is half-price burger day at Kid's!  Enjoy your favorites when you dine with us for lunch or dinner.  Taking out?  Enjoy 25% off your takeout burgers, too!",
+     "Link":"http://inwilmingtonde.com/events/half-price-burger-day",
+     "Date":"2018-04-03T00:00:00-04:00",
+     "Location":"Kid Shelleen's",
+     "LocationLink":"http://inwilmingtonde.com/places/kid-shelleens",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "food and drink"
+     ]
+  },
+  {
+     "Name":"Collecting for the future",
+     "Description":"When winterthur opened to the public in 1951, visitors toured a private collection assembled over several decades by henry francis du pont (18801969). He dreamed that his collection and 175room home would afford all those interested an opportunity to view and to study the conditions surrounding the early american home life....",
+     "Link":"http://inwilmingtonde.com/events/collecting-future",
+     "Date":"2018-04-03T00:00:00-04:00",
+     "Location":"Winterthur Museum, Garden & Library",
+     "LocationLink":"http://inwilmingtonde.com/places/winterthur-museum-garden-library",
+     "Tags":[
+        "Educational (family)",
+        "museum exhibitions"
+     ]
+  },
+  {
+     "Name":"The university of delaware alumni invitational",
+     "Description":"The delaware contemporary announces our joint venture with the university of delaware presenting the department of art and design alumni invitational. This exhibition investigates the departments impact on the regional art and design landscape by featuring alumni artists from the midatlantic area. These artists work in a variety of media from serial comic imagery to sculptures, works on paper, and painting with the artwork ranging from dynamic furniture pieces and theatrical mechanical machines to representational portraits and graphic design. Through their inventive processes each artist strives to connect the viewer to a sensorybased experience about ideas, time, and place.",
+     "Link":"http://inwilmingtonde.com/events/university-delaware-alumni-invitational",
+     "Date":"2018-04-03T00:00:00-04:00",
+     "Location":"The Delaware Contemporary",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"The figure: the indicative and the allusive (group)",
+     "Description":"Opening reception: friday, april 6, 2018 | 5 9 pm during art loop withpanel discussion: 6 7 pm",
+     "Link":"http://inwilmingtonde.com/events/figure-indicative-and-allusive-group",
+     "Date":"2018-04-03T00:00:00-04:00",
+     "Location":"The Delaware Contemporary",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Zoo in you",
+     "Description":"Trillions of microbes make their homes inside our bodies, and we wouldn’t be able to survive without each other!",
+     "Link":"http://inwilmingtonde.com/events/zoo-you",
+     "Date":"2018-04-03T00:00:00-04:00",
+     "Location":"Delaware Museum of Natural History",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-museum-natural-history",
+     "Tags":[
+        "#allinfun (family focused)",
+        "#inbudget ($0$10)",
+        "educational (family)",
+        "museum exhibitions"
+     ]
+  },
+  {
+     "Name":"Eye shadow art exhibit",
+     "Description":"Eye shadow a bebe ross coker brainchild is an exploration of lived themes from a womans perspective. Subjects include nature, self development, feminism, motherhood, health and wellness, spirituality, friendship, community, social justice and more",
+     "Link":"http://inwilmingtonde.com/events/eye-shadow-art-exhibit",
+     "Date":"2018-04-03T00:00:00-04:00",
+     "Location":"Christina Cultural Arts Center",
+     "LocationLink":"http://inwilmingtonde.com/places/christina-cultural-arts-center",
+     "Tags":[
+        "Visual arts"
+     ]
+  },
+  {
+     "Name":"Masha ryskins reveries with the line",
+     "Description":"Ryskin uses unique materials such as tea bags, recycled fabric, or coffee to record fragments of life and experience in her installations, drawings, paintings, and prints. Art critic arthur whitman refers to ryskins work as experimental, that which crosses media and genre with an exploratory but disciplined sensibility. ...",
+     "Link":"http://inwilmingtonde.com/events/masha-ryskins-reveries-line",
+     "Date":"2018-04-03T00:00:00-04:00",
+     "Location":"The Delaware Contemporary",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"$6.25 movies",
+     "Description":"Every tuesday at penn cinema , all standard screenings are only $6.25, all day long!",
+     "Link":"http://inwilmingtonde.com/events/5-movies",
+     "Date":"2018-04-03T00:00:00-04:00",
+     "Location":"Penn Cinema Riverfront & IMAX Theatre",
+     "LocationLink":"http://inwilmingtonde.com/places/penn-cinema-riverfront-imax-theatre",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "film"
+     ]
+  },
+  {
+     "Name":"Maryanne pollocks transit",
+     "Description":"Maryanne pollocks abstract work finds affinity with the washington color school, where the application of pure color creates glowing visual sensations. Her spontaneous and improvisational style explores the effects between nurture and nature through the creative process...",
+     "Link":"http://inwilmingtonde.com/events/maryanne-pollocks-transit-0",
+     "Date":"2018-04-03T00:00:00-04:00",
+     "Location":"The Delaware Contemporary",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"The university of delaware lynn herrick sharp award exhibition (group)",
+     "Description":"Opening reception: friday, april 6, 2018, 5 9 pm during art loop",
+     "Link":"http://inwilmingtonde.com/events/university-delaware-lynn-herrick-sharp-award-exhibition-group",
+     "Date":"2018-04-03T00:00:00-04:00",
+     "Location":"The Delaware Contemporary",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Spring zoo camp",
+     "Description":"Spring zoo camp april 26",
+     "Link":"http://inwilmingtonde.com/events/spring-zoo-camp-0",
+     "Date":"2018-04-03T00:00:00-04:00",
+     "Location":"Brandywine Zoo",
+     "LocationLink":"http://inwilmingtonde.com/places/brandywine-zoo",
+     "Tags":[
+        "#allinfun (family focused)",
+        "animals and nature"
+     ]
+  },
+  {
+     "Name":"Follies: architectural whimsy in the garden",
+     "Description":"a needles eye in a pond, a greek temple in the garden, an ottoman tent sitting on a hill—these are just a few of the inspirations for our upcoming, firstever outdoor exhibition follies: architectural whimsy in the garden! the exhibition showcases whimsical and classic garden structures located throughout the winterthur estate...",
+     "Link":"http://inwilmingtonde.com/events/follies-architectural-whimsy-garden",
+     "Date":"2018-04-03T00:00:00-04:00",
+     "Location":"Winterthur Museum, Garden & Library",
+     "LocationLink":"http://inwilmingtonde.com/places/winterthur-museum-garden-library",
+     "Tags":[
+        "Garden",
+        "museum exhibitions"
+     ]
+  },
+  {
+     "Name":"Dining by design: nature displayed on the dinner table",
+     "Description":"From the 1600s to the present, dinnerware designs have been inspired by nature. Everything from painted butterflies and handmodeled flowers to molded seashells can be found on a fascinating range of dishes and plates. Whether it’s a recipe for barbecued fawn, fabulous tureens in the shapes of various animals, or instructions on how to fold a napkin so that it resembles a palm tree, prepare to be delighted by this unusual, often humorous exhibition that lets you explore a visual feast of flora and fauna adorning hundreds of dazzling ceramics and tablewares.",
+     "Link":"http://inwilmingtonde.com/events/dining-design-nature-displayed-dinner-table",
+     "Date":"2018-04-03T00:00:00-04:00",
+     "Location":"Winterthur Museum, Garden & Library",
+     "LocationLink":"http://inwilmingtonde.com/places/winterthur-museum-garden-library",
+     "Tags":[
+        "Educational (family)",
+        "museum exhibitions"
+     ]
+  },
+  {
+     "Name":"Flight club",
+     "Description":"The chelsea tavern flight club in the underground. What is the club all about? we cant tell you...",
+     "Link":"http://inwilmingtonde.com/events/flight-club",
+     "Date":"2018-04-03T00:00:00-04:00",
+     "Location":"Chelsea Tavern",
+     "LocationLink":"http://inwilmingtonde.com/places/chelsea-tavern-0",
+     "Tags":[
+        "Food and drink",
+        "networking and social events"
+     ]
+  },
+  {
+     "Name":"Town hall tuesday with ken simpler rescheduled!",
+     "Description":"Do not miss out on a great night and ability to share your thoughts about delawares finances.",
+     "Link":"http://inwilmingtonde.com/events/town-hall-tuesday-ken-simpler-rescheduled",
+     "Date":"2018-04-03T00:00:00-04:00",
+     "Location":"Tonic Bar & Grille",
+     "LocationLink":"http://inwilmingtonde.com/places/tonic-bar-grille",
+     "Tags":[
+        "Classes",
+        "lectures and workshops",
+        "neighborhoods",
+        "networking and social events"
+     ]
+  },
+  {
+     "Name":"Dirty dancing the classic story on stage",
+     "Description":"Dirty dancing – the classic story on stage is an unprecedented live experience, exploding with heartpounding music, passionate romance and sensational dancing. Seen by millions across the globe, this worldwide smash hit features the hit songs hungry eyes, hey baby, do you love me? and the heartstopping (i’ve had) the time of my life. London’s sunday express says, this crowdpleasing stage adaptation hits the jackpot! it’s the summer of 1963, and 17yearold frances baby houseman is on vacation in new york’s catskill mountains with her older sister and parents. Baby discovers her own entertainment when she stumbles upon the staff quarters where an allnight dance party is in full swing. Mesmerized by the raunchy dance moves and the pounding rhythms, baby can’t wait to be part of the scene, especially when she catches sight of johnny castle the resort dance instructor. Baby’s life is about to change forever as she is thrown in at the deep end as johnny’s leading lady both onstage and off with breathtaking consequences. Don’t miss your chance to see this recordbreaking and adventurous theatre sensation. You’ll have the time of your life!",
+     "Link":"http://inwilmingtonde.com/events/dirty-dancing-classic-story-stage",
+     "Date":"2018-04-03T00:00:00-04:00",
+     "Location":"The Playhouse on Rodney Square",
+     "LocationLink":"http://inwilmingtonde.com/places/playhouse-rodney-square",
+     "Tags":[
+        "Musical theater"
+     ]
+  },
+  {
+     "Name":"Eye on nature: andrew wyeth and john ruskin",
+     "Description":"Born almost exactly 100 years apart, the american painter, andrew wyeth (1917–2009) and the british critic and amateur artist, john ruskin (1819–1900) shared a lifelong obsession for the close observation and finely rendered imagery of the world around them. This exhibition places the work of andrew wyeth and john ruskin together for the first time, examining their varying approaches to interpreting the natural world.",
+     "Link":"http://inwilmingtonde.com/events/eye-nature-andrew-wyeth-and-john-ruskin",
+     "Date":"2018-04-04T00:00:00-04:00",
+     "Location":"Delaware Art Museum",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-art-museum",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "museum exhibitions",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Collecting for the future",
+     "Description":"When winterthur opened to the public in 1951, visitors toured a private collection assembled over several decades by henry francis du pont (18801969). He dreamed that his collection and 175room home would afford all those interested an opportunity to view and to study the conditions surrounding the early american home life....",
+     "Link":"http://inwilmingtonde.com/events/collecting-future",
+     "Date":"2018-04-04T00:00:00-04:00",
+     "Location":"Winterthur Museum, Garden & Library",
+     "LocationLink":"http://inwilmingtonde.com/places/winterthur-museum-garden-library",
+     "Tags":[
+        "Educational (family)",
+        "museum exhibitions"
+     ]
+  },
+  {
+     "Name":"Zoo in you",
+     "Description":"Trillions of microbes make their homes inside our bodies, and we wouldn’t be able to survive without each other!",
+     "Link":"http://inwilmingtonde.com/events/zoo-you",
+     "Date":"2018-04-04T00:00:00-04:00",
+     "Location":"Delaware Museum of Natural History",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-museum-natural-history",
+     "Tags":[
+        "#allinfun (family focused)",
+        "#inbudget ($0$10)",
+        "educational (family)",
+        "museum exhibitions"
+     ]
+  },
+  {
+     "Name":"The university of delaware alumni invitational",
+     "Description":"The delaware contemporary announces our joint venture with the university of delaware presenting the department of art and design alumni invitational. This exhibition investigates the departments impact on the regional art and design landscape by featuring alumni artists from the midatlantic area. These artists work in a variety of media from serial comic imagery to sculptures, works on paper, and painting with the artwork ranging from dynamic furniture pieces and theatrical mechanical machines to representational portraits and graphic design. Through their inventive processes each artist strives to connect the viewer to a sensorybased experience about ideas, time, and place.",
+     "Link":"http://inwilmingtonde.com/events/university-delaware-alumni-invitational",
+     "Date":"2018-04-04T00:00:00-04:00",
+     "Location":"The Delaware Contemporary",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"The figure: the indicative and the allusive (group)",
+     "Description":"Opening reception: friday, april 6, 2018 | 5 9 pm during art loop withpanel discussion: 6 7 pm",
+     "Link":"http://inwilmingtonde.com/events/figure-indicative-and-allusive-group",
+     "Date":"2018-04-04T00:00:00-04:00",
+     "Location":"The Delaware Contemporary",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Eye shadow art exhibit",
+     "Description":"Eye shadow a bebe ross coker brainchild is an exploration of lived themes from a womans perspective. Subjects include nature, self development, feminism, motherhood, health and wellness, spirituality, friendship, community, social justice and more",
+     "Link":"http://inwilmingtonde.com/events/eye-shadow-art-exhibit",
+     "Date":"2018-04-04T00:00:00-04:00",
+     "Location":"Christina Cultural Arts Center",
+     "LocationLink":"http://inwilmingtonde.com/places/christina-cultural-arts-center",
+     "Tags":[
+        "Visual arts"
+     ]
+  },
+  {
+     "Name":"Masha ryskins reveries with the line",
+     "Description":"Ryskin uses unique materials such as tea bags, recycled fabric, or coffee to record fragments of life and experience in her installations, drawings, paintings, and prints. Art critic arthur whitman refers to ryskins work as experimental, that which crosses media and genre with an exploratory but disciplined sensibility. ...",
+     "Link":"http://inwilmingtonde.com/events/masha-ryskins-reveries-line",
+     "Date":"2018-04-04T00:00:00-04:00",
+     "Location":"The Delaware Contemporary",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Point, counterpoint: alan soffer, brian dickerson, moe brooker",
+     "Description":"This communitycurated exhibition brings together three painters—alan soffer, brian dickerson, and moe brooker—who are attuned to harmonies and contrasts in abstract forms. Each artist explores the boundaries of the creative process through mixed media, color, form, and texture.",
+     "Link":"http://inwilmingtonde.com/events/point-counter-point-alan-soffer-brian-dickerson-moe-brooker",
+     "Date":"2018-04-04T00:00:00-04:00",
+     "Location":"Delaware Art Museum",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-art-museum",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "museum exhibitions",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Maryanne pollocks transit",
+     "Description":"Maryanne pollocks abstract work finds affinity with the washington color school, where the application of pure color creates glowing visual sensations. Her spontaneous and improvisational style explores the effects between nurture and nature through the creative process...",
+     "Link":"http://inwilmingtonde.com/events/maryanne-pollocks-transit-0",
+     "Date":"2018-04-04T00:00:00-04:00",
+     "Location":"The Delaware Contemporary",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"The university of delaware lynn herrick sharp award exhibition (group)",
+     "Description":"Opening reception: friday, april 6, 2018, 5 9 pm during art loop",
+     "Link":"http://inwilmingtonde.com/events/university-delaware-lynn-herrick-sharp-award-exhibition-group",
+     "Date":"2018-04-04T00:00:00-04:00",
+     "Location":"The Delaware Contemporary",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Spring zoo camp",
+     "Description":"Spring zoo camp april 26",
+     "Link":"http://inwilmingtonde.com/events/spring-zoo-camp-0",
+     "Date":"2018-04-04T00:00:00-04:00",
+     "Location":"Brandywine Zoo",
+     "LocationLink":"http://inwilmingtonde.com/places/brandywine-zoo",
+     "Tags":[
+        "#allinfun (family focused)",
+        "animals and nature"
+     ]
+  },
+  {
+     "Name":"Follies: architectural whimsy in the garden",
+     "Description":"a needles eye in a pond, a greek temple in the garden, an ottoman tent sitting on a hill—these are just a few of the inspirations for our upcoming, firstever outdoor exhibition follies: architectural whimsy in the garden! the exhibition showcases whimsical and classic garden structures located throughout the winterthur estate...",
+     "Link":"http://inwilmingtonde.com/events/follies-architectural-whimsy-garden",
+     "Date":"2018-04-04T00:00:00-04:00",
+     "Location":"Winterthur Museum, Garden & Library",
+     "LocationLink":"http://inwilmingtonde.com/places/winterthur-museum-garden-library",
+     "Tags":[
+        "Garden",
+        "museum exhibitions"
+     ]
+  },
+  {
+     "Name":"Dining by design: nature displayed on the dinner table",
+     "Description":"From the 1600s to the present, dinnerware designs have been inspired by nature. Everything from painted butterflies and handmodeled flowers to molded seashells can be found on a fascinating range of dishes and plates. Whether it’s a recipe for barbecued fawn, fabulous tureens in the shapes of various animals, or instructions on how to fold a napkin so that it resembles a palm tree, prepare to be delighted by this unusual, often humorous exhibition that lets you explore a visual feast of flora and fauna adorning hundreds of dazzling ceramics and tablewares.",
+     "Link":"http://inwilmingtonde.com/events/dining-design-nature-displayed-dinner-table",
+     "Date":"2018-04-04T00:00:00-04:00",
+     "Location":"Winterthur Museum, Garden & Library",
+     "LocationLink":"http://inwilmingtonde.com/places/winterthur-museum-garden-library",
+     "Tags":[
+        "Educational (family)",
+        "museum exhibitions"
+     ]
+  },
+  {
+     "Name":"2018 garden insider: a series of garden walks, talks, and demonstrations",
+     "Description":"Wednesdays, april–october 11:00 am, brown horticulture learning centergo behindthescenes with the experts! each week winterthur introduces you to a specialist who will share with you his/her insights and expertise about the winterthur garden and estate, its history, horticulture, or the environment. Presentations may be in the form of a walk, talk, or demonstration (or a combination). About 1 hour. Members free. Included with admission.",
+     "Link":"http://inwilmingtonde.com/events/2018-garden-insider-series-garden-walks-talks-and-demonstrations",
+     "Date":"2018-04-04T00:00:00-04:00",
+     "Location":"Winterthur Museum, Garden & Library",
+     "LocationLink":"http://inwilmingtonde.com/places/winterthur-museum-garden-library",
+     "Tags":[
+        "Animals and nature",
+        "classes",
+        "lectures and workshops",
+        "garden",
+        "history"
+     ]
+  },
+  {
+     "Name":"Dirty dancing the classic story on stage",
+     "Description":"Dirty dancing – the classic story on stage is an unprecedented live experience, exploding with heartpounding music, passionate romance and sensational dancing. Seen by millions across the globe, this worldwide smash hit features the hit songs hungry eyes, hey baby, do you love me? and the heartstopping (i’ve had) the time of my life. London’s sunday express says, this crowdpleasing stage adaptation hits the jackpot! it’s the summer of 1963, and 17yearold frances baby houseman is on vacation in new york’s catskill mountains with her older sister and parents. Baby discovers her own entertainment when she stumbles upon the staff quarters where an allnight dance party is in full swing. Mesmerized by the raunchy dance moves and the pounding rhythms, baby can’t wait to be part of the scene, especially when she catches sight of johnny castle the resort dance instructor. Baby’s life is about to change forever as she is thrown in at the deep end as johnny’s leading lady both onstage and off with breathtaking consequences. Don’t miss your chance to see this recordbreaking and adventurous theatre sensation. You’ll have the time of your life!",
+     "Link":"http://inwilmingtonde.com/events/dirty-dancing-classic-story-stage",
+     "Date":"2018-04-04T00:00:00-04:00",
+     "Location":"The Playhouse on Rodney Square",
+     "LocationLink":"http://inwilmingtonde.com/places/playhouse-rodney-square",
+     "Tags":[
+        "Musical theater"
+     ]
+  },
+  {
+     "Name":"Happy hour make and mingle",
+     "Description":"This popular first wednesdays series is a great way to unwind midweek with a variety of new projects each month... Enjoy a drink, and tap into your creative side!",
+     "Link":"http://inwilmingtonde.com/events/happy-hour-make-mingle",
+     "Date":"2018-04-04T00:00:00-04:00",
+     "Location":"The Delaware Contemporary",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "classes",
+        "lectures and workshops",
+        "food and drink",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Tasting room live music",
+     "Description":"Come down to the tasting room every wednesday for some live music and great beer! weve got different musicians playing every week, so stay tuned to social media for the inside scoop on whos playing when. We have some light food available from sugarfoot catering but also allow guests to bring their own food or order delivery to the tap room. See you all there!",
+     "Link":"http://inwilmingtonde.com/events/tasting-room-live-music",
+     "Date":"2018-04-04T00:00:00-04:00",
+     "Location":"Twin Lakes Brewery",
+     "LocationLink":"http://inwilmingtonde.com/places/twin-lakes-brewery",
+     "Tags":[
+        "Food and drink",
+        "networking and social events"
+     ]
+  },
+  {
+     "Name":"Speaker series",
+     "Description":"Author joseph rose will discuss grant under fire",
+     "Link":"http://inwilmingtonde.com/events/speaker-series-3",
+     "Date":"2018-04-04T00:00:00-04:00",
+     "Location":"Timothy's on the Riverfront",
+     "LocationLink":"http://inwilmingtonde.com/places/timothys-riverfront",
+     "Tags":[
+        "#allinfun (family focused)",
+        "#inbudget ($0$10)",
+        "educational (family)",
+        "history"
+     ]
+  },
+  {
+     "Name":"Wilmo wednesdays",
+     "Description":"Each week, gable music ventures will present a curated variety show featuring live music of all genres, standup comedy, spoken word and slam poetry, storytelling and other forms of performance art...",
+     "Link":"http://inwilmingtonde.com/events/wilmo-wednesdays-0",
+     "Date":"2018-04-04T00:00:00-04:00",
+     "Location":"Ernest & Scott Taproom",
+     "LocationLink":"http://inwilmingtonde.com/places/ernest-scott-taproom",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "americana and folk",
+        "charities and fundraising",
+        "comedy",
+        "hiphop",
+        "poetry and spoken word",
+        "reggae",
+        "rhythm and blues",
+        "rock"
+     ]
+  },
+  {
+     "Name":"4w5 blues jam",
+     "Description":"Come out and enjoy, or even play with the longest running blues jam in wilmington!",
+     "Link":"http://inwilmingtonde.com/events/4w5-blues-jam",
+     "Date":"2018-04-04T00:00:00-04:00",
+     "Location":"The Reef",
+     "LocationLink":"http://inwilmingtonde.com/places/reef",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "blues"
+     ]
+  },
+  {
+     "Name":"Oddball bingo",
+     "Description":"Every wednesday night come on out to oddity bar for oddball bingo!",
+     "Link":"http://inwilmingtonde.com/events/oddball-bingo",
+     "Date":"2018-04-04T00:00:00-04:00",
+     "Location":"Oddity Bar",
+     "LocationLink":"http://inwilmingtonde.com/places/oddity-bar",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "comedy",
+        "games and trivia"
+     ]
+  },
+  {
+     "Name":"The university of delaware lynn herrick sharp award exhibition (group)",
+     "Description":"Opening reception: friday, april 6, 2018, 5 9 pm during art loop",
+     "Link":"http://inwilmingtonde.com/events/university-delaware-lynn-herrick-sharp-award-exhibition-group",
+     "Date":"2018-04-05T00:00:00-04:00",
+     "Location":"The Delaware Contemporary",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Eye on nature: andrew wyeth and john ruskin",
+     "Description":"Born almost exactly 100 years apart, the american painter, andrew wyeth (1917–2009) and the british critic and amateur artist, john ruskin (1819–1900) shared a lifelong obsession for the close observation and finely rendered imagery of the world around them. This exhibition places the work of andrew wyeth and john ruskin together for the first time, examining their varying approaches to interpreting the natural world.",
+     "Link":"http://inwilmingtonde.com/events/eye-nature-andrew-wyeth-and-john-ruskin",
+     "Date":"2018-04-05T00:00:00-04:00",
+     "Location":"Delaware Art Museum",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-art-museum",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "museum exhibitions",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Collecting for the future",
+     "Description":"When winterthur opened to the public in 1951, visitors toured a private collection assembled over several decades by henry francis du pont (18801969). He dreamed that his collection and 175room home would afford all those interested an opportunity to view and to study the conditions surrounding the early american home life....",
+     "Link":"http://inwilmingtonde.com/events/collecting-future",
+     "Date":"2018-04-05T00:00:00-04:00",
+     "Location":"Winterthur Museum, Garden & Library",
+     "LocationLink":"http://inwilmingtonde.com/places/winterthur-museum-garden-library",
+     "Tags":[
+        "Educational (family)",
+        "museum exhibitions"
+     ]
+  },
+  {
+     "Name":"Zoo in you",
+     "Description":"Trillions of microbes make their homes inside our bodies, and we wouldn’t be able to survive without each other!",
+     "Link":"http://inwilmingtonde.com/events/zoo-you",
+     "Date":"2018-04-05T00:00:00-04:00",
+     "Location":"Delaware Museum of Natural History",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-museum-natural-history",
+     "Tags":[
+        "#allinfun (family focused)",
+        "#inbudget ($0$10)",
+        "educational (family)",
+        "museum exhibitions"
+     ]
+  },
+  {
+     "Name":"The university of delaware alumni invitational",
+     "Description":"The delaware contemporary announces our joint venture with the university of delaware presenting the department of art and design alumni invitational. This exhibition investigates the departments impact on the regional art and design landscape by featuring alumni artists from the midatlantic area. These artists work in a variety of media from serial comic imagery to sculptures, works on paper, and painting with the artwork ranging from dynamic furniture pieces and theatrical mechanical machines to representational portraits and graphic design. Through their inventive processes each artist strives to connect the viewer to a sensorybased experience about ideas, time, and place.",
+     "Link":"http://inwilmingtonde.com/events/university-delaware-alumni-invitational",
+     "Date":"2018-04-05T00:00:00-04:00",
+     "Location":"The Delaware Contemporary",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"The figure: the indicative and the allusive (group)",
+     "Description":"Opening reception: friday, april 6, 2018 | 5 9 pm during art loop withpanel discussion: 6 7 pm",
+     "Link":"http://inwilmingtonde.com/events/figure-indicative-and-allusive-group",
+     "Date":"2018-04-05T00:00:00-04:00",
+     "Location":"The Delaware Contemporary",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Eye shadow art exhibit",
+     "Description":"Eye shadow a bebe ross coker brainchild is an exploration of lived themes from a womans perspective. Subjects include nature, self development, feminism, motherhood, health and wellness, spirituality, friendship, community, social justice and more",
+     "Link":"http://inwilmingtonde.com/events/eye-shadow-art-exhibit",
+     "Date":"2018-04-05T00:00:00-04:00",
+     "Location":"Christina Cultural Arts Center",
+     "LocationLink":"http://inwilmingtonde.com/places/christina-cultural-arts-center",
+     "Tags":[
+        "Visual arts"
+     ]
+  },
+  {
+     "Name":"Masha ryskins reveries with the line",
+     "Description":"Ryskin uses unique materials such as tea bags, recycled fabric, or coffee to record fragments of life and experience in her installations, drawings, paintings, and prints. Art critic arthur whitman refers to ryskins work as experimental, that which crosses media and genre with an exploratory but disciplined sensibility. ...",
+     "Link":"http://inwilmingtonde.com/events/masha-ryskins-reveries-line",
+     "Date":"2018-04-05T00:00:00-04:00",
+     "Location":"The Delaware Contemporary",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Point, counterpoint: alan soffer, brian dickerson, moe brooker",
+     "Description":"This communitycurated exhibition brings together three painters—alan soffer, brian dickerson, and moe brooker—who are attuned to harmonies and contrasts in abstract forms. Each artist explores the boundaries of the creative process through mixed media, color, form, and texture.",
+     "Link":"http://inwilmingtonde.com/events/point-counter-point-alan-soffer-brian-dickerson-moe-brooker",
+     "Date":"2018-04-05T00:00:00-04:00",
+     "Location":"Delaware Art Museum",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-art-museum",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "museum exhibitions",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Maryanne pollocks transit",
+     "Description":"Maryanne pollocks abstract work finds affinity with the washington color school, where the application of pure color creates glowing visual sensations. Her spontaneous and improvisational style explores the effects between nurture and nature through the creative process...",
+     "Link":"http://inwilmingtonde.com/events/maryanne-pollocks-transit-0",
+     "Date":"2018-04-05T00:00:00-04:00",
+     "Location":"The Delaware Contemporary",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Gentle yoga, yearround at winterthur",
+     "Description":"Try practicing yoga in a beautiful garden setting, strengthening your body and spirit.",
+     "Link":"http://inwilmingtonde.com/events/gentle-yoga-year-round-winterthur",
+     "Date":"2018-04-05T00:00:00-04:00",
+     "Location":"Winterthur Museum, Garden & Library",
+     "LocationLink":"http://inwilmingtonde.com/places/winterthur-museum-garden-library",
+     "Tags":[
+        "Health and wellness"
+     ]
+  },
+  {
+     "Name":"Spring zoo camp",
+     "Description":"Spring zoo camp april 26",
+     "Link":"http://inwilmingtonde.com/events/spring-zoo-camp-0",
+     "Date":"2018-04-05T00:00:00-04:00",
+     "Location":"Brandywine Zoo",
+     "LocationLink":"http://inwilmingtonde.com/places/brandywine-zoo",
+     "Tags":[
+        "#allinfun (family focused)",
+        "animals and nature"
+     ]
+  },
+  {
+     "Name":"Follies: architectural whimsy in the garden",
+     "Description":"a needles eye in a pond, a greek temple in the garden, an ottoman tent sitting on a hill—these are just a few of the inspirations for our upcoming, firstever outdoor exhibition follies: architectural whimsy in the garden! the exhibition showcases whimsical and classic garden structures located throughout the winterthur estate...",
+     "Link":"http://inwilmingtonde.com/events/follies-architectural-whimsy-garden",
+     "Date":"2018-04-05T00:00:00-04:00",
+     "Location":"Winterthur Museum, Garden & Library",
+     "LocationLink":"http://inwilmingtonde.com/places/winterthur-museum-garden-library",
+     "Tags":[
+        "Garden",
+        "museum exhibitions"
+     ]
+  },
+  {
+     "Name":"Dining by design: nature displayed on the dinner table",
+     "Description":"From the 1600s to the present, dinnerware designs have been inspired by nature. Everything from painted butterflies and handmodeled flowers to molded seashells can be found on a fascinating range of dishes and plates. Whether it’s a recipe for barbecued fawn, fabulous tureens in the shapes of various animals, or instructions on how to fold a napkin so that it resembles a palm tree, prepare to be delighted by this unusual, often humorous exhibition that lets you explore a visual feast of flora and fauna adorning hundreds of dazzling ceramics and tablewares.",
+     "Link":"http://inwilmingtonde.com/events/dining-design-nature-displayed-dinner-table",
+     "Date":"2018-04-05T00:00:00-04:00",
+     "Location":"Winterthur Museum, Garden & Library",
+     "LocationLink":"http://inwilmingtonde.com/places/winterthur-museum-garden-library",
+     "Tags":[
+        "Educational (family)",
+        "museum exhibitions"
+     ]
+  },
+  {
+     "Name":"Perfumemaking: focus on woods",
+     "Description":"Come learn about natural fragrance after viewing the exhibition eye on nature: andrew wyeth and john ruskin. Participants will be guided through creating their own fragrance using beautiful botanicals and essential oils. Participants will leave with a 1/4 ounce vial of their custom scent. Instructor: robin kielkowski. $80 members, $100 nonmembers. Register at delart.org.",
+     "Link":"http://inwilmingtonde.com/events/perfume-making-focus-woods",
+     "Date":"2018-04-05T00:00:00-04:00",
+     "Location":"Delaware Art Museum",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-art-museum",
+     "Tags":[
+        "Classes",
+        "lectures and workshops",
+        "museum exhibitions",
+        "neighborhoods",
+        "networking and social events",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Dirty dancing the classic story on stage",
+     "Description":"Dirty dancing – the classic story on stage is an unprecedented live experience, exploding with heartpounding music, passionate romance and sensational dancing. Seen by millions across the globe, this worldwide smash hit features the hit songs hungry eyes, hey baby, do you love me? and the heartstopping (i’ve had) the time of my life. London’s sunday express says, this crowdpleasing stage adaptation hits the jackpot! it’s the summer of 1963, and 17yearold frances baby houseman is on vacation in new york’s catskill mountains with her older sister and parents. Baby discovers her own entertainment when she stumbles upon the staff quarters where an allnight dance party is in full swing. Mesmerized by the raunchy dance moves and the pounding rhythms, baby can’t wait to be part of the scene, especially when she catches sight of johnny castle the resort dance instructor. Baby’s life is about to change forever as she is thrown in at the deep end as johnny’s leading lady both onstage and off with breathtaking consequences. Don’t miss your chance to see this recordbreaking and adventurous theatre sensation. You’ll have the time of your life!",
+     "Link":"http://inwilmingtonde.com/events/dirty-dancing-classic-story-stage",
+     "Date":"2018-04-05T00:00:00-04:00",
+     "Location":"The Playhouse on Rodney Square",
+     "LocationLink":"http://inwilmingtonde.com/places/playhouse-rodney-square",
+     "Tags":[
+        "Musical theater"
+     ]
+  },
+  {
+     "Name":"Salsa! latin thursday with dj bis",
+     "Description":"Put your dancing shoes on and come out for a night of salsa! whether you like latin dancing, latin music, or just socializing and having a great time, celebrations on market is the place for you every thursday night.",
+     "Link":"http://inwilmingtonde.com/events/salsa-latin-thursday-dj-bis-0",
+     "Date":"2018-04-05T00:00:00-04:00",
+     "Location":"Celebrations on Market",
+     "LocationLink":"http://inwilmingtonde.com/places/celebrations-market",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "dance/ballet",
+        "food and drink",
+        "networking and social events"
+     ]
+  },
+  {
+     "Name":"David lindley",
+     "Description":"Multiinstrumentalist david lindley performs music that redefines the word eclectic. Lindley, well known for his many years as the featured accompanist with jackson browne, and leader of his own band el rayox, has long championed the concept of world music. The david lindley electroacoustic performance effortlessly combines american folk, blues, and bluegrass traditions with elements from african,arabic, asian, celtic, malagasy, and turkish musical sources. Lindley incorporates an incredible array of stringed instruments including but not limited to kona and weissenborn hawaiian lap steel guitar, turkish saz and chumbus, middle eastern oud, and irish bouzouki. The eyepoppingly clad mr. Daves uncanny vocal mimicry and demented sense of humor make his onstage banter a highlight of the show.",
+     "Link":"http://inwilmingtonde.com/events/david-lindley",
+     "Date":"2018-04-05T00:00:00-04:00",
+     "Location":"Grand Opera House",
+     "LocationLink":"http://inwilmingtonde.com/places/grand-opera-house",
+     "Tags":[
+
+     ]
+  },
+  {
+     "Name":"Maryanne pollocks transit",
+     "Description":"Maryanne pollocks abstract work finds affinity with the washington color school, where the application of pure color creates glowing visual sensations. Her spontaneous and improvisational style explores the effects between nurture and nature through the creative process...",
+     "Link":"http://inwilmingtonde.com/events/maryanne-pollocks-transit-0",
+     "Date":"2018-04-06T00:00:00-04:00",
+     "Location":"The Delaware Contemporary",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"The drowsy chaperone",
+     "Description":"The drowsy chaperone is a loving sendup of the jazz age musical, a musical within a comedy, featuring one showstopping number after another.",
+     "Link":"http://inwilmingtonde.com/events/drowsy-chaperone",
+     "Date":"2018-04-06T00:00:00-04:00",
+     "Location":"The Candlelight Theatre",
+     "LocationLink":"http://inwilmingtonde.com/places/candlelight-theatre",
+     "Tags":[
+        "Theater"
+     ]
+  },
+  {
+     "Name":"The university of delaware lynn herrick sharp award exhibition (group)",
+     "Description":"Opening reception: friday, april 6, 2018, 5 9 pm during art loop",
+     "Link":"http://inwilmingtonde.com/events/university-delaware-lynn-herrick-sharp-award-exhibition-group",
+     "Date":"2018-04-06T00:00:00-04:00",
+     "Location":"The Delaware Contemporary",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Unison: a three woman art show",
+     "Description":"Featuring the works of tish williams, yvette renee johnson and eboni bell...",
+     "Link":"http://inwilmingtonde.com/events/unison-three-woman-art-show",
+     "Date":"2018-04-06T00:00:00-04:00",
+     "Location":"ArtzScape",
+     "LocationLink":"http://inwilmingtonde.com/places/artzscape",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Group show rosemary castiglioni jim gears richard chandler hoff",
+     "Description":"Rosemary castiglioni – still lifes and interiors painted with a subtle palette; jim gears – vibrant, impressionistic landscapes in oil applied with a palette knife; richard hoff – detailed graphite pencil drawings illustrating life in america during the 1940s. Opening reception to meet the artists friday, april 6, 5 8 pm gallery hours: 9 – 5 monday – friday; 10 – 3 saturday delaware today’s best of delaware best art gallery 2017 readers’ pick upstate",
+     "Link":"http://inwilmingtonde.com/events/group-show-rosemary-castiglioni-jim-gears-richard-chandler-hoff",
+     "Date":"2018-04-06T00:00:00-04:00",
+     "Location":"The Station Gallery",
+     "LocationLink":"http://inwilmingtonde.com/places/station-gallery",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Collecting for the future",
+     "Description":"When winterthur opened to the public in 1951, visitors toured a private collection assembled over several decades by henry francis du pont (18801969). He dreamed that his collection and 175room home would afford all those interested an opportunity to view and to study the conditions surrounding the early american home life....",
+     "Link":"http://inwilmingtonde.com/events/collecting-future",
+     "Date":"2018-04-06T00:00:00-04:00",
+     "Location":"Winterthur Museum, Garden & Library",
+     "LocationLink":"http://inwilmingtonde.com/places/winterthur-museum-garden-library",
+     "Tags":[
+        "Educational (family)",
+        "museum exhibitions"
+     ]
+  },
+  {
+     "Name":"Zoo in you",
+     "Description":"Trillions of microbes make their homes inside our bodies, and we wouldn’t be able to survive without each other!",
+     "Link":"http://inwilmingtonde.com/events/zoo-you",
+     "Date":"2018-04-06T00:00:00-04:00",
+     "Location":"Delaware Museum of Natural History",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-museum-natural-history",
+     "Tags":[
+        "#allinfun (family focused)",
+        "#inbudget ($0$10)",
+        "educational (family)",
+        "museum exhibitions"
+     ]
+  },
+  {
+     "Name":"The university of delaware alumni invitational",
+     "Description":"The delaware contemporary announces our joint venture with the university of delaware presenting the department of art and design alumni invitational. This exhibition investigates the departments impact on the regional art and design landscape by featuring alumni artists from the midatlantic area. These artists work in a variety of media from serial comic imagery to sculptures, works on paper, and painting with the artwork ranging from dynamic furniture pieces and theatrical mechanical machines to representational portraits and graphic design. Through their inventive processes each artist strives to connect the viewer to a sensorybased experience about ideas, time, and place.",
+     "Link":"http://inwilmingtonde.com/events/university-delaware-alumni-invitational",
+     "Date":"2018-04-06T00:00:00-04:00",
+     "Location":"The Delaware Contemporary",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"The figure: the indicative and the allusive (group)",
+     "Description":"Opening reception: friday, april 6, 2018 | 5 9 pm during art loop withpanel discussion: 6 7 pm",
+     "Link":"http://inwilmingtonde.com/events/figure-indicative-and-allusive-group",
+     "Date":"2018-04-06T00:00:00-04:00",
+     "Location":"The Delaware Contemporary",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Eye shadow art exhibit",
+     "Description":"Eye shadow a bebe ross coker brainchild is an exploration of lived themes from a womans perspective. Subjects include nature, self development, feminism, motherhood, health and wellness, spirituality, friendship, community, social justice and more",
+     "Link":"http://inwilmingtonde.com/events/eye-shadow-art-exhibit",
+     "Date":"2018-04-06T00:00:00-04:00",
+     "Location":"Christina Cultural Arts Center",
+     "LocationLink":"http://inwilmingtonde.com/places/christina-cultural-arts-center",
+     "Tags":[
+        "Visual arts"
+     ]
+  },
+  {
+     "Name":"Masha ryskins reveries with the line",
+     "Description":"Ryskin uses unique materials such as tea bags, recycled fabric, or coffee to record fragments of life and experience in her installations, drawings, paintings, and prints. Art critic arthur whitman refers to ryskins work as experimental, that which crosses media and genre with an exploratory but disciplined sensibility. ...",
+     "Link":"http://inwilmingtonde.com/events/masha-ryskins-reveries-line",
+     "Date":"2018-04-06T00:00:00-04:00",
+     "Location":"The Delaware Contemporary",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Guardians of the image maker (group and programs commemorating the 1968 riots)",
+     "Description":"Opening reception: friday, april 6, 2018 | 5 9 pm during art loop",
+     "Link":"http://inwilmingtonde.com/events/guardians-image-maker-group-programs-commemorating-1968-riots",
+     "Date":"2018-04-06T00:00:00-04:00",
+     "Location":"The Delaware Contemporary",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Point, counterpoint: alan soffer, brian dickerson, moe brooker",
+     "Description":"This communitycurated exhibition brings together three painters—alan soffer, brian dickerson, and moe brooker—who are attuned to harmonies and contrasts in abstract forms. Each artist explores the boundaries of the creative process through mixed media, color, form, and texture.",
+     "Link":"http://inwilmingtonde.com/events/point-counter-point-alan-soffer-brian-dickerson-moe-brooker",
+     "Date":"2018-04-06T00:00:00-04:00",
+     "Location":"Delaware Art Museum",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-art-museum",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "museum exhibitions",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Spring zoo camp",
+     "Description":"Spring zoo camp april 26",
+     "Link":"http://inwilmingtonde.com/events/spring-zoo-camp-0",
+     "Date":"2018-04-06T00:00:00-04:00",
+     "Location":"Brandywine Zoo",
+     "LocationLink":"http://inwilmingtonde.com/places/brandywine-zoo",
+     "Tags":[
+        "#allinfun (family focused)",
+        "animals and nature"
+     ]
+  },
+  {
+     "Name":"Follies: architectural whimsy in the garden",
+     "Description":"a needles eye in a pond, a greek temple in the garden, an ottoman tent sitting on a hill—these are just a few of the inspirations for our upcoming, firstever outdoor exhibition follies: architectural whimsy in the garden! the exhibition showcases whimsical and classic garden structures located throughout the winterthur estate...",
+     "Link":"http://inwilmingtonde.com/events/follies-architectural-whimsy-garden",
+     "Date":"2018-04-06T00:00:00-04:00",
+     "Location":"Winterthur Museum, Garden & Library",
+     "LocationLink":"http://inwilmingtonde.com/places/winterthur-museum-garden-library",
+     "Tags":[
+        "Garden",
+        "museum exhibitions"
+     ]
+  },
+  {
+     "Name":"Dining by design: nature displayed on the dinner table",
+     "Description":"From the 1600s to the present, dinnerware designs have been inspired by nature. Everything from painted butterflies and handmodeled flowers to molded seashells can be found on a fascinating range of dishes and plates. Whether it’s a recipe for barbecued fawn, fabulous tureens in the shapes of various animals, or instructions on how to fold a napkin so that it resembles a palm tree, prepare to be delighted by this unusual, often humorous exhibition that lets you explore a visual feast of flora and fauna adorning hundreds of dazzling ceramics and tablewares.",
+     "Link":"http://inwilmingtonde.com/events/dining-design-nature-displayed-dinner-table",
+     "Date":"2018-04-06T00:00:00-04:00",
+     "Location":"Winterthur Museum, Garden & Library",
+     "LocationLink":"http://inwilmingtonde.com/places/winterthur-museum-garden-library",
+     "Tags":[
+        "Educational (family)",
+        "museum exhibitions"
+     ]
+  },
+  {
+     "Name":"Glory of stories",
+     "Description":"Glory of stories introduces young visitor to art and the museum through a story reading followed by an interactive tour of relevant works of art and a studio art project. This program encourages learning through discovery, exploration, and handson experiences...",
+     "Link":"http://inwilmingtonde.com/events/glory-stories-0",
+     "Date":"2018-04-06T00:00:00-04:00",
+     "Location":"Delaware Art Museum",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-art-museum",
+     "Tags":[
+        "#allinfun (family focused)",
+        "#inbudget ($0$10)",
+        "educational (family)",
+        "museum exhibitions",
+        "neighborhoods",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Art is tasty",
+     "Description":"This noontime lunch series on the first friday of every month pairs an engaging 30minute discussion about a work of art with a delicious lunch in the thronson café.",
+     "Link":"http://inwilmingtonde.com/events/art-tasty-0",
+     "Date":"2018-04-06T00:00:00-04:00",
+     "Location":"Delaware Art Museum",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-art-museum",
+     "Tags":[
+        "Classes",
+        "lectures and workshops",
+        "museum exhibitions",
+        "neighborhoods",
+        "networking and social events",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Art loop at the delaware contemporary",
+     "Description":"The first friday of every month is an art party at the delaware contemporary...",
+     "Link":"http://inwilmingtonde.com/events/art-loop-delaware-contemporary",
+     "Date":"2018-04-06T00:00:00-04:00",
+     "Location":"The Delaware Contemporary",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Delaware funaday opening reception",
+     "Description":"Delaware funaday is a free, allages, all skill sets and experience, nonjuried, communitycentric art project. During the month of march, hundreds of artists from delaware (and surrounding areas) created one piece of artwork, everyday, and now theyre showcasing those works in a massive group exhibit.",
+     "Link":"http://inwilmingtonde.com/events/delaware-fun-day-opening-reception",
+     "Date":"2018-04-06T00:00:00-04:00",
+     "Location":"The Delaware Contemporary",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "networking and social events",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Brooke dicaro",
+     "Description":"Brooke dicaro plays happy hour at harrys savoy grill",
+     "Link":"http://inwilmingtonde.com/events/brooke-dicaro-5",
+     "Date":"2018-04-06T00:00:00-04:00",
+     "Location":"Harry's Savoy Grill",
+     "LocationLink":"http://inwilmingtonde.com/places/harrys-savoy-grill",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "jazz"
+     ]
+  },
+  {
+     "Name":"Creaters + makers",
+     "Description":"Join the delaware college of art and design and nextfab makerspace for a free collaborative show and reception during the april art loop! creators + makers: dcad at nextfab will feature works by the degree and continuing education students and faculty of dcad as well as pieces crafted by the members of nextfab. This exhibition celebrates the new partnership between dcad and nextfab, which was announced earlier this year.",
+     "Link":"http://inwilmingtonde.com/events/creaters-makers",
+     "Date":"2018-04-06T00:00:00-04:00",
+     "Location":"NextFab",
+     "LocationLink":"http://inwilmingtonde.com/places/nextfab",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "networking and social events",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Art loop wilmington",
+     "Description":"The free, selfguided public art event, art loop wilmington, brings together art lovers and community to the everevolving downtown and greater wilmington areas. Art galleries, studios, museums and alternative art spaces offer an opportunity to meet the featured artist(s) while enjoying refreshments, and in some cases live entertainment...",
+     "Link":"http://inwilmingtonde.com/events/art-loop-wilmington",
+     "Date":"2018-04-06T00:00:00-04:00",
+     "Location":"Various Locations IN Wilmington",
+     "LocationLink":"http://inwilmingtonde.com/places/various-locations-wilmington",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Parents’ night off",
+     "Description":"It may be called parents’ night off, but let’s be honest…it’s really for the kids!",
+     "Link":"http://inwilmingtonde.com/events/parents%E2%80%99-night",
+     "Date":"2018-04-06T00:00:00-04:00",
+     "Location":"Delaware Museum of Natural History",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-museum-natural-history",
+     "Tags":[
+        "#allinfun (family focused)",
+        "educational (family)"
+     ]
+  },
+  {
+     "Name":"Dirty dancing the classic story on stage",
+     "Description":"Dirty dancing – the classic story on stage is an unprecedented live experience, exploding with heartpounding music, passionate romance and sensational dancing. Seen by millions across the globe, this worldwide smash hit features the hit songs hungry eyes, hey baby, do you love me? and the heartstopping (i’ve had) the time of my life. London’s sunday express says, this crowdpleasing stage adaptation hits the jackpot! it’s the summer of 1963, and 17yearold frances baby houseman is on vacation in new york’s catskill mountains with her older sister and parents. Baby discovers her own entertainment when she stumbles upon the staff quarters where an allnight dance party is in full swing. Mesmerized by the raunchy dance moves and the pounding rhythms, baby can’t wait to be part of the scene, especially when she catches sight of johnny castle the resort dance instructor. Baby’s life is about to change forever as she is thrown in at the deep end as johnny’s leading lady both onstage and off with breathtaking consequences. Don’t miss your chance to see this recordbreaking and adventurous theatre sensation. You’ll have the time of your life!",
+     "Link":"http://inwilmingtonde.com/events/dirty-dancing-classic-story-stage",
+     "Date":"2018-04-06T00:00:00-04:00",
+     "Location":"The Playhouse on Rodney Square",
+     "LocationLink":"http://inwilmingtonde.com/places/playhouse-rodney-square",
+     "Tags":[
+        "Musical theater"
+     ]
+  },
+  {
+     "Name":"Chorduroy acoustic",
+     "Description":"Chorduroy acoustic plays at kid shelleens!",
+     "Link":"http://inwilmingtonde.com/events/chorduroy-acoustic-2",
+     "Date":"2018-04-06T00:00:00-04:00",
+     "Location":"Kid Shelleen's",
+     "LocationLink":"http://inwilmingtonde.com/places/kid-shelleens",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "rock"
+     ]
+  },
+  {
+     "Name":"Maryanne pollocks transit",
+     "Description":"Maryanne pollocks abstract work finds affinity with the washington color school, where the application of pure color creates glowing visual sensations. Her spontaneous and improvisational style explores the effects between nurture and nature through the creative process...",
+     "Link":"http://inwilmingtonde.com/events/maryanne-pollocks-transit-0",
+     "Date":"2018-04-07T00:00:00-04:00",
+     "Location":"The Delaware Contemporary",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"The drowsy chaperone",
+     "Description":"The drowsy chaperone is a loving sendup of the jazz age musical, a musical within a comedy, featuring one showstopping number after another.",
+     "Link":"http://inwilmingtonde.com/events/drowsy-chaperone",
+     "Date":"2018-04-07T00:00:00-04:00",
+     "Location":"The Candlelight Theatre",
+     "LocationLink":"http://inwilmingtonde.com/places/candlelight-theatre",
+     "Tags":[
+        "Theater"
+     ]
+  },
+  {
+     "Name":"The university of delaware lynn herrick sharp award exhibition (group)",
+     "Description":"Opening reception: friday, april 6, 2018, 5 9 pm during art loop",
+     "Link":"http://inwilmingtonde.com/events/university-delaware-lynn-herrick-sharp-award-exhibition-group",
+     "Date":"2018-04-07T00:00:00-04:00",
+     "Location":"The Delaware Contemporary",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Eye on nature: andrew wyeth and john ruskin",
+     "Description":"Born almost exactly 100 years apart, the american painter, andrew wyeth (1917–2009) and the british critic and amateur artist, john ruskin (1819–1900) shared a lifelong obsession for the close observation and finely rendered imagery of the world around them. This exhibition places the work of andrew wyeth and john ruskin together for the first time, examining their varying approaches to interpreting the natural world.",
+     "Link":"http://inwilmingtonde.com/events/eye-nature-andrew-wyeth-and-john-ruskin",
+     "Date":"2018-04-07T00:00:00-04:00",
+     "Location":"Delaware Art Museum",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-art-museum",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "museum exhibitions",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Unison: a three woman art show",
+     "Description":"Featuring the works of tish williams, yvette renee johnson and eboni bell...",
+     "Link":"http://inwilmingtonde.com/events/unison-three-woman-art-show",
+     "Date":"2018-04-07T00:00:00-04:00",
+     "Location":"ArtzScape",
+     "LocationLink":"http://inwilmingtonde.com/places/artzscape",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Group show rosemary castiglioni jim gears richard chandler hoff",
+     "Description":"Rosemary castiglioni – still lifes and interiors painted with a subtle palette; jim gears – vibrant, impressionistic landscapes in oil applied with a palette knife; richard hoff – detailed graphite pencil drawings illustrating life in america during the 1940s. Opening reception to meet the artists friday, april 6, 5 8 pm gallery hours: 9 – 5 monday – friday; 10 – 3 saturday delaware today’s best of delaware best art gallery 2017 readers’ pick upstate",
+     "Link":"http://inwilmingtonde.com/events/group-show-rosemary-castiglioni-jim-gears-richard-chandler-hoff",
+     "Date":"2018-04-07T00:00:00-04:00",
+     "Location":"The Station Gallery",
+     "LocationLink":"http://inwilmingtonde.com/places/station-gallery",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Collecting for the future",
+     "Description":"When winterthur opened to the public in 1951, visitors toured a private collection assembled over several decades by henry francis du pont (18801969). He dreamed that his collection and 175room home would afford all those interested an opportunity to view and to study the conditions surrounding the early american home life....",
+     "Link":"http://inwilmingtonde.com/events/collecting-future",
+     "Date":"2018-04-07T00:00:00-04:00",
+     "Location":"Winterthur Museum, Garden & Library",
+     "LocationLink":"http://inwilmingtonde.com/places/winterthur-museum-garden-library",
+     "Tags":[
+        "Educational (family)",
+        "museum exhibitions"
+     ]
+  },
+  {
+     "Name":"Zoo in you",
+     "Description":"Trillions of microbes make their homes inside our bodies, and we wouldn’t be able to survive without each other!",
+     "Link":"http://inwilmingtonde.com/events/zoo-you",
+     "Date":"2018-04-07T00:00:00-04:00",
+     "Location":"Delaware Museum of Natural History",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-museum-natural-history",
+     "Tags":[
+        "#allinfun (family focused)",
+        "#inbudget ($0$10)",
+        "educational (family)",
+        "museum exhibitions"
+     ]
+  },
+  {
+     "Name":"The university of delaware alumni invitational",
+     "Description":"The delaware contemporary announces our joint venture with the university of delaware presenting the department of art and design alumni invitational. This exhibition investigates the departments impact on the regional art and design landscape by featuring alumni artists from the midatlantic area. These artists work in a variety of media from serial comic imagery to sculptures, works on paper, and painting with the artwork ranging from dynamic furniture pieces and theatrical mechanical machines to representational portraits and graphic design. Through their inventive processes each artist strives to connect the viewer to a sensorybased experience about ideas, time, and place.",
+     "Link":"http://inwilmingtonde.com/events/university-delaware-alumni-invitational",
+     "Date":"2018-04-07T00:00:00-04:00",
+     "Location":"The Delaware Contemporary",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"The figure: the indicative and the allusive (group)",
+     "Description":"Opening reception: friday, april 6, 2018 | 5 9 pm during art loop withpanel discussion: 6 7 pm",
+     "Link":"http://inwilmingtonde.com/events/figure-indicative-and-allusive-group",
+     "Date":"2018-04-07T00:00:00-04:00",
+     "Location":"The Delaware Contemporary",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Eye shadow art exhibit",
+     "Description":"Eye shadow a bebe ross coker brainchild is an exploration of lived themes from a womans perspective. Subjects include nature, self development, feminism, motherhood, health and wellness, spirituality, friendship, community, social justice and more",
+     "Link":"http://inwilmingtonde.com/events/eye-shadow-art-exhibit",
+     "Date":"2018-04-07T00:00:00-04:00",
+     "Location":"Christina Cultural Arts Center",
+     "LocationLink":"http://inwilmingtonde.com/places/christina-cultural-arts-center",
+     "Tags":[
+        "Visual arts"
+     ]
+  },
+  {
+     "Name":"Masha ryskins reveries with the line",
+     "Description":"Ryskin uses unique materials such as tea bags, recycled fabric, or coffee to record fragments of life and experience in her installations, drawings, paintings, and prints. Art critic arthur whitman refers to ryskins work as experimental, that which crosses media and genre with an exploratory but disciplined sensibility. ...",
+     "Link":"http://inwilmingtonde.com/events/masha-ryskins-reveries-line",
+     "Date":"2018-04-07T00:00:00-04:00",
+     "Location":"The Delaware Contemporary",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Guardians of the image maker (group and programs commemorating the 1968 riots)",
+     "Description":"Opening reception: friday, april 6, 2018 | 5 9 pm during art loop",
+     "Link":"http://inwilmingtonde.com/events/guardians-image-maker-group-programs-commemorating-1968-riots",
+     "Date":"2018-04-07T00:00:00-04:00",
+     "Location":"The Delaware Contemporary",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Point, counterpoint: alan soffer, brian dickerson, moe brooker",
+     "Description":"This communitycurated exhibition brings together three painters—alan soffer, brian dickerson, and moe brooker—who are attuned to harmonies and contrasts in abstract forms. Each artist explores the boundaries of the creative process through mixed media, color, form, and texture.",
+     "Link":"http://inwilmingtonde.com/events/point-counter-point-alan-soffer-brian-dickerson-moe-brooker",
+     "Date":"2018-04-07T00:00:00-04:00",
+     "Location":"Delaware Art Museum",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-art-museum",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "museum exhibitions",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Yoga in the garden",
+     "Description":"Join us again this spring and summer for yoga in the beautiful copeland sculpture garden. Beginners, casual attendees, and families are welcome. Bring your own mat or borrow one of ours! participants receive complimentary admission to the museum. Healthy fare available in the cafй following class",
+     "Link":"http://inwilmingtonde.com/events/yoga-garden-0",
+     "Date":"2018-04-07T00:00:00-04:00",
+     "Location":"Delaware Art Museum",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-art-museum",
+     "Tags":[
+        "#allinfun (family focused)",
+        "#inbudget ($0$10)",
+        "animals and nature",
+        "health and wellness",
+        "neighborhoods",
+        "world"
+     ]
+  },
+  {
+     "Name":"Follies: architectural whimsy in the garden",
+     "Description":"a needles eye in a pond, a greek temple in the garden, an ottoman tent sitting on a hill—these are just a few of the inspirations for our upcoming, firstever outdoor exhibition follies: architectural whimsy in the garden! the exhibition showcases whimsical and classic garden structures located throughout the winterthur estate...",
+     "Link":"http://inwilmingtonde.com/events/follies-architectural-whimsy-garden",
+     "Date":"2018-04-07T00:00:00-04:00",
+     "Location":"Winterthur Museum, Garden & Library",
+     "LocationLink":"http://inwilmingtonde.com/places/winterthur-museum-garden-library",
+     "Tags":[
+        "Garden",
+        "museum exhibitions"
+     ]
+  },
+  {
+     "Name":"Dining by design: nature displayed on the dinner table",
+     "Description":"From the 1600s to the present, dinnerware designs have been inspired by nature. Everything from painted butterflies and handmodeled flowers to molded seashells can be found on a fascinating range of dishes and plates. Whether it’s a recipe for barbecued fawn, fabulous tureens in the shapes of various animals, or instructions on how to fold a napkin so that it resembles a palm tree, prepare to be delighted by this unusual, often humorous exhibition that lets you explore a visual feast of flora and fauna adorning hundreds of dazzling ceramics and tablewares.",
+     "Link":"http://inwilmingtonde.com/events/dining-design-nature-displayed-dinner-table",
+     "Date":"2018-04-07T00:00:00-04:00",
+     "Location":"Winterthur Museum, Garden & Library",
+     "LocationLink":"http://inwilmingtonde.com/places/winterthur-museum-garden-library",
+     "Tags":[
+        "Educational (family)",
+        "museum exhibitions"
+     ]
+  },
+  {
+     "Name":"Keeper talks at the zoo",
+     "Description":"Keeper talks",
+     "Link":"http://inwilmingtonde.com/events/keeper-talks-zoo",
+     "Date":"2018-04-07T00:00:00-04:00",
+     "Location":"Brandywine Zoo",
+     "LocationLink":"http://inwilmingtonde.com/places/brandywine-zoo",
+     "Tags":[
+        "#allinfun (family focused)",
+        "#inbudget ($0$10)",
+        "animals and nature",
+        "educational (family)"
+     ]
+  },
+  {
+     "Name":"Creature features @ brandywine zoo",
+     "Description":"Creature features",
+     "Link":"http://inwilmingtonde.com/events/creature-features-brandywine-zoo-0",
+     "Date":"2018-04-07T00:00:00-04:00",
+     "Location":"Brandywine Zoo",
+     "LocationLink":"http://inwilmingtonde.com/places/brandywine-zoo",
+     "Tags":[
+        "#allinfun (family focused)",
+        "#inbudget ($0$10)",
+        "animals and nature",
+        "educational (family)"
+     ]
+  },
+  {
+     "Name":"Princess tea party",
+     "Description":"Rapunzel found her castle!",
+     "Link":"http://inwilmingtonde.com/events/princess-tea-party",
+     "Date":"2018-04-07T00:00:00-04:00",
+     "Location":"University & Whist Club",
+     "LocationLink":"http://inwilmingtonde.com/places/university-whist-club",
+     "Tags":[
+        "#allinfun (family focused)"
+     ]
+  },
+  {
+     "Name":"Dirty dancing the classic story on stage",
+     "Description":"Dirty dancing – the classic story on stage is an unprecedented live experience, exploding with heartpounding music, passionate romance and sensational dancing. Seen by millions across the globe, this worldwide smash hit features the hit songs hungry eyes, hey baby, do you love me? and the heartstopping (i’ve had) the time of my life. London’s sunday express says, this crowdpleasing stage adaptation hits the jackpot! it’s the summer of 1963, and 17yearold frances baby houseman is on vacation in new york’s catskill mountains with her older sister and parents. Baby discovers her own entertainment when she stumbles upon the staff quarters where an allnight dance party is in full swing. Mesmerized by the raunchy dance moves and the pounding rhythms, baby can’t wait to be part of the scene, especially when she catches sight of johnny castle the resort dance instructor. Baby’s life is about to change forever as she is thrown in at the deep end as johnny’s leading lady both onstage and off with breathtaking consequences. Don’t miss your chance to see this recordbreaking and adventurous theatre sensation. You’ll have the time of your life!",
+     "Link":"http://inwilmingtonde.com/events/dirty-dancing-classic-story-stage",
+     "Date":"2018-04-07T00:00:00-04:00",
+     "Location":"The Playhouse on Rodney Square",
+     "LocationLink":"http://inwilmingtonde.com/places/playhouse-rodney-square",
+     "Tags":[
+        "Musical theater"
+     ]
+  },
+  {
+     "Name":"Mélomanie wilmington series: april performance with the twin poets",
+     "Description":"Mélomanies wilmington series april performance features a collaboration with the twin poets, nnamdi chukwuocha and albert mills, also delawares poets laureate.",
+     "Link":"http://inwilmingtonde.com/events/m%C3%A9lomanie-wilmington-series-april-performance-0",
+     "Date":"2018-04-07T00:00:00-04:00",
+     "Location":"The Delaware Contemporary",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
+     "Tags":[
+        "#allinfun (family focused)",
+        "classical and opera",
+        "poetry and spoken word"
+     ]
+  },
+  {
+     "Name":"Night at the museum and star party",
+     "Description":"Enjoy a family friendly saturday evening at the museum’s after hours event!",
+     "Link":"http://inwilmingtonde.com/events/night-museum-star-party",
+     "Date":"2018-04-07T00:00:00-04:00",
+     "Location":"Delaware Museum of Natural History",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-museum-natural-history",
+     "Tags":[
+        "#allinfun (family focused)",
+        "educational (family)",
+        "museum exhibitions"
+     ]
+  },
+  {
+     "Name":"Bob croce",
+     "Description":"Bob croce plays at harrys savoy grill",
+     "Link":"http://inwilmingtonde.com/events/bob-croce-5",
+     "Date":"2018-04-07T00:00:00-04:00",
+     "Location":"Harry's Savoy Grill",
+     "LocationLink":"http://inwilmingtonde.com/places/harrys-savoy-grill",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "rock"
+     ]
+  },
+  {
+     "Name":"Humorist jeanne robertson",
+     "Description":"At 73 years young, jeanne robertson continues to charm audiences with her humorous observations about life around her. This former miss north carolina, standing tall at sixfoottwo, has an infectious personality, heart and sense of humor. With eight nationally released dvds, three books, hundreds of hours on siriusxm satellite radio and over 43 million youtube views, the demand for robertsons familyfriendly and engaging brand of comedy has grown exponentially. Some of her most popular anecdotes include dont go to vegas without a baptist, dont bungee jump naked, and dont send a man to the grocery store. Robertsons witty depiction of everyday situations never fails to have audiences of all ages rolling with laughter. Dont miss this performance by a truly funny lady!",
+     "Link":"http://inwilmingtonde.com/events/humorist-jeanne-robertson",
+     "Date":"2018-04-07T00:00:00-04:00",
+     "Location":"Grand Opera House",
+     "LocationLink":"http://inwilmingtonde.com/places/grand-opera-house",
+     "Tags":[
+        "Comedy"
+     ]
+  },
+  {
+     "Name":"Twisted pine",
+     "Description":"Twisted pines alloriginal debut album showcases a new force in americana: four versatile players and singers writing and improvising across forms in bluegrass, folk, funk, jam, and vintage radio pop.",
+     "Link":"http://inwilmingtonde.com/events/twisted-pine",
+     "Date":"2018-04-07T00:00:00-04:00",
+     "Location":"Arden Gild Hall",
+     "LocationLink":"http://inwilmingtonde.com/places/arden-gild-hall",
+     "Tags":[
+        "Americana and folk"
+     ]
+  },
+  {
+     "Name":"Spokey speakey",
+     "Description":"Spokey speakey plays at kid shelleens",
+     "Link":"http://inwilmingtonde.com/events/spokey-speakey-1",
+     "Date":"2018-04-07T00:00:00-04:00",
+     "Location":"Kid Shelleen's",
+     "LocationLink":"http://inwilmingtonde.com/places/kid-shelleens",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "reggae"
+     ]
+  },
+  {
+     "Name":"The rocky horror picture show",
+     "Description":"Grab your friends and come see the rocky horror picture show with a live shadow cast presented by frankies midnight runners!",
+     "Link":"http://inwilmingtonde.com/events/rocky-horror-picture-show",
+     "Date":"2018-04-07T00:00:00-04:00",
+     "Location":"Theatre N",
+     "LocationLink":"http://inwilmingtonde.com/places/theatre-n",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "film",
+        "musical theater",
+        "theater"
+     ]
+  },
+  {
+     "Name":"Point, counterpoint: alan soffer, brian dickerson, moe brooker",
+     "Description":"This communitycurated exhibition brings together three painters—alan soffer, brian dickerson, and moe brooker—who are attuned to harmonies and contrasts in abstract forms. Each artist explores the boundaries of the creative process through mixed media, color, form, and texture.",
+     "Link":"http://inwilmingtonde.com/events/point-counter-point-alan-soffer-brian-dickerson-moe-brooker",
+     "Date":"2018-04-08T00:00:00-04:00",
+     "Location":"Delaware Art Museum",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-art-museum",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "museum exhibitions",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Maryanne pollocks transit",
+     "Description":"Maryanne pollocks abstract work finds affinity with the washington color school, where the application of pure color creates glowing visual sensations. Her spontaneous and improvisational style explores the effects between nurture and nature through the creative process...",
+     "Link":"http://inwilmingtonde.com/events/maryanne-pollocks-transit-0",
+     "Date":"2018-04-08T00:00:00-04:00",
+     "Location":"The Delaware Contemporary",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"The drowsy chaperone",
+     "Description":"The drowsy chaperone is a loving sendup of the jazz age musical, a musical within a comedy, featuring one showstopping number after another.",
+     "Link":"http://inwilmingtonde.com/events/drowsy-chaperone",
+     "Date":"2018-04-08T00:00:00-04:00",
+     "Location":"The Candlelight Theatre",
+     "LocationLink":"http://inwilmingtonde.com/places/candlelight-theatre",
+     "Tags":[
+        "Theater"
+     ]
+  },
+  {
+     "Name":"The university of delaware lynn herrick sharp award exhibition (group)",
+     "Description":"Opening reception: friday, april 6, 2018, 5 9 pm during art loop",
+     "Link":"http://inwilmingtonde.com/events/university-delaware-lynn-herrick-sharp-award-exhibition-group",
+     "Date":"2018-04-08T00:00:00-04:00",
+     "Location":"The Delaware Contemporary",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Eye on nature: andrew wyeth and john ruskin",
+     "Description":"Born almost exactly 100 years apart, the american painter, andrew wyeth (1917–2009) and the british critic and amateur artist, john ruskin (1819–1900) shared a lifelong obsession for the close observation and finely rendered imagery of the world around them. This exhibition places the work of andrew wyeth and john ruskin together for the first time, examining their varying approaches to interpreting the natural world.",
+     "Link":"http://inwilmingtonde.com/events/eye-nature-andrew-wyeth-and-john-ruskin",
+     "Date":"2018-04-08T00:00:00-04:00",
+     "Location":"Delaware Art Museum",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-art-museum",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "museum exhibitions",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Unison: a three woman art show",
+     "Description":"Featuring the works of tish williams, yvette renee johnson and eboni bell...",
+     "Link":"http://inwilmingtonde.com/events/unison-three-woman-art-show",
+     "Date":"2018-04-08T00:00:00-04:00",
+     "Location":"ArtzScape",
+     "LocationLink":"http://inwilmingtonde.com/places/artzscape",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Group show rosemary castiglioni jim gears richard chandler hoff",
+     "Description":"Rosemary castiglioni – still lifes and interiors painted with a subtle palette; jim gears – vibrant, impressionistic landscapes in oil applied with a palette knife; richard hoff – detailed graphite pencil drawings illustrating life in america during the 1940s. Opening reception to meet the artists friday, april 6, 5 8 pm gallery hours: 9 – 5 monday – friday; 10 – 3 saturday delaware today’s best of delaware best art gallery 2017 readers’ pick upstate",
+     "Link":"http://inwilmingtonde.com/events/group-show-rosemary-castiglioni-jim-gears-richard-chandler-hoff",
+     "Date":"2018-04-08T00:00:00-04:00",
+     "Location":"The Station Gallery",
+     "LocationLink":"http://inwilmingtonde.com/places/station-gallery",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Collecting for the future",
+     "Description":"When winterthur opened to the public in 1951, visitors toured a private collection assembled over several decades by henry francis du pont (18801969). He dreamed that his collection and 175room home would afford all those interested an opportunity to view and to study the conditions surrounding the early american home life....",
+     "Link":"http://inwilmingtonde.com/events/collecting-future",
+     "Date":"2018-04-08T00:00:00-04:00",
+     "Location":"Winterthur Museum, Garden & Library",
+     "LocationLink":"http://inwilmingtonde.com/places/winterthur-museum-garden-library",
+     "Tags":[
+        "Educational (family)",
+        "museum exhibitions"
+     ]
+  },
+  {
+     "Name":"Zoo in you",
+     "Description":"Trillions of microbes make their homes inside our bodies, and we wouldn’t be able to survive without each other!",
+     "Link":"http://inwilmingtonde.com/events/zoo-you",
+     "Date":"2018-04-08T00:00:00-04:00",
+     "Location":"Delaware Museum of Natural History",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-museum-natural-history",
+     "Tags":[
+        "#allinfun (family focused)",
+        "#inbudget ($0$10)",
+        "educational (family)",
+        "museum exhibitions"
+     ]
+  },
+  {
+     "Name":"The university of delaware alumni invitational",
+     "Description":"The delaware contemporary announces our joint venture with the university of delaware presenting the department of art and design alumni invitational. This exhibition investigates the departments impact on the regional art and design landscape by featuring alumni artists from the midatlantic area. These artists work in a variety of media from serial comic imagery to sculptures, works on paper, and painting with the artwork ranging from dynamic furniture pieces and theatrical mechanical machines to representational portraits and graphic design. Through their inventive processes each artist strives to connect the viewer to a sensorybased experience about ideas, time, and place.",
+     "Link":"http://inwilmingtonde.com/events/university-delaware-alumni-invitational",
+     "Date":"2018-04-08T00:00:00-04:00",
+     "Location":"The Delaware Contemporary",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"The figure: the indicative and the allusive (group)",
+     "Description":"Opening reception: friday, april 6, 2018 | 5 9 pm during art loop withpanel discussion: 6 7 pm",
+     "Link":"http://inwilmingtonde.com/events/figure-indicative-and-allusive-group",
+     "Date":"2018-04-08T00:00:00-04:00",
+     "Location":"The Delaware Contemporary",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Eye shadow art exhibit",
+     "Description":"Eye shadow a bebe ross coker brainchild is an exploration of lived themes from a womans perspective. Subjects include nature, self development, feminism, motherhood, health and wellness, spirituality, friendship, community, social justice and more",
+     "Link":"http://inwilmingtonde.com/events/eye-shadow-art-exhibit",
+     "Date":"2018-04-08T00:00:00-04:00",
+     "Location":"Christina Cultural Arts Center",
+     "LocationLink":"http://inwilmingtonde.com/places/christina-cultural-arts-center",
+     "Tags":[
+        "Visual arts"
+     ]
+  },
+  {
+     "Name":"Masha ryskins reveries with the line",
+     "Description":"Ryskin uses unique materials such as tea bags, recycled fabric, or coffee to record fragments of life and experience in her installations, drawings, paintings, and prints. Art critic arthur whitman refers to ryskins work as experimental, that which crosses media and genre with an exploratory but disciplined sensibility. ...",
+     "Link":"http://inwilmingtonde.com/events/masha-ryskins-reveries-line",
+     "Date":"2018-04-08T00:00:00-04:00",
+     "Location":"The Delaware Contemporary",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Guardians of the image maker (group and programs commemorating the 1968 riots)",
+     "Description":"Opening reception: friday, april 6, 2018 | 5 9 pm during art loop",
+     "Link":"http://inwilmingtonde.com/events/guardians-image-maker-group-programs-commemorating-1968-riots",
+     "Date":"2018-04-08T00:00:00-04:00",
+     "Location":"The Delaware Contemporary",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Dining by design: nature displayed on the dinner table",
+     "Description":"From the 1600s to the present, dinnerware designs have been inspired by nature. Everything from painted butterflies and handmodeled flowers to molded seashells can be found on a fascinating range of dishes and plates. Whether it’s a recipe for barbecued fawn, fabulous tureens in the shapes of various animals, or instructions on how to fold a napkin so that it resembles a palm tree, prepare to be delighted by this unusual, often humorous exhibition that lets you explore a visual feast of flora and fauna adorning hundreds of dazzling ceramics and tablewares.",
+     "Link":"http://inwilmingtonde.com/events/dining-design-nature-displayed-dinner-table",
+     "Date":"2018-04-08T00:00:00-04:00",
+     "Location":"Winterthur Museum, Garden & Library",
+     "LocationLink":"http://inwilmingtonde.com/places/winterthur-museum-garden-library",
+     "Tags":[
+        "Educational (family)",
+        "museum exhibitions"
+     ]
+  },
+  {
+     "Name":"Sunday stroll at hagley museum",
+     "Description":"Take a sunday stroll at hagley! hagleys property will be open to give visitors a unique opportunity to take a leisurely walk to the residence and garden, normally only accessible by bus. The 3mile roundtrip walk to the family home and back will be open for guests to wander and enjoy the beauty of the property. Included in museum admission and free for members.",
+     "Link":"http://inwilmingtonde.com/events/sunday-stroll-hagley-museum",
+     "Date":"2018-04-08T00:00:00-04:00",
+     "Location":"Hagley Museum and Library",
+     "LocationLink":"http://inwilmingtonde.com/places/hagley-museum-and-library",
+     "Tags":[
+        "#allinfun (family focused)",
+        "animals and nature",
+        "health and wellness",
+        "history"
+     ]
+  },
+  {
+     "Name":"Follies: architectural whimsy in the garden",
+     "Description":"a needles eye in a pond, a greek temple in the garden, an ottoman tent sitting on a hill—these are just a few of the inspirations for our upcoming, firstever outdoor exhibition follies: architectural whimsy in the garden! the exhibition showcases whimsical and classic garden structures located throughout the winterthur estate...",
+     "Link":"http://inwilmingtonde.com/events/follies-architectural-whimsy-garden",
+     "Date":"2018-04-08T00:00:00-04:00",
+     "Location":"Winterthur Museum, Garden & Library",
+     "LocationLink":"http://inwilmingtonde.com/places/winterthur-museum-garden-library",
+     "Tags":[
+        "Garden",
+        "museum exhibitions"
+     ]
+  },
+  {
+     "Name":"Keeper talks at the zoo",
+     "Description":"Keeper talks",
+     "Link":"http://inwilmingtonde.com/events/keeper-talks-zoo",
+     "Date":"2018-04-08T00:00:00-04:00",
+     "Location":"Brandywine Zoo",
+     "LocationLink":"http://inwilmingtonde.com/places/brandywine-zoo",
+     "Tags":[
+        "#allinfun (family focused)",
+        "#inbudget ($0$10)",
+        "animals and nature",
+        "educational (family)"
+     ]
+  },
+  {
+     "Name":"Sunday jazz/gospel brunch",
+     "Description":"Brunch is available from 12:00pm until 3pm. Ala carte dining is offered from 3pm on. Enjoy live jazz and gospel from 1pm til 4pm",
+     "Link":"http://inwilmingtonde.com/events/sunday-jazzgospel-brunch",
+     "Date":"2018-04-08T00:00:00-04:00",
+     "Location":"Celebrations on Market",
+     "LocationLink":"http://inwilmingtonde.com/places/celebrations-market",
+     "Tags":[
+        "Jazz"
+     ]
+  },
+  {
+     "Name":"Creature features @ brandywine zoo",
+     "Description":"Creature features",
+     "Link":"http://inwilmingtonde.com/events/creature-features-brandywine-zoo-0",
+     "Date":"2018-04-08T00:00:00-04:00",
+     "Location":"Brandywine Zoo",
+     "LocationLink":"http://inwilmingtonde.com/places/brandywine-zoo",
+     "Tags":[
+        "#allinfun (family focused)",
+        "#inbudget ($0$10)",
+        "animals and nature",
+        "educational (family)"
+     ]
+  },
+  {
+     "Name":"Opening reception for kids’ corner familyinresidence: the silvermans",
+     "Description":"Introducing the museum’s third resident family, the silvermans! stephanie, alexander, and sophia (age 8) are delawareans who are on a mission to activate each visitor’s creative potential by providing inspiring and accessible experiences with art in their kids’ corner installation, creative power!",
+     "Link":"http://inwilmingtonde.com/events/opening-reception-kids%E2%80%99-corner-family-residence-silvermans",
+     "Date":"2018-04-08T00:00:00-04:00",
+     "Location":"Delaware Art Museum",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-art-museum",
+     "Tags":[
+        "#allinfun (family focused)",
+        "classes",
+        "lectures and workshops",
+        "educational (family)",
+        "museum exhibitions",
+        "neighborhoods",
+        "networking and social events",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Sunday studio",
+     "Description":"Second sundays. Each month, adults and children can create art together and experiment with new materials, techniques, and themes in the bank of america education wing studios—no reservations required!",
+     "Link":"http://inwilmingtonde.com/events/sunday-studio",
+     "Date":"2018-04-08T00:00:00-04:00",
+     "Location":"Delaware Art Museum",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-art-museum",
+     "Tags":[
+        "#allinfun (family focused)",
+        "#inbudget ($0$10)",
+        "classes",
+        "lectures and workshops",
+        "educational (family)",
+        "museum exhibitions",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Nature walk series",
+     "Description":"Observe nature through the lenses of art, horticulture, mindfulness, and the environment on an expertled walking tour. Walks begin at a different site each week and last one hour unless otherwise noted. Register at delart.org.",
+     "Link":"http://inwilmingtonde.com/events/nature-walk-series",
+     "Date":"2018-04-08T00:00:00-04:00",
+     "Location":"Delaware Art Museum",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-art-museum",
+     "Tags":[
+        "Animals and nature",
+        "classes",
+        "lectures and workshops",
+        "health and wellness",
+        "museum exhibitions",
+        "neighborhoods",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Mélomanie wilmington series: april performance with the twin poets",
+     "Description":"Mélomanies wilmington series april performance features a collaboration with the twin poets, nnamdi chukwuocha and albert mills, also delawares poets laureate.",
+     "Link":"http://inwilmingtonde.com/events/m%C3%A9lomanie-wilmington-series-april-performance-0",
+     "Date":"2018-04-08T00:00:00-04:00",
+     "Location":"The Delaware Contemporary",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
+     "Tags":[
+        "#allinfun (family focused)",
+        "classical and opera",
+        "poetry and spoken word"
+     ]
+  },
+  {
+     "Name":"Dirty dancing the classic story on stage",
+     "Description":"Dirty dancing – the classic story on stage is an unprecedented live experience, exploding with heartpounding music, passionate romance and sensational dancing. Seen by millions across the globe, this worldwide smash hit features the hit songs hungry eyes, hey baby, do you love me? and the heartstopping (i’ve had) the time of my life. London’s sunday express says, this crowdpleasing stage adaptation hits the jackpot! it’s the summer of 1963, and 17yearold frances baby houseman is on vacation in new york’s catskill mountains with her older sister and parents. Baby discovers her own entertainment when she stumbles upon the staff quarters where an allnight dance party is in full swing. Mesmerized by the raunchy dance moves and the pounding rhythms, baby can’t wait to be part of the scene, especially when she catches sight of johnny castle the resort dance instructor. Baby’s life is about to change forever as she is thrown in at the deep end as johnny’s leading lady both onstage and off with breathtaking consequences. Don’t miss your chance to see this recordbreaking and adventurous theatre sensation. You’ll have the time of your life!",
+     "Link":"http://inwilmingtonde.com/events/dirty-dancing-classic-story-stage",
+     "Date":"2018-04-08T00:00:00-04:00",
+     "Location":"The Playhouse on Rodney Square",
+     "LocationLink":"http://inwilmingtonde.com/places/playhouse-rodney-square",
+     "Tags":[
+        "Musical theater"
+     ]
+  },
+  {
+     "Name":"Unison: a three woman art show",
+     "Description":"Featuring the works of tish williams, yvette renee johnson and eboni bell...",
+     "Link":"http://inwilmingtonde.com/events/unison-three-woman-art-show",
+     "Date":"2018-04-09T00:00:00-04:00",
+     "Location":"ArtzScape",
+     "LocationLink":"http://inwilmingtonde.com/places/artzscape",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Group show rosemary castiglioni jim gears richard chandler hoff",
+     "Description":"Rosemary castiglioni – still lifes and interiors painted with a subtle palette; jim gears – vibrant, impressionistic landscapes in oil applied with a palette knife; richard hoff – detailed graphite pencil drawings illustrating life in america during the 1940s. Opening reception to meet the artists friday, april 6, 5 8 pm gallery hours: 9 – 5 monday – friday; 10 – 3 saturday delaware today’s best of delaware best art gallery 2017 readers’ pick upstate",
+     "Link":"http://inwilmingtonde.com/events/group-show-rosemary-castiglioni-jim-gears-richard-chandler-hoff",
+     "Date":"2018-04-09T00:00:00-04:00",
+     "Location":"The Station Gallery",
+     "LocationLink":"http://inwilmingtonde.com/places/station-gallery",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Zoo in you",
+     "Description":"Trillions of microbes make their homes inside our bodies, and we wouldn’t be able to survive without each other!",
+     "Link":"http://inwilmingtonde.com/events/zoo-you",
+     "Date":"2018-04-09T00:00:00-04:00",
+     "Location":"Delaware Museum of Natural History",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-museum-natural-history",
+     "Tags":[
+        "#allinfun (family focused)",
+        "#inbudget ($0$10)",
+        "educational (family)",
+        "museum exhibitions"
+     ]
+  },
+  {
+     "Name":"Eye shadow art exhibit",
+     "Description":"Eye shadow a bebe ross coker brainchild is an exploration of lived themes from a womans perspective. Subjects include nature, self development, feminism, motherhood, health and wellness, spirituality, friendship, community, social justice and more",
+     "Link":"http://inwilmingtonde.com/events/eye-shadow-art-exhibit",
+     "Date":"2018-04-09T00:00:00-04:00",
+     "Location":"Christina Cultural Arts Center",
+     "LocationLink":"http://inwilmingtonde.com/places/christina-cultural-arts-center",
+     "Tags":[
+        "Visual arts"
+     ]
+  },
+  {
+     "Name":"Dining by design: nature displayed on the dinner table",
+     "Description":"From the 1600s to the present, dinnerware designs have been inspired by nature. Everything from painted butterflies and handmodeled flowers to molded seashells can be found on a fascinating range of dishes and plates. Whether it’s a recipe for barbecued fawn, fabulous tureens in the shapes of various animals, or instructions on how to fold a napkin so that it resembles a palm tree, prepare to be delighted by this unusual, often humorous exhibition that lets you explore a visual feast of flora and fauna adorning hundreds of dazzling ceramics and tablewares.",
+     "Link":"http://inwilmingtonde.com/events/dining-design-nature-displayed-dinner-table",
+     "Date":"2018-04-09T00:00:00-04:00",
+     "Location":"Winterthur Museum, Garden & Library",
+     "LocationLink":"http://inwilmingtonde.com/places/winterthur-museum-garden-library",
+     "Tags":[
+        "Educational (family)",
+        "museum exhibitions"
+     ]
+  },
+  {
+     "Name":"Follies: architectural whimsy in the garden",
+     "Description":"a needles eye in a pond, a greek temple in the garden, an ottoman tent sitting on a hill—these are just a few of the inspirations for our upcoming, firstever outdoor exhibition follies: architectural whimsy in the garden! the exhibition showcases whimsical and classic garden structures located throughout the winterthur estate...",
+     "Link":"http://inwilmingtonde.com/events/follies-architectural-whimsy-garden",
+     "Date":"2018-04-09T00:00:00-04:00",
+     "Location":"Winterthur Museum, Garden & Library",
+     "LocationLink":"http://inwilmingtonde.com/places/winterthur-museum-garden-library",
+     "Tags":[
+        "Garden",
+        "museum exhibitions"
+     ]
+  },
+  {
+     "Name":"Kids eat free night with jungle john",
+     "Description":"Join us each week for a great family night at kid shelleens!",
+     "Link":"http://inwilmingtonde.com/events/kids-eat-free-night-jungle-john",
+     "Date":"2018-04-09T00:00:00-04:00",
+     "Location":"Kid Shelleen's",
+     "LocationLink":"http://inwilmingtonde.com/places/kid-shelleens",
+     "Tags":[
+        "#allinfun (family focused)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Landscape photography",
+     "Description":"This class will focus on light, compostition, and mechanical techniques to produce the ultimate landscape photograph. The session will culminate in an exhibition of student work at the dupont environmental education center. Weekend field trips will alternate with some classes.",
+     "Link":"http://inwilmingtonde.com/events/landscape-photography",
+     "Date":"2018-04-09T00:00:00-04:00",
+     "Location":"Delaware Art Museum",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-art-museum",
+     "Tags":[
+        "Classes",
+        "lectures and workshops",
+        "museum exhibitions",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Guardians of the image maker (group and programs commemorating the 1968 riots)",
+     "Description":"Opening reception: friday, april 6, 2018 | 5 9 pm during art loop",
+     "Link":"http://inwilmingtonde.com/events/guardians-image-maker-group-programs-commemorating-1968-riots",
+     "Date":"2018-04-10T00:00:00-04:00",
+     "Location":"The Delaware Contemporary",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Maryanne pollocks transit",
+     "Description":"Maryanne pollocks abstract work finds affinity with the washington color school, where the application of pure color creates glowing visual sensations. Her spontaneous and improvisational style explores the effects between nurture and nature through the creative process...",
+     "Link":"http://inwilmingtonde.com/events/maryanne-pollocks-transit-0",
+     "Date":"2018-04-10T00:00:00-04:00",
+     "Location":"The Delaware Contemporary",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Halfprice burger day",
+     "Description":"Halfprice burgers",
+     "Link":"http://inwilmingtonde.com/events/half-price-burger-day",
+     "Date":"2018-04-10T00:00:00-04:00",
+     "Location":"Kid Shelleen's",
+     "LocationLink":"http://inwilmingtonde.com/places/kid-shelleens",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "food and drink"
+     ]
+  },
+  {
+     "Name":"The university of delaware lynn herrick sharp award exhibition (group)",
+     "Description":"Opening reception: friday, april 6, 2018, 5 9 pm during art loop",
+     "Link":"http://inwilmingtonde.com/events/university-delaware-lynn-herrick-sharp-award-exhibition-group",
+     "Date":"2018-04-10T00:00:00-04:00",
+     "Location":"The Delaware Contemporary",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Unison: a three woman art show",
+     "Description":"Featuring the works of tish williams, yvette renee johnson and eboni bell...",
+     "Link":"http://inwilmingtonde.com/events/unison-three-woman-art-show",
+     "Date":"2018-04-10T00:00:00-04:00",
+     "Location":"ArtzScape",
+     "LocationLink":"http://inwilmingtonde.com/places/artzscape",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Collecting for the future",
+     "Description":"When winterthur opened to the public in 1951, visitors toured a private collection assembled over several decades by henry francis du pont (18801969). He dreamed that his collection and 175room home would afford all those interested an opportunity to view and to study the conditions surrounding the early american home life....",
+     "Link":"http://inwilmingtonde.com/events/collecting-future",
+     "Date":"2018-04-10T00:00:00-04:00",
+     "Location":"Winterthur Museum, Garden & Library",
+     "LocationLink":"http://inwilmingtonde.com/places/winterthur-museum-garden-library",
+     "Tags":[
+        "Educational (family)",
+        "museum exhibitions"
+     ]
+  },
+  {
+     "Name":"Group show rosemary castiglioni jim gears richard chandler hoff",
+     "Description":"Rosemary castiglioni – still lifes and interiors painted with a subtle palette; jim gears – vibrant, impressionistic landscapes in oil applied with a palette knife; richard hoff – detailed graphite pencil drawings illustrating life in america during the 1940s. Opening reception to meet the artists friday, april 6, 5 8 pm gallery hours: 9 – 5 monday – friday; 10 – 3 saturday delaware today’s best of delaware best art gallery 2017 readers’ pick upstate",
+     "Link":"http://inwilmingtonde.com/events/group-show-rosemary-castiglioni-jim-gears-richard-chandler-hoff",
+     "Date":"2018-04-10T00:00:00-04:00",
+     "Location":"The Station Gallery",
+     "LocationLink":"http://inwilmingtonde.com/places/station-gallery",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"The university of delaware alumni invitational",
+     "Description":"The delaware contemporary announces our joint venture with the university of delaware presenting the department of art and design alumni invitational. This exhibition investigates the departments impact on the regional art and design landscape by featuring alumni artists from the midatlantic area. These artists work in a variety of media from serial comic imagery to sculptures, works on paper, and painting with the artwork ranging from dynamic furniture pieces and theatrical mechanical machines to representational portraits and graphic design. Through their inventive processes each artist strives to connect the viewer to a sensorybased experience about ideas, time, and place.",
+     "Link":"http://inwilmingtonde.com/events/university-delaware-alumni-invitational",
+     "Date":"2018-04-10T00:00:00-04:00",
+     "Location":"The Delaware Contemporary",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"The figure: the indicative and the allusive (group)",
+     "Description":"Opening reception: friday, april 6, 2018 | 5 9 pm during art loop withpanel discussion: 6 7 pm",
+     "Link":"http://inwilmingtonde.com/events/figure-indicative-and-allusive-group",
+     "Date":"2018-04-10T00:00:00-04:00",
+     "Location":"The Delaware Contemporary",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Zoo in you",
+     "Description":"Trillions of microbes make their homes inside our bodies, and we wouldn’t be able to survive without each other!",
+     "Link":"http://inwilmingtonde.com/events/zoo-you",
+     "Date":"2018-04-10T00:00:00-04:00",
+     "Location":"Delaware Museum of Natural History",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-museum-natural-history",
+     "Tags":[
+        "#allinfun (family focused)",
+        "#inbudget ($0$10)",
+        "educational (family)",
+        "museum exhibitions"
+     ]
+  },
+  {
+     "Name":"$6.25 movies",
+     "Description":"Every tuesday at penn cinema , all standard screenings are only $6.25, all day long!",
+     "Link":"http://inwilmingtonde.com/events/5-movies",
+     "Date":"2018-04-10T00:00:00-04:00",
+     "Location":"Penn Cinema Riverfront & IMAX Theatre",
+     "LocationLink":"http://inwilmingtonde.com/places/penn-cinema-riverfront-imax-theatre",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "film"
+     ]
+  },
+  {
+     "Name":"Eye shadow art exhibit",
+     "Description":"Eye shadow a bebe ross coker brainchild is an exploration of lived themes from a womans perspective. Subjects include nature, self development, feminism, motherhood, health and wellness, spirituality, friendship, community, social justice and more",
+     "Link":"http://inwilmingtonde.com/events/eye-shadow-art-exhibit",
+     "Date":"2018-04-10T00:00:00-04:00",
+     "Location":"Christina Cultural Arts Center",
+     "LocationLink":"http://inwilmingtonde.com/places/christina-cultural-arts-center",
+     "Tags":[
+        "Visual arts"
+     ]
+  },
+  {
+     "Name":"Masha ryskins reveries with the line",
+     "Description":"Ryskin uses unique materials such as tea bags, recycled fabric, or coffee to record fragments of life and experience in her installations, drawings, paintings, and prints. Art critic arthur whitman refers to ryskins work as experimental, that which crosses media and genre with an exploratory but disciplined sensibility. ...",
+     "Link":"http://inwilmingtonde.com/events/masha-ryskins-reveries-line",
+     "Date":"2018-04-10T00:00:00-04:00",
+     "Location":"The Delaware Contemporary",
+     "LocationLink":"http://inwilmingtonde.com/places/delaware-center-contemporary-arts",
+     "Tags":[
+        "#inbudget ($0$10)",
+        "visual arts"
+     ]
+  },
+  {
+     "Name":"Dining by design: nature displayed on the dinner table",
+     "Description":"From the 1600s to the present, dinnerware designs have been inspired by nature. Everything from painted butterflies and handmodeled flowers to molded seashells can be found on a fascinating range of dishes and plates. Whether it’s a recipe for barbecued fawn, fabulous tureens in the shapes of various animals, or instructions on how to fold a napkin so that it resembles a palm tree, prepare to be delighted by this unusual, often humorous exhibition that lets you explore a visual feast of flora and fauna adorning hundreds of dazzling ceramics and tablewares.",
+     "Link":"http://inwilmingtonde.com/events/dining-design-nature-displayed-dinner-table",
+     "Date":"2018-04-10T00:00:00-04:00",
+     "Location":"Winterthur Museum, Garden & Library",
+     "LocationLink":"http://inwilmingtonde.com/places/winterthur-museum-garden-library",
+     "Tags":[
+        "Educational (family)",
+        "museum exhibitions"
+     ]
+  },
+  {
+     "Name":"Follies: architectural whimsy in the garden",
+     "Description":"a needles eye in a pond, a greek temple in the garden, an ottoman tent sitting on a hill—these are just a few of the inspirations for our upcoming, firstever outdoor exhibition follies: architectural whimsy in the garden! the exhibition showcases whimsical and classic garden structures located throughout the winterthur estate...",
+     "Link":"http://inwilmingtonde.com/events/follies-architectural-whimsy-garden",
+     "Date":"2018-04-10T00:00:00-04:00",
+     "Location":"Winterthur Museum, Garden & Library",
+     "LocationLink":"http://inwilmingtonde.com/places/winterthur-museum-garden-library",
+     "Tags":[
+        "Garden",
+        "museum exhibitions"
+     ]
+  },
+  {
+     "Name":"Flight club",
+     "Description":"The chelsea tavern flight club in the underground. What is the club all about? we cant tell you...",
+     "Link":"http://inwilmingtonde.com/events/flight-club",
+     "Date":"2018-04-10T00:00:00-04:00",
+     "Location":"Chelsea Tavern",
+     "LocationLink":"http://inwilmingtonde.com/places/chelsea-tavern-0",
+     "Tags":[
+        "Food and drink",
+        "networking and social events"
      ]
   }
 ]
